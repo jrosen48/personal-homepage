@@ -14,6 +14,8 @@ website:
         text: Vita
       - href: https://makingdatasciencecount.com/
         text: Research Group
+      - href: https://joshuamrosenberg.substack.com/
+        text: Newsletter/Blog
 
 format:
   html:

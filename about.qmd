@@ -15,3 +15,5 @@ Professor Rosenberg teaches classes in educational data science and STEM educati
 ## Personal
 
 I'm a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family.
+
+![Sunset, visible from Cliff Tops (on Mt. LeConte in the Great Smoky Mountains National Park; June, 2024, with a gaggle of four-eight year-olds!)](images/IMG_3013.JPG){fig-alt="smokies sunset" fig-align="center" width="436"}
