@@ -410,8 +410,9 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India. <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=AJsN-F4ODtxdHVYZqP5zw-xRiucvAtoCjzD1deEPhKDy1amHSa589A3Ebpijkg5gUjYRVa7xdomLUVlHVpg5HO4t2K_X0pSW0xHdkSeilu0xmMnvSH1xkfk&user=nxVowRQAAAAJ#d=gs_md_cita-d&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3DnxVowRQAAAAJ%26authuser%3D2%26citation_for_view%3DnxVowRQAAAAJ%3AzYLM7Y9cAGgC%26tzom%3D300"><img src = "/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"></a>
 
-## Papers Published in Refereed Conference Proceedings (32)
+## Papers Published in Refereed Conference Proceedings (33)
 
+Demirci, S., Dogucu, M., Zieffler, A. & Rosenberg, J. (2023) The Learning Difficulties of Introductory Data Science Students In E. Jones (Ed) Proceedings of the International Association for Statistical Education Satellite Conference. Online.
 
 Lishinski, A., Bao, H., & Rosenberg, J. (2024, March). Self-efficacy Interventions for CS1. In *Proceedings of the 55th ACM Technical Symposium on Computer Science Education V.2* (p. 1935).
 
@@ -537,16 +538,6 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 
 ## Peer-Reviewed Conference Presentations (93)
 
-
-Garner, A. V., Bao, H., & Rosenberg, J. (2024, March). Collect, analyze interpret, oh my! 7th grade students' intended engagements in the OpenSciEd curriculum [Paper presentation]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
-
-
-Kubsch, M., Krist, K., Wulff, P., Rosenberg, J., Hall, K., Cox, E., Palaguachi, C., & Tschisgale, P. (2024, March). How to use AI and center people in science education research [Workshop]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
-
-
-Weatherton, M., Rosenberg, J., Schussler, E. E., & Lishinski, A. (2024, March). Exploring undergraduate students' momentary anxiety in introductory biology classes with intensive longitudinal methods [Paper presentation]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
-
-
 Supovitz, J. A., Diehl, D. K., DeBray, E. H., Rosenberg, J. M., Gonzalez Canche, M. S., Jabbar, H., Rubin, P. G., & Ferrare, J. J. (2024, April). Network analysis to inform policy: Testing a rapid-response approach [Roundtable presentation]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
 
 
@@ -558,6 +549,14 @@ Morina, F., Fütterer, T., Rosenberg, J. M., Carpenter, J. P., & Fischer, C. (20
 
 Robertson, J. R., Logan, M. W., Rosenberg, J. M., & Lombardi, D. (2024, April). Scientific thinking, reasoning, and knowledge construction across adolescence [Poster presentation]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
 
+
+Garner, A. V., Bao, H., & Rosenberg, J. (2024, March). Collect, analyze interpret, oh my! 7th grade students' intended engagements in the OpenSciEd curriculum [Paper presentation]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+
+Kubsch, M., Krist, K., Wulff, P., Rosenberg, J., Hall, K., Cox, E., Palaguachi, C., & Tschisgale, P. (2024, March). How to use AI and center people in science education research [Workshop]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+
+Weatherton, M., Rosenberg, J., Schussler, E. E., & Lishinski, A. (2024, March). Exploring undergraduate students' momentary anxiety in introductory biology classes with intensive longitudinal methods [Paper presentation]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
 
 A Bayesian Approach to Making Sense of Uncertainty in the Science Classroom  Uncertainty and Sensemaking in Science Classrooms, 1:00-2:30pm Wednesday, 19 April, 2023 (with Marcus Kubsch, Mine Dogucu, and E.J. Wagenmakers
 
@@ -797,6 +796,7 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 ## Other Presentations
 
+Rosenberg, J. M. (2024, April). Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media. Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p
 
 ^Gibbons, B., Bui, H., \+Mann, M., \+Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
 
