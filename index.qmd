@@ -4,6 +4,6 @@ title: "Joshua M. Rosenberg, Ph.D."
 
 Welcome! I am an Associate Professor of STEM Education at the University of Tennessee, Knoxville.
 
-![](images/rosenberg-headshot-small-3.jpeg){fig-alt="headshot of Joshua Rosenberg" fig-align="center" width="443"}
+![](images/rosenberg-headshot-small-3.jpeg){fig-alt="headshot of Joshua Rosenberg" fig-align="center" width="268"}
 
 The page for my [vita](vita.qmd) contains links to presentations and publications and my contact information.
