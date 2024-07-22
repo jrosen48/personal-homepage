@@ -8,7 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About and Contact
+      - href: vita.qmd
+        text: Vita
+      - href: https://makingdatasciencecount.com/
+        text: Research Group
 
 format:
   html:

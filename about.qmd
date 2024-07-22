@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+## Biography
+
 Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.
 
 He studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.
@@ -9,3 +11,7 @@ He studies the use of data in education, especially in STEM education contexts. 
 Professor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored *Data Science in Education Using R* (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.
 
 Professor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the *Journal of Statistics and Data Science Education* and an Editorial Review Board Member for the *Review of Educational Research*, *Journal of Research on Technology in Education*, and *Journal of Science Education and Technology*. He is a Committee Member for the *National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12*.
+
+## Personal
+
+I'm a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family.
