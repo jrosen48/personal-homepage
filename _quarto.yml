@@ -16,6 +16,8 @@ website:
         text: Research Group
       - href: https://joshuamrosenberg.substack.com/
         text: Newsletter/Blog
+      - href: photography.qmd
+        text: Photography
 
 format:
   html:

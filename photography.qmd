@@ -1,0 +1,19 @@
+---
+title: "Photography"
+---
+
+I am an *amateur* photographer, with an affinity for portrait and landscape photos. Here are some favorite photos. They have the [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+![Mt. Lemmon, near Tucson, AZ, March, 2022.](images/PXL_20220317_005446423.jpg)
+
+![White Oak Sinks in the Great Smoky Mountains National Park, April, 2023.](images/IMG_6323.JPG)
+
+![From a project with GoGo Boards (https://tltlab.org/gogo-board/) with TC Columbia, April, 2024.](images/IMG_6599.CR3.jpg)
+
+![Sunset, visible from Cliff Tops, on Mt. LeConte in the Great Smoky Mountains National Park; June, 2024.](images/IMG_3013.JPG){fig-alt="smokies sunset" fig-align="center" width="436"}
+
+![Mackinaw City area, July, 2024.](images/IMG_8868.jpeg){alt="Mackinaw City area, July, 2024."}
+
+![Mackinaw Bridge, July, 2024](images/IMG_8482 (1).jpeg)
+
+![](images/clipboard-2733449567.png){width="67" height="23"}
