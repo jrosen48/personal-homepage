@@ -8,18 +8,12 @@ Welcome! I am an Associate Professor of STEM Education at the University of Tenn
 
 **Links/Resources/Affiliations**
 
--   [Vita](vita.qmd) – links to presentations and publications and my contact information.
-
 -   [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
-
--   The [Making Data Science Count Research Group](https://makingdatasciencecount.com/)
 
 -   [College of Education, Health, and Human Sciences](https://cehhs.utk.edu/), University of Tennessee, Knoxville
 
 -   [College of Emerging and Collaborative Studies](https://cecs.utk.edu/), University of Tennessee, Knoxville
 
 -   [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
-
--   [Educated Guesses](https://joshuamrosenberg.substack.com/) (blog/newsletter)
 
 -   [Google Scholar profile](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&oi=ao)
