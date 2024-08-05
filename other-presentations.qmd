@@ -1,0 +1,257 @@
+---
+title: "Other Presentations"
+---
+
+## Peer-Reviewed Conference Presentations
+
+Supovitz, J. A., Diehl, D. K., DeBray, E. H., Rosenberg, J. M., Gonzalez Canche, M. S., Jabbar, H., Rubin, P. G., & Ferrare, J. J. (2024, April). Network analysis to inform policy: Testing a rapid-response approach \[Roundtable presentation\]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
+
+López, F., Darriet, C., Cervantes-Soon, C. G., Santibanez, L., Delcid, G. M., Serrano, E. M., Pritchard, C., Rosenberg, J. M., Frankenberg, E., & Asson, S. (2024, April). Enrollment patterns and online portrayals of dual language program \[Roundtable presentation\]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
+
+Morina, F., Fütterer, T., Rosenberg, J. M., Carpenter, J. P., & Fischer, C. (2024, April). Investigating associations of teacher characteristics with open educational resource usage in social media communities \[Roundtable presentation\]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
+
+Robertson, J. R., Logan, M. W., Rosenberg, J. M., & Lombardi, D. (2024, April). Scientific thinking, reasoning, and knowledge construction across adolescence \[Poster presentation\]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
+
+Garner, A. V., Bao, H., & Rosenberg, J. (2024, March). Collect, analyze interpret, oh my! 7th grade students' intended engagements in the OpenSciEd curriculum \[Paper presentation\]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+Kubsch, M., Krist, K., Wulff, P., Rosenberg, J., Hall, K., Cox, E., Palaguachi, C., & Tschisgale, P. (2024, March). How to use AI and center people in science education research \[Workshop\]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+Weatherton, M., Rosenberg, J., Schussler, E. E., & Lishinski, A. (2024, March). Exploring undergraduate students' momentary anxiety in introductory biology classes with intensive longitudinal methods \[Paper presentation\]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+A Bayesian Approach to Making Sense of Uncertainty in the Science Classroom Uncertainty and Sensemaking in Science Classrooms, 1:00-2:30pm Wednesday, 19 April, 2023 (with Marcus Kubsch, Mine Dogucu, and E.J. Wagenmakers
+
+A Curriculum Analysis of The Sources of Data and Data Engagements of Science Students, 10:30am-12:00pm Thursday, 20 April, 2023 (with Amanda Garner)
+
+Distributing Epistemic Functions and Tasks – Towards a Methodological Approach for Using ML in Science Education, 1:10-2:40pm Thursday, 20 April, 2023 (with Marcus Kubsch and Christina Krist)
+
+Make Graphs? A Survey of Teachers on How Their Students Analyze and Interpret Data Strengthening Science Teachers' NGSS-Aligned Instruction by Focusing on Students, 8:25-9:55am Wednesday, 19 April, 2023 (with Omiya Sultana, Aaron Reedy, Elizabeth Schultheis, and Melissa Kjelvik)
+
+Graduate Programs in Learning Analytics Workshop: Core Competencies, Curriculum, and Instruction ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2011190&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+
+"I Love Feeling Connected Still": Educator Preparation Program Alumni Engagement Through Social Media ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2011288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+
+Foundations of K-12 Data Science Education ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Session&selected_session_id=2009288&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+
+Teacher Collaboration and Professional Development on Twitter: An Epistemic Network Analysis ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2002459&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+
+Experience Sampling Method: Relationships Between Students' Emotional Responses, Self-Efficacy, and Interest in Programming ([link](https://convention2.allacademic.com/one/aera/aera23/index.php?cmd=Online+Program+View+Event&selected_box_id=375059&PHPSESSID=ioumtke7pucbovqhj69hl0moa8))
+
+Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (2022, April). *Professional learning and networking for preservice teachers on Twitter: A Social Network Analysis of #BantshireEd*. Presentation at the American Educational Research Association Annual Meeting.
+
+Lishinski, A., Rosenberg, J. M., +Sultana, O., +Mann, M., & Dunn, J. (2021, April). *A text messaging–based experience sampling method study of students' interest in introductory computer science*. Presentation at the American Educational Research Association Annual Meeting.
+
+Michela, E., Rosenberg, J. M., +Sultana, O., \^Burchfield, M., \^Thomas, T., & Kimmons, R. (2021, April). *“Life will eventually get back to normal”: School districts’ Twitter use in response to COVID-19*. Poster presentation at the American Educational Research Association Annual Meeting.
+
+Rosenberg, J. M., Carpenter, J., +Michela, E., +Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
+
+Rosenberg, J. M., \^Borchers, C., Gibbons, B., Dyer, E. D., Anderson, D. A., & Fischer, C. (2021, April). Don't worry, be happy: A sentment analysis of the #NGSSchat Twitter Symposium community. In M. Rehm. (Chair), *Social opportunity spaces: How social media can inform/shape educational policy processes*. Symposium conducted at the American Educational Research Association Annual Meeting.
+
++Lawson, M. A., Rosenberg, J. M., & Herrick, I. (2021, April). *Better together: Supporting and understanding preservice teacher (PST) sense-making about STEM*. Presentation at the American Educational Research Association Annual Meeting.
+
+Kellogg, S., Jiang, S., Rosenberg, J. M., & Moore, R. (2021, April). Learning Analytics in STEM Education Research (LASER) Institute. In F. J. Levine & G. L. Wimberly (Chairs), *Building capacity in STEM education research: A discussion with directors of the NSF institutes in research methods*. Symposium at the American Educational Research Association Annual Meeting.
+
+Schmidt, J.A., Schell, M.J., Beymer, P.N., Alberts, K.M., Phun, V., Lee, M. & Rosenberg, J.M. (2020, August). *Students’ momentary science engagement predicts end-of-course achievement*. Poster presented at the annual meetings of the American Psychological Association. Washington, DC. (Conference canceled)
+
+Rosenberg, J. M., Reid, J., Dyer, E., Koehler, M. J., Fischer, C., & McKenna, T. J. (2020, April). A new context for professional networks: Understanding the social structure of #NGSSChat through social network analysis. In K. A. Frank, K., Torphy, K., Daly, A., & Greenhow, C. (Chairs), *Educators meet the fifth estate: Social media in education.* Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Rosenberg, J. M., Carpenter, J. P., Romero-Hall, E., & Kessler, A. (2020, April). *Teacher educators' technology competencies and the importance of context*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Rosenberg, J. M., Beymer, P. N., Phun, V., Schmidt, J. A. (2020, April). Sources of variability for students' engagement in science: Findings from a cross-classified, multivariate modeling approach. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Rutherford, T., Rosenberg, J. M., & Staudt Willet, K. B. (2020, April). Which birds fill the branches of the AERA Twitter tree? Twitter networks around #AERA19. In P. N. Beymer, D. K. Benden, & M. L. Bernacki (Chairs), *Affordances and modeling of intensive data*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Jones, R. S., & Rosenberg, J. M. (2020, April). *Latent class modeling of whole-class discussions about data, statistics, and probability*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled).
+
+Rutherford, T., & Rosenberg, J. M. (2020, April). *Motivational correlates of choice to persist after failure*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled).
+
+Ranellucci, J. & Rosenberg, J. M. (2020, April). *Interest, engagement, and achievement in online high school science courses*. Paper presented at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled).
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (August, 2019). *Sources of variability in engagement: Exploring situational, personal, and classroom influences*. Poster presented at the annual meeting of the American Psychological Association, Chicago, IL.
+
+Greenhalgh, S. P., Huang, K., & Rosenberg, J. M. (2019, October). *Understanding gaming communities and exploring learning opportunities: A computational grounded theory approach*. Paper presented at the meeting of the Association for Educational Communications and Technology International Convention, Las Vegas, NV.
+
+Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths’ in-the-moment engagement predicts changes in youths’ interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA. <a href = "https://osf.io/tk3dn/ "><img src="/logos/osf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Beymer, P. N., Schell, M. J., Alberts, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Student engagement profiles in formal and informal STEM learning settings*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
+
+Schell, M. J., Beymer, P. N. Albert, K. M., Rosenberg, J. M., & Schmidt, J. A. (2019, April). *Predictors of momentary student engagement profiles in high school science classrooms*. Paper presented at the Annual Meeting of the American Educational Research Association, Toronto, Canada.
+
+Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
+
+Rosenberg, J. M., Reid, J., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, January). *The roles of the Twitter hashtag #NGSSchat in the context of science education reform efforts*. Paper presented at the Association for Science Teacher Education International Meeting, Savannah, GA. (*Note. This paper was nominated for the ASTE John C. Park National Technology Leadership Institute Fellowship*)
+
+Akcaoglu, M., Hodges, C. B., Rosenberg, J. M., & Hilpert, J. (2018, October). *Factors impacting middle school students' interest, efficacy, and utility value of programming*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
+
+Staudt Willet, K. B., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J. (2018, October). *Won’t you be my neighbor? How education stakeholders use hyperlinks to build information neighborhoods on Twitter*. Paper presented at the Association for Educational Communications and Technology International Convention 2018. Kansas City, MO.
+
+Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., Naftzger, N. J., & Shumow, L. (August, 2018). *Agency in summer STEM programs predicts interest and career aspirations*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.
+
+Schmidt, J. A., Beymer, P. N., Rosenberg, J. M., Naftzger, N. J., & Shumow, L. (August, 2018). *Examining the development of interest in summer STEM programs*. Poster presented at the annual meeting of the American Psychological Association, San Francisco, CA.
+
+Beymer, P. N., Rosenberg, J.M., & Schmidt, J. A. (2018, April). *Investigating the effects of interest and choice: An experience sampling approach*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Greenhalgh, S. P., Staudt Willet, B., Rosenberg, J. M., Akcaoglu, M., & Koehler, M. J. (2018, April). *Timing is everything: Comparing synchronous and asynchronous modes of Twitter for teacher professional learning*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2018, April). *How engagement during out-of-school time STEM programs predicts changes in motivation in STEM*. In J. M. Rosenberg (Chair), Data-intensive approaches to studying engagement in education: Exploring their current potential. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Rosenberg, J. M., Lee, Y., Robinson, K. A., Ranellucci, J., Roseth, C. J., & Linnenbrink-Garcia, L. (2018, April). *Patterns of engagement in a flipped undergraduate class: Antecedents and outcomes*. In L. Daniels & A. Frenzel (Chairs), New empirical insights on what energizes learners – A session on emotions and engagement. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Schmidt, J. A., Rosenberg, J.M., & Beymer, P. N. (2018, April). *Experiences, activities, and personal characteristics as predictors of interest and engagement in STEM-focused summer programs*. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Shwartz, Y., Bayer, I., Bielik, T., Kolonich, A., Eidelman, R., Shwartz, G., . . . Rosenberg, J. M. (2018, March). *Graduate student international collaboration for investigating science teachers’ professional learning*. Paper presented at the meeting of the National Association for Research in Science Teaching, Atlanta, GA.
+
+Yang, B. W., Blondel, D. V., Rosenberg, J. M., Sansone, A., Linennbrink-Garcia, L., Schwarz-Bloom, R. D. (2017, November). *The Rex virtual experiment platform: Design, implementation, and effects on situational interest*. Poster presented at the Annual Meeting of the Society for Neuroscience, Washington, DC.
+
+Greenhalgh, S. P., Staudt Willet, K. B., Rosenberg, J. M., & Koehler, M. J. (2017, November). *No accounting for theory? The case for an affinity space approach to educational hashtag research*. Paper presented at the Association for Educational Communications and Technology International Convention 2017, Jacksonville, FL.
+
+Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, November). *Hide and go tweet: Comparing methods for locating educational hashtag participants*. Paper presented at the Association for Educational Communications and Technology International Convention 2017, Jacksonville, FL.
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (2017, August). *Stability and variation in student engagement in science classes: A person-oriented approach*. Paper presented at the Annual Meeting of the American Psychological Association, Washington, DC.
+
+Beymer, P. N., Rosenberg, J. M., Schmidt, J. A., Naftzger, N., Sniegowski, S., Shumow, L. (August, 2017). *Examining relationships between choice, affect, and engagement in informal STEM programs*. Paper presented at the Annual Meeting of the American Psychological Association, Washington, DC.
+
+Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, April). *Combining data sets and methods to explore equity in teacher professional development. In D. G. Krutka (Chair), Data, big and small*. Symposium conducted at the meeting of the American Educational Research Association, San Antonio, TX.
+
+Schmidt, J. A., Rosenberg, J. M., & Beymer, P. N. (2017, April). *Momentary engagement profiles: A person-in-context approach to studying student engagement using experience sampling data*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
+
+Roseth, C. J., Linnenbrink-Garcia, L., Saltarelli, W., Lee, Y-K., Rosenberg, J. M. … & Beymer, P. N. (2017, April). *A design-based intervention on flipped instruction: Longitudinal effects on undergraduates’ engagement and achievement*. Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
+
+Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *Comparing the alignment between two observational measures of science teachers’ instructional practice*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, San Antonio, TX. <a href = "/pre-prints/mikeska-et-al-2017-narst.pdf"><img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, March). *Avoiding madness in our methods*. Paper presented at the Society for Information Technology and Teacher Education International Conference 2017, Austin, TX.
+
+Rosenberg, J. M., Akcaoglu, M., Staudt Willet, K. B., Greenhalgh, S. P., & Koehler, M. J. (2017, March). *A tale of two Twitters: Synchronous and asynchronous use of the same hashtag*. In P. Resta & S. Smith (Eds.), Proceedings of Society for Information Technology & Teacher Education International Conference 2017 (pp. 283-286). Waynesville, NC: Association for the Advancement of Computing in Education (AACE).
+
+Kessler, A., & Rosenberg, J. M. (2017, March). *Considering how teachers’ TPACK is leveraged during the mental engineering of instruction: A theory of action*. Paper presented at the Society for Information Technology and Teacher Education International Conference 2017, Austin, TX.
+
+Nyland, R., Greenhalgh, S. P., Rosenberg, J. M., Koehler, M. J., Veletsianos, G., & Kimmons, R. (2016, October). *Public data mining methods, ethics, & legalities*. Panel presented at the Association for Educational Communications and Technology International Convention 2016, Las Vegas, NV.
+
+Rosenberg, J. M., Greenhalgh, S. P., & Wolf, L. G. (2016, October). *Participating from near and far: Analyzing online graduate learning communities with social network analysis*. Paper presented at the Association for Educational Communications and Technology International Convention 2016, Las Vegas, NV.
+
+Rosenberg, J. M. (2016, October). *Having agency in conditions that are not equitable: An examination of Donors Choose data*. Paper presented at the Association for Educational Communications and Technology International Convention 2016, Las Vegas, NV.
+
+Phillips, M., Koehler, M. J., & Rosenberg, J. M. (2016, September). *Contextualising teachers’ TPACK development and enactment*. Paper presented at the Australian Council for Computers in Education, Brisbane, Australia.
+
+Rosenberg, J. M. & Schwarz, C. V. (2016, April). Examining fifth and sixth grade students’ epistemic considerations through an automated analysis of embedded assessment items. In B. Reiser (Chair), *Longitudinal studies of elementary and middle school students’ epistemic considerations through participation in scientific practice*. Related paper set presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD. <a href = "/slides/rosenberg-schwarz-2016-NARST.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (slides)
+
+Rosenberg, J. M. & Krist, C. (2016, April). *Characterizing students' epistemic considerations: An automated computational approach for embedded assessment responses*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD. <a href = "/slides/krist-rosenberg-2016-ICLS.pdf"> <img src="/logos/pdf.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> (slides)
+
+Ranellucci, J., Rosenberg, J. M., Klautke, H., Robinson, K. A., Saltarelli, W., Linnenbrink-Garcia, L., & Roseth, C. J. (2016, April). *Achievement goals, behavioral engagement, and achievement in a flipped undergraduate anatomy course*. Paper presented at the Annual Meeting of the American Educational Research Association, Washington, DC.
+
+Lee, Y.-K., Rosenberg, J. M., Robinson, K. A., Klautke, H., Seals, C., Saltarelli, W., Linnenbrink-Garcia, L., & Roseth, C. J. (2016, April). *Comparing motivation and achievement in a flipped and traditional classroom*. Paper presented at the Annual Meeting of the American Educational Research Association, Washington, DC.
+
+Wormington, S. V., Lee, Y.-K., Seals, C., Rosenberg, J. M., Saltarelli, W., Roseth, C. J., & Linnenbrink-Garcia, L. (2016, April). *Predicting profile permanence: When is motivation stable, why does it change, and what are the consequences?* Paper presented at the Annual Meeting of the American Educational Research Association, Washington, DC.
+
+Ranellucci, J., Robinson, K. A., Rosenberg, J. M., Saltarelli, W., Roseth, C. J., & Linnenbrink-Garcia, L. (2016, April). *Comparing emotions in-class and during online video lectures in a flipped classroom*. Paper presented at the Annual Meeting of the American Educational Research Association, Washington, DC.
+
+Rosenberg, J. M., Ranellucci, J., Lee, Y.-K., Robinson, K., Saltarelli, W., Linnenbrink-Garcia, L., & Roseth, C. J. (2016, March). *Patterns of engagement in a flipped undergraduate anatomy class and their relations to achievement*. Paper presented at the Society for Information Technology & Teacher Education Annual Conference, Savannah, GA.
+
+Rosenberg, J. M. (2015, November). *Examining what teachers and researchers discuss at science education conferences through a computational analysis of Twitter data*. Paper presented at the meeting of the Association for Educational Communications and Technology, Indianapolis, IN.
+
+Rosenberg, J. M., Akcaoglu, M., Hamilton, E., Greenhalgh, S. P., & Koehler, M. J. (2015, November). *Tweeting U.S.A.: An examination of State Educational Twitter Hashtags (SETHs)*. Paper presented at the meeting of the Association for Educational Communications and Technology, Indianapolis, IN.
+
+Greenhalgh, S. P., Rosenberg, J. M., Keenan, S., & Koehler, M. J. (2015, November). *An investigation of the use of digital portfolios for understanding educators’ technology knowledge*. Paper presented at the meeting of the Association for Educational Communications and Technology, Indianapolis, IN.
+
+Hamilton, E., Rosenberg, J. M., & Akcaoglu, M. (2015, November). *Examining the Substitution Augmentation Modification Redefinition (SAMR) Model for instructional design and technology integration*. Paper presented at the meeting of the Association for Educational Communications and Technology, Indianapolis, IN.
+
+Mehta, R., Rosenberg, J. M., Russo, T., Arnold, B., Marich, H., & Bell, J. (2015, November). *A survey of social media use and the effects of a social media initiative on graduate student engagement*. Paper presented at the meeting of the Association for Educational Communications and Technology, Indianapolis, IN.
+
+Rosenberg, J. M., & Koehler, M. J. (2015, April). Context and Technological Pedagogical Content Knowledge: A content analysis. In J. M. Rosenberg & M. J. Koehler (Chairs), *Addressing the complexity of teaching with technology: Context and Technological Pedagogical Content Knowledge*. Symposium conducted at the American Educational Research Association Annual Meeting, Chicago, IL.
+
+Hamilton, E., Rosenberg, J. M., & Akcaoglu, M. (2015, April). *The Substitution Augmentation Modification Redefinition (SAMR) framework for technology integration: Challenges to its use for guiding K-12 teacher’s pedagogy and practice*. Paper presented at the American Educational Research Association Annual Meeting, Chicago, IL.
+
+Rosenberg, J. M., Ervin, L., Harris, J., Greenhow, C., Kessler, A., & Tai, D. (2015, March). *How should educational technology researchers consider context? An interactive discussion on context and teaching and learning with technology*. Panel presented at the meeting of the Society for Information Technology and Teacher Education International Conference, Las Vegas, NV.
+
+Akcaoglu, M., & Rosenberg, J. M. (2015, March). *Best practices for designing synchronous and asynchronous online teaching for adult learners*. Poster presented at the meeting of the Society for Information Technology and Teacher Education, Las Vegas, NV.
+
+Rosenberg, J. M., Schwarz, C. V., & Lee, S. W.-Y., & Akcaoglu, M. (2015, April). A comparative longitudinal case study of the use of scientific modeling in the pedagogical practice of two fifth-grade science teachers. In A. Lo (Chair), *Leveraging the epistemic dimensions of scientific practice to support students' meaningful engagement in modeling*. Related paper set presented at the National Association for Research in Science Teaching Annual International Conference, Chicago, IL.
+
+Rosenberg, J. M., Schwarz, C.V., Akcaoglu, M., & Lee, S.W-Y. (2014, October). *Comparative longitudinal case studies of two middle school teachers’ use of scientific modeling*. Poster presented at the Advances in Educational Psychology Conference. Fairfax, VA.
+
+Lee, M., Schwarz, C. V., Ke, L., & Rosenberg, J. M. (2014, April). *Analyzing fifth-grade students’ engagement in scientific modeling: Changes in students’ epistemologies-in-practice over time*. Paper presented at the meeting of the National Association for Research in Science Teaching, Philadelphia, PA.
+
+Ke, L., Schwarz, C. V., Lee, M. & Rosenberg, J. M. (2014, April). *Examining elementary students’ attention to mechanism as they engage in scientific modeling across content areas*. Paper presented at the meeting of the National Association for Research in Science Teaching, Philadelphia, PA.
+
+Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (2014, March). Analyzing students’ portfolios for the development of TPACK. In J. Voogt (Chair), *Artifacts demonstrating teachers’ technology integration competencies*. Symposium presented at the meeting of the Society for Information Technology and Teacher Education, Jacksonville, FL.
+
+## Workshops
+
+Hu, A. D., Greenhalgh, S. P. Rosenberg, J. M., & Staudt-Willet, B. (March, 2023). *What ChatGPT is, how it is impacting universities, and how might we make "good" use of it.*. Panel presentation at the Michigan State University College of Education. Michigan State University, East Lansing, MI.
+
+Parr, E. D., Dyer, E. B., Rosenberg, J. M., D'Angelo, C., Lishinski, A., & Krist, C. (2021, June). Leveraging the power of visualization in the analysis of classroom audiovisual data https://tca2.education.illinois.edu/isls-2021/isls-2021-workshop
+
+Rosenberg, J. M. (2021, June). *Data Visualization and Text Analysis Using R*. Workshop carried out at Southern Wesleyan University, https://github.com/jrosen48/data-viz-and-qual-analysis-workshop
+
+Rosenberg, J. M. (2021, May). *An Introduction to Machine Learning Using R for Science Education Research*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. https://github.com/jrosen48/ML-in-Science-Education-Workshop-Materials
+
+Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching.
+
+Dyer, E. B., D'Angelo, D., Bosch, N., Krist, C., & Rosenberg, J. M. (2020, June). *Analyzing learning with speech analytics and computer vision methods: Technologies, principles, and ethics*. Workshop carried out at the International Conference of the Learning Sciences, Nashville, TN.
+
+Staudt Willet, K. B., Rosenberg, J. M., & Greenhalgh, S. P. (2020, March). *R U ready 4 R? Introduction to Analyzing Educational Internet Data Using R*. Workshop carried out for the *Students, Social Media, and Schools Research Group* at Florida State University, Talahassee, FL. <a href = "https://github.com/bretsw/fsu-workshop/"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Rosenberg, J. M. (2020, January). *An introduction to using R for data science (zero prerequisites required!)*. Workshop carried out for the KnoxData group, Knoxville, TN.
+
+Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *Online data and open source tools: Analyzing educational internet data Using R*. Workshop carried out at the Association for Educational Communications and Technology, Las Vegas, NV. <a href = "https://github.com/bretsw/aect19-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> YouTube recording: https://www.youtube.com/watch?v=1YY2FoCFIm4
+
+Rosenberg, J. M. (2019, May). *Won’t you be my neighboR? An introduction to R for data science in education*. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Anderson, D. J., and Rosenberg, J. M. (2019, April). *Transparent and reproducible research with R*. Workshop carried out at the Annual Meeting of the American Educational Research Association, Toronto, Canada. <a href = "https://github.com/ResearchTransparency/rr_aera19 "><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
+
+Rosenberg, J. M. (2017, April). *Introduction to R for Data Analysis*. Presentation at the School of Criminal Justice, Michigan State University.
+
+Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statistical analysis in education*. Georgia Southern University College of Education, Statesboro, GA.
+
+## Outreach and Community Engagement
+
+Rosenberg, J. M., & Narvaiz, S. (2022, April). *What is data science and what do data scientists do? A presentation at L&N STEM Academy* (L&N STEM Career Connections presentation and presentation to two AP Computer Science Principles courses). https://tinyurl.com/stem-data-sci
+
+Rosenberg, J. M. (2021, November). *Analyzing and interpreting scientific data with DataClassroom*. Knox County Schools District Learning Day. https://joshuamrosenberg.com/kcs-dld-2021-11-02-analyzing-scientific-data.pdf
+
+Rosenberg, J. M. (2021, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. https://github.com/r4ds/bookclub-dsieur
+
+Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
+
+Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing
+
+Trout-Fryxell, B., & Rosenberg, J. M. (2020, February). *Authentic science in the classroom with MEGA:BITESS*. Presentation at the Knox County Schools Science Department District Learning Day, Knoxville, TN.
+
+Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A partnership between Michigan Virtual Schools and Michigan State University*. Workshop at Michigan Virtual University, East Lansing, MI.
+
+Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Note.* I was the moderator for this panel discussion.
+
+Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/
+
+## Other Presentations
+
+Rosenberg, J. M. (2024, April). Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media. Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p
+
+\^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
+
+Rosenberg, J. M., +Sultana, O., +Mann, M., +Carter, B., +Kenner, N., & +Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
+
+Rosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). *If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
+
+Dyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D'Angelo, C. (September, 2020). *Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
+
+Anderson, D., Rosenberg, J. M., Sáez, L., & Seeley, J. R. (September, 2020). *Using extreme gradient boosting to estimate community effects on school readiness*. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.
+
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). *Expanding R into education*. Presentation at the useR conference, St. Louis, MO. (conference canceled)
+
+Rosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). *The konfound R package and Shiny app for robustness analysis*. Presentation at the useR conference, St. Louis, MO.
+
+Rosenberg, J. M.,& Lishinski, A. (January, 2020). *Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science*. Presentation at the 14th Annual Tennessee STEM Education Research Conference, Cookeville, TN.
+
+Rosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., +Longnecker, J., +Mann. M., & Sadovnik, A. (January, 2020). *A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee.* Presentation at the 14th Annual Tennessee STEM Education Research Conference, Cookeville, TN.
+
+Camponovo, M., +Lawson, M. A., & Rosenberg, M. J. (July, 2019). *Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit \@ ESRI UC*. San Diego, CA.
+
+Jones, R. S., & Rosenberg, J. M. (February, 2019). *Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference*, Murfreesboro, TN.
+
++Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). *Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers*. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN.
