@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About and Contact
-      - href: vita.qmd
+      - href: vita.html
         text: Vita
       - href: https://makingdatasciencecount.com/
         text: Research Group
@@ -24,6 +24,8 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+  pdf:
+    pdf-engine: xelatex
 
 editor: visual
 
