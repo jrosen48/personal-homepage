@@ -1,5 +1,6 @@
 ---
 title: "Home"
+format-links: false
 ---
 
 Welcome! I am an Associate Professor of STEM Education at the University of Tennessee, Knoxville.
