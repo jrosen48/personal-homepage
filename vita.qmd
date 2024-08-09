@@ -153,7 +153,7 @@ Dogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The design and implementation 
 
 Rosenberg, J., & Jones, R. S. (2024). Data science learning in grades K–12: Synthesizing research across divides. *Harvard Data Science Review*, *6*(3), 1-30. <https://doi.org/10.1162/99608f92.b1233596>
 
-Fütterer, T., Omarchevska, Y., Rosenberg, J. M., & Fischer, C. (2024). How do teachers collaborate in informal professional learning activities? An Epistemic Network Analysis. *Journal of Science Education and Technology*, 1-15. \<<https://link.springer.com/article/10.1007/s10956-024-10122-y%3E>
+Fütterer, T., Omarchevska, Y., Rosenberg, J. M., & Fischer, C. (2024). How do teachers collaborate in informal professional learning activities? An Epistemic Network Analysis. *Journal of Science Education and Technology*, 1-15. <https://link.springer.com/article/10.1007/s10956-024-10122-y%3E>
 
 +Narvaiz, S., Lin, Q., Rosenberg, J. M., Frank, K. A., Maroulis, S. J., Wang, W., & Xu, R. (2024). konfound: An R Sensitivity Analysis Package to Quantify the Robustness of Causal Inferences. *Journal of Open Source Software, 9*(95), 1-6. <https://joss.theoj.org/papers/10.21105/joss.05779.pdf>
 
@@ -251,7 +251,7 @@ Schmidt, J. A., Rosenberg, J. M., & Beymer, P. (2018). A person-in-context appro
 
 Rosenberg, J.M., Greenhalgh, S.P., Graves Wolf, L. & Koehler, M.J. (2017). Strategies, use, and impact of social media for supporting teacher community within professional development: The case of one urban STEM program. *Journal of Computers in Mathematics and Science Teaching, 36*(3), 255-267. <https://www.learntechlib.org/primary/p/180387/>
 
-Koehler, M. J., Greenhalgh, S. P., Rosenberg, M. J., & Keenan, S. (2017). What the tech is going on with digital teaching portfolios? Using the TPACK framework to analyze teachers’ technological understanding. *Journal of Technology and Teacher Education, 25*, 31-59. <http://www.learntechlib.org/p/173346/> "\>
+Koehler, M. J., Greenhalgh, S. P., Rosenberg, M. J., & Keenan, S. (2017). What the tech is going on with digital teaching portfolios? Using the TPACK framework to analyze teachers’ technological understanding. *Journal of Technology and Teacher Education, 25*, 31-59. <http://www.learntechlib.org/p/173346/>
 
 Rosenberg, J. M., Greenhalgh, S. P., Koehler, M. J., Hamilton, E., & Akcaoglu, M. (2016). An investigation of State Educational Twitter Hashtags (SETHs) as affinity spaces. *E-Learning and Digital Media, 13*(1-2), 24-44. <http://dx.doi.org/10.1177/2042753016672351>
 
@@ -319,7 +319,7 @@ Herring, M., Koehler, M. J., Mishra, P., Rosenberg, J. M., & Teske, J. (2016). I
 
 Keenan, S., Rosenberg, J. M., Greenhalgh, S. P. & Koehler, M. J. (2016). Examining teachers’ technology use through digital portfolios. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education 2016* (pp. 53-60). Chesapeake, VA: Association for the Advancement of Computing in Education.
 
-Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education. "\><img src="/logos/google-scholar-1.png" style="width: 17.5px; height: 17.5px; margin-left: 1px;"/></a>
+Phillips, M., Koehler, M. J. & Rosenberg, J. M. (2016). Considering context: Teachers' TPACK development and enactment. In L. Liu & D. C. Gibson (Eds.), *Research highlights in technology and teacher education* (pp. 197-204). Chesapeake, VA: Association for the Advancement of Computing in Education.
 
 Rosenberg, J. M., & Koehler, M. J. (2015). *Context and teaching with technology in the digital age*. In M.L. Niess & H. Gillow-Wiles (Eds.), Handbook of research on teacher education in the digital age (pp. 440-465). Hershey, PA: IGI Global.
 
@@ -389,7 +389,7 @@ Rosenberg, J. M., Koehler, M. J., Akcaoglu, M., Greenhalgh, S. P. & Hamilton, E.
 
 Greenhalgh, S. P., Rosenberg, J. M. & Wolf, L. G. (2016). For every tweet there is a purpose: Twitter within (and beyond) an online graduate program. In *Proceedings of Society for Information Technology & Teacher Education International Conference 2016* (pp. 2044-2049). Chesapeake, VA: Association for the Advancement of Computing in Education (AACE). Retrieved from <http://www.editlib.org/p/171972>
 
-Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. <http://www.isls.org/icls2014/Proceedings.html> "\>
+Schwarz, C. V., Ke, L., Lee, M, & Rosenberg, J. M. (2014). Developing mechanistic explanations of phenomena: Case studies of two fifth grade students’ epistemologies in practice over time. In J. L. Polman, E. A. Kyza, K. O’Neill, I. Tabak, W. R. Penuel, A. S. Jurow, . . . L. D’Amico (Eds.), *Learning and becoming in practice: The international conference of the learning sciences (ICLS) 2014* (Vol. 1, pp. 182-189). Boulder, CO: ISLS. <http://www.isls.org/icls2014/Proceedings.html>
 
 Rosenberg, J. M., & Koehler, M. (2014). Context and Technological Pedagogical Content Knowledge: A content analysis. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 2412-2417). Chesapeake, VA: AACE. Retrieved from <http://www.editlib.org/p/131183>
 
