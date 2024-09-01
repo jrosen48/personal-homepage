@@ -10,7 +10,7 @@ Department of Theory and Practice in Teacher Education\
 The University of Tennessee, Knoxville\
 513 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\
 865-974-5973 \| [jrosenb8\@utk.edu](jrosenb@utk.edu)\
-Google Scholar: [https://scholar.google.com/citations?user=nxVowRQAAAAJ](https://scholar.google.com/citations?user=nxVowRQAAAAJ)
+Google Scholar: <https://scholar.google.com/citations?user=nxVowRQAAAAJ>
 
 # Research Interests
 
@@ -167,11 +167,11 @@ Ranellucci, J., & Rosenberg, J. M. (2023). Students’ interest, engagement, and
 
 Staudt Willet, K.B., Rosenberg, J.M. (2023). The design and effects of educational data science workshops for early career researchers. *Journal Formative Design in Learning*. <https://doi.org/10.1007/s41686-023-00083-7>
 
-Hodge, E. M., Rosenberg, J. M., & López, F. A. (2023). “We Don’t Teach Critical Race Theory Here”: A Sentiment Analysis of K-12 School and District Social Media Statements. *Peabody Journal of Education*, 1-15. <https://www.tandfonline.com/doi/full/10.1080/0161956X.2023.2261318>
+Hodge, E. M., Rosenberg, J. M., & López, F. A. (2023). “We Don’t Teach Critical Race Theory Here”: A sentiment analysis of K-12 school and district social media Statements. *Peabody Journal of Education*, 1-15. <https://www.tandfonline.com/doi/full/10.1080/0161956X.2023.2261318>
 
-Garner, A. V., & Rosenberg, J. (2023). Utilizing iNaturalist to Support Place-Based Learning and Data Analysis. *Science Scope, 46*(7), 54-60. <https://www.nsta.org/science-scope/science-scope-fall-2023/using-inaturalist-support-place-based-learning-and-data>
+Garner, A. V., & Rosenberg, J. (2023). Utilizing iNaturalist to support place-based learning and data analysis. *Science Scope, 46*(7), 54-60. <https://www.nsta.org/science-scope/science-scope-fall-2023/using-inaturalist-support-place-based-learning-and-data>
 
-Rosenberg, J. M. (2023). Open and Useful? Exploring the Science Education Resources on OER Commons. *Contemporary Issues in Technology and Teacher Education, 23*(3), 490-507. <https://citejournal.org/wp-content/uploads/2023/07/v23i3Science2.pdf>
+Rosenberg, J. M. (2023). Open and useful? Exploring the science education resources on OER Commons. *Contemporary Issues in Technology and Teacher Education, 23*(3), 490-507. <https://citejournal.org/wp-content/uploads/2023/07/v23i3Science2.pdf>
 
 Borchers, C., Rosenberg, J. M., & Swartzentruber, R. M. (2023). Facebook post data: a primer for educational research. *Educational Technology Research and Development*, 1-20. <https://link.springer.com/article/10.1007/s11423-023-10269-2>
 
