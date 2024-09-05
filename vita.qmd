@@ -72,6 +72,8 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 2023-2024, Expanding Horizons Mid-Career Faculty Development Program, University of Tennessee, Knoxville
 
+2023, GDCP (German Society for the Teaching of Chemistry and Physics) Best Paper Award
+
 2023, NSF CAREER awardee
 
 2023, Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher (Maryrose Weatherton)
@@ -183,7 +185,11 @@ Rosenberg, J., \^Borchers, C., Stegenga, S. M., \^Burchfield, M. A., Anderson, D
 
 Rosenberg, J. M., \^Borchers, C., \^Burchfield, M. A., Anderson, D., Stegenga, S. M., & Fischer, C. (2022). Posts about students on Facebook: A data ethics perspective. *Educational Researcher, 51*(8), 547-550. <https://journals.sagepub.com/doi/full/10.3102/0013189X221120538>
 
-Kubsch, M., Krist, C., & Rosenberg, J. M. (2023). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. <https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803.> *Note.* All authors contributed equally. This paper received the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching.
+Kubsch, M., Krist, C., & Rosenberg, J. M. (2023). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. <https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803.> *Note.* All authors contributed equally.
+
+-   Recipient of the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching
+
+-   Recipient of the 2023 GDCP (German Society for the Teaching of Chemistry and Physics) Best Paper Award
 
 Rosenberg, J. M., Kubsch, M., Wagenmakers, E.-J., & Dogucu, M. (2022). Making sense of uncertainty in the science classroom: A Bayesian approach. *Science & Education*, 31, 1239–1262. <https://link.springer.com/article/10.1007/s11191-022-00341-3>
 
