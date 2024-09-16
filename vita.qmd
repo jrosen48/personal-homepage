@@ -102,9 +102,11 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 ## Grants
 
-**\$7,356,845; \$6,248,084 as Principal Investigator \[PI\] or Co-PI**
+*\$7,762,157 as Principal Investigator (PI) or Co-PI*
 
-## PI, Co-PI, and Co-I
+## PI or Co-PI
+
+2024-2028, PI, *Collaborative Research: Learning How to Help Middle Grades Science Teachers Integrate Data Exploration and Sensemaking in the Classroom* (\$1,514,073*;* with lead PI Jonathan Griffith, CU, Boulder; UTK sub-contract: \$99,296). NSF. NSF Grant No. 2405912.
 
 2024-2025, Investigator, *AI for Education: Developing Curricula, Planning for External Funding, and Connecting Faculty* (\$21,000; with *PI* Louis Rocconi), AI Tennessee Initiative, University of Tennessee, Knoxville.
 
@@ -120,8 +122,6 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 2021-2022, PI, *Not only for scientists and engineers: Advancing Bayesian methods for pre-collegiate learners* (\$1,991), Supplemental funding to NSF Grant No. [193770](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false) (Dear Colleague Letter: Research Collaboration Opportunity in Europe for NSF Awardees). National Science Foundation.
 
-2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* (\$1,208,563), National Institutes of Health.
-
 2020-2021, Co-PI, *Propelling teacher professional development through FAAST feedback on student epistemic views* (\$15,000; *PI*: Christina Krist, University of Illinois Urbana-Champaign). Technology Innovations in Educational Research and Design Pilot Projects Program.
 
 2019-2021, PI, *Understanding the development of interest in computer science: An experience sampling approach* (\$346,688). National Science Foundation \[NSF\]. <http://picsul.utk.edu/> (NSF Grant No. [1937700](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1937700&HistoricalAwards=false))
@@ -134,7 +134,9 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 2018-2020, Co-PI, *Exploring how beginning elementary mathematics teachers seek out resources through social media* (\$8,820; *PI*: Stephen Aguilar). Herman & Rasiej K-5 Mathematics Initiative, University of Southern California.
 
-## Senior Personnel
+## Senior Personnel/Investigator
+
+2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* (\$1,208,563), National Institutes of Health.
 
 2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* (\$933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: \$62,870. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
@@ -151,13 +153,15 @@ Akcaoglu, M., Rosenberg, J. M., Lishinski, A., Narvaiz, S., & Bulut, O. (under c
 
 Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. <http://www.datascienceineducation.com/>
 
-## Articles Published in Refereed Journals (57)
+## Articles Published in Refereed Journals (58)
 
 Pritchard, C., Borchers, C., Rosenberg, J. M., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). *Computers and Education Open, 7*, 1-10. <https://www.sciencedirect.com/science/article/pii/S2666557324000375>
 
 Dogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The design and implementation of a Bayesian data analysis lesson for pre-service mathematics and science teachers. *Journal of Statistics and Data Science Education*, 1-21. <https://doi.org/10.1080/26939169.2024.2362148>
 
 Rosenberg, J., & Jones, R. S. (2024). Data science learning in grades K–12: Synthesizing research across divides. *Harvard Data Science Review*, *6*(3), 1-30. <https://doi.org/10.1162/99608f92.b1233596>
+
+Burchfield, M. A., Rosenberg, J. M., & Stegenga, S. M. (2024). Informed or outdated consent? An investigation into the media release policies of school districts in the United States. *Journal of Research on Technology in Education,* 1-18. <https://doi.org/10.1080/15391523.2024.2313614>
 
 Fütterer, T., Omarchevska, Y., Rosenberg, J. M., & Fischer, C. (2024). How do teachers collaborate in informal professional learning activities? An Epistemic Network Analysis. *Journal of Science Education and Technology*, 1-15. <https://link.springer.com/article/10.1007/s10956-024-10122-y%3E>
 
@@ -574,20 +578,20 @@ Advisor for Doctoral students:
 -   2020-: Omiya Sultana
 -   2023-: Wei Wang
 -   2023-: Hanhui Bao
--   2021-: Amanda Garner (graduated 2024)
--   2019-2021: Jennifer Longnecker (graduated 2021)
+-   2021-2024: Amanda Garner
+-   2019-2021: Jennifer Longnecker
 
 Committee Member for Doctoral students:
 
 -   2019-2023: Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)
 -   2022-: Amanda Zeller (TPTE)
--   2020-2022: Anthony Schmidt (Department of Educational Psychology & Counseling, UTK)
--   2021-: Donna Wortham (Educational Leadership & Policy Studies, UTK)
--   2020-2023: Sarah Narvaiz (Department of Educational Psychology & Counseling, UTK)
--   2021-2023: Anna Sintsova Banks (Department of Educational Psychology & Counseling, UTK)
--   2021-: John Mooneyham (TPTE)
--   2019-2021: Matthew Hensley (graduated 2021)
--   2018-2020: Shande King (graduated 2020)
+-   2020-2022: Anthony Schmidt (Department of Educational Psychology & Counseling)
+-   2021-: Donna Wortham (Educational Leadership & Policy Studies)
+-   2020-2023: Sarah Narvaiz (Department of Educational Psychology & Counseling)
+-   2021-2023: Anna Sintsova Banks (Department of Educational Psychology & Counseling)
+-   2021-2024: John Mooneyham
+-   2019-2021: Matthew Hensley
+-   2018-2020: Shande King
 
 # Miscellaneous
 
