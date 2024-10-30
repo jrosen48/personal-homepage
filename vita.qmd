@@ -56,7 +56,7 @@ C.D. Owen High School, Swannanoa, NC
 
 ## Additional Professional Affiliations
 
-Faculty Fellow, College of Emerging and Collaborative Studies, University of Tennessee, Knoxville
+Faculty Fellow (Data Science), College of Emerging and Collaborative Studies, University of Tennessee, Knoxville
 
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences, University of Tennessee, Knoxville
 
@@ -415,7 +415,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 
 # Presentations
 
-*Information on all presentations are provided [here](https://joshuamrosenberg.com/other-presentations.html); below is a selection of presentations.*
+*Information on all presentations are provided [here](https://joshuamrosenberg.com/other-presentations.html); I often present at AERA and NARST, among others; below is a selection of presentations.*
 
 ## Invited Talks
 
@@ -455,7 +455,7 @@ D'Angelo, C., & Rosenberg, J. M. (2021, April). *Analyzing Education Data with O
 
 Instructor at the University of Tennessee, Knoxville:
 
--   *Foundations of Educational Data Science I* (TPTE 680, M.A. and Ph.D. class)
+-   *Foundations of Educational Data Science I* (STEM 680, M.A. and Ph.D. class)
 
 -   *Foundations of Educational Data Science II* (STEM 685, M.A. and Ph.D. class)
 
@@ -489,7 +489,9 @@ Associate Editor, *Journal of Statistics and Data Science Education*, 2023 - Pre
 
 Editorial Review Board Member, *Review of Educational Research*, 2022 - Present
 
-Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - Present
+Editorial Review Board Member, *Journal of Science Education and Technology*, 2023 - Present
+
+Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - 2024
 
 Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - 2022
 
@@ -501,6 +503,8 @@ Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ### Service to the Profession
 
+Committee Member, Developing Competencies for the Future of Data and Computing: The Role of K-12, National Academies of Sciences, Engineering, and Medicine, 2024-2025
+
 External Reviewer, Application for Promotion to Associate Professor, Ohio State University, 2024
 
 External Reviewer, Application for Promotion to Associate Professor, Texas Tech, 2024
@@ -510,6 +514,8 @@ External Reviewer, Application for Promotion to Professor, Elon University, 2021
 Member, OpenSciEd Research Agenda (Assessment) working group, 2021
 
 ### Review Panels
+
+Panelist, CAREER program, National Science Foundation, *n.d.*
 
 Ad-Hoc Reviewer, Building Capacity in STEM Education Research (one proposal), National Science Foundation, *n.d.*
 
@@ -565,7 +571,11 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### Departmental Service
 
+2022-Present, Program Coordinator, Educational Data Science, TPTE, UTK
+
 2021-Present, Institutional Review Board Departmental Representative (Quantitative), TPTE, UTK
+
+2022-Present, Mentor (Multiple faculty members)
 
 ### Program Service and Service on Student Committees
 
