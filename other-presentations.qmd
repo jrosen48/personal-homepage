@@ -230,7 +230,9 @@ Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-c
 
 ## Other Presentations
 
-Rosenberg, J. M. (2024, April). Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media. Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p
+Rosenberg, J. M. (2024, November). *Computational Audio Data Analytics to Explore STEM Classroom Teaching and Learning.* Learning Break Presentation. College of Educationa, Health, and Human Sciences, UTK.
+
+Rosenberg, J. M. (2024, April). *Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media.* Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p
 
 \^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
 
