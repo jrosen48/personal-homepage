@@ -63,6 +63,9 @@ Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences, Univ
 
 Faculty Fellow, Education Research & Opportunity Center, University of Tennessee, Knoxville
 
+Affiliated Researcher, [Center for the Dynamics of Cultural Complexity (DySoC)
+](https://artsci.utk.edu/research-and-creative-activity/research-centers-and-institutes/dysoc/#people), University of Tennessee, Knoxville
+
 Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), University of Washington
 
 # Fellowships and Awards
@@ -103,11 +106,11 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 ## Grants
 
-*\$7,762,157 as Principal Investigator (PI) or Co-PI*
+*\$9,245,867 as Principal Investigator (PI) or Co-PI*
 
 ## PI or Co-PI
 
-2024-2028, PI, *Collaborative Research: Learning How to Help Middle Grades Science Teachers Integrate Data Exploration and Sensemaking in the Classroom* (\$1,514,073*;* with lead PI Jonathan Griffith, CU, Boulder; UTK sub-contract: \$99,296). NSF. NSF Grant No. 2405912.
+2024-2028, PI, *Collaborative Research: Learning How to Help Middle Grades Science Teachers Integrate Data Exploration and Sensemaking in the Classroom* (\$2,997,783.00*;* with lead PI Jonathan Griffith, CU, Boulder; UTK sub-contract: \$99,296). NSF. NSF Grant No. 2405912.
 
 2024-2025, Investigator, *AI for Education: Developing Curricula, Planning for External Funding, and Connecting Faculty* (\$21,000; with *PI* Louis Rocconi), AI Tennessee Initiative, University of Tennessee, Knoxville.
 
@@ -155,6 +158,8 @@ Akcaoglu, M., Rosenberg, J. M., Lishinski, A., Narvaiz, S., & Bulut, O. (under c
 Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. <http://www.datascienceineducation.com/>
 
 ## Articles Published in Refereed Journals (58)
+
+Beymer, P. N., Schell, M. J., Alberts, K. M., Phun, V., Rosenberg, J. M., & Schmidt, J. A. (advance online publication). Students' situational engagement profiles in formal and informal science learning environments. Journal of Research in Science Teaching. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.22017
 
 Pritchard, C., Borchers, C., Rosenberg, J. M., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). *Computers and Education Open, 7*, 1-10. <https://www.sciencedirect.com/science/article/pii/S2666557324000375>
 
