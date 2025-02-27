@@ -9,13 +9,8 @@ Associate Professor, STEM Education\
 Department of Theory and Practice in Teacher Education\
 The University of Tennessee, Knoxville\
 513 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\
-jrosenb8@utk.edu\
-865-974-5973\
-Google Scholar: <https://scholar.google.com/citations?user=nxVowRQAAAAJ>
-
-# Research Interests
-
-Educational data science, science education, educational technology, computational social science
+jrosenb8\@utk.edu\
+865-974-5973
 
 # Education
 
@@ -63,8 +58,7 @@ Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences, Univ
 
 Faculty Fellow, Education Research & Opportunity Center, University of Tennessee, Knoxville
 
-Affiliated Researcher, [Center for the Dynamics of Cultural Complexity (DySoC)
-](https://artsci.utk.edu/research-and-creative-activity/research-centers-and-institutes/dysoc/#people), University of Tennessee, Knoxville
+Affiliated Researcher, [Center for the Dynamics of Cultural Complexity (DySoC)](https://artsci.utk.edu/research-and-creative-activity/research-centers-and-institutes/dysoc/#people), University of Tennessee, Knoxville
 
 Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), University of Washington
 
@@ -140,28 +134,74 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 ## Senior Personnel/Investigator
 
+2025-2025, Senior Personnel, Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations, NSF grant [no. 2321129](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321129&HistoricalAwards=false), University of Pennysylvania.
+
+2025-2025, Senior Personnel, Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations, JP Morgan Chase. <https://cehhs.utk.edu/ero/completions-in-green-sector-occupations/>
+
 2020-2025, Co-I, *Imagining possibilities in post-secondary education and STEMM in rural Appalachia* (\$1,208,563), National Institutes of Health.
 
 2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* (\$933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: \$62,870. National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* (\$149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) <https://www.megabitess.org/>
 
+## Consultant and Advisory Board Member Roles
+
+2024-2026, Advisory Board Member, *A Multipronged Approach to Small-Teaching Interventions for Reducing Academic Procrastination: A Randomized Control Study via Terracotta,* NCER grant no. R305N240063. Miyake, A. (PI), Bernacki, M., Kane, M., & Snyder, H. (Co-PIs).
+
+2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
+
+2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
+
+2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
+
+2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
+
+2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
+
+2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), <https://www.stat.uci.edu/bayes-bats/>
+
+2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false>
+
+2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false>
+
+2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false>
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital Promise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+
+2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
+
 # Publications
 
 \+ Denotes a collaboration with a mentee who is a graduate student\
 \^ Denotes a collaboration with a mentee who is an undergraduate student
 
-## Books
+## Books (3)
 
 Akcaoglu, M., Rosenberg, J. M., Lishinski, A., Narvaiz, S., & Bulut, O. (under contract). *Computational social science cookbook with R: A practical guide* (a volume in the *Chapman & Hall/CRC Big Data Series*). CRC Press.
 
+Rosenberg, K., & Rosenberg, J.M. (in press). Little kids, big adventures: A guide to family hikes around Knoxville. UT Press. <https://familyhikesaroundknox.com/>
+
 Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. <http://www.datascienceineducation.com/>
 
-## Articles Published in Refereed Journals (58)
+## Articles Under Review
 
-Beymer, P. N., Schell, M. J., Alberts, K. M., Phun, V., Rosenberg, J. M., & Schmidt, J. A. (advance online publication). Students' situational engagement profiles in formal and informal science learning environments. Journal of Research in Science Teaching. https://onlinelibrary.wiley.com/doi/full/10.1002/tea.22017
+Borchers, C., Wang, Y., Hodge, E., & Rosenberg, J. M. (accept pending minor revisions). Decoding sentiment signals: Lessons from the political reception of the Common Core and Next Generation Science Standards. *Educational Researcher*.
 
-Pritchard, C., Borchers, C., Rosenberg, J. M., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). *Computers and Education Open, 7*, 1-10. <https://www.sciencedirect.com/science/article/pii/S2666557324000375>
+Rosenberg, J. M., Romero-Hall, E., Veletsianos, G., & Allen, E. (revise and resubmit). The accessibility of published educational research. *Teachers College Record.*
+
+Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Asson, S., Delcid, G., Serrano, E., & Rosenberg, J.M (revise and resubmit). Enrollment patterns and online portrayals of dual language programs in California: Obstacles and promising efforts for equitable access. *American Educational Research Journal.*
+
+Staudt-Willet, B., Na. H., & Rosenberg, J. M. (under review). Understanding the work of educational data scientists: A mixed methods exploration. *Journal of Research on Technology in Education.*
+
+## Articles Published in Refereed Journals (60)
+
+Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C+., Garner, A., & Xu, Z. (in press). Embracing uncertainty in science: The ABCs of data and the confidence updater. *Science Scope.*
+
++Borchers, C., Darriet, C., Rosenberg, J. M., & López, F. (2025). Dual intent in dual‐language programs: Internet data mining of school district communications. *TechTrends*, 1–13. https://link.springer.com/article/10.1007/s11528-025-01049-1
+
+Beymer, P. N., Schell, M. J., Alberts, K. M., Phun, V., Rosenberg, J. M., & Schmidt, J. A. (advance online publication). Students' situational engagement profiles in formal and informal science learning environments. *Journal of Research in Science Teaching.* https://onlinelibrary.wiley.com/doi/full/10.1002/tea.22017
+
++Pritchard, C., +Borchers, C., Rosenberg, J. M., Fox, A. K., & Stegenga, S. M. (2024). The datafication of student information on X (Twitter). *Computers and Education Open, 7*, 1-10. <https://www.sciencedirect.com/science/article/pii/S2666557324000375>
 
 Dogucu, M., Kazak, S., & Rosenberg, J. M. (2024). The design and implementation of a Bayesian data analysis lesson for pre-service mathematics and science teachers. *Journal of Statistics and Data Science Education*, 1-21. <https://doi.org/10.1080/26939169.2024.2362148>
 
@@ -325,7 +365,11 @@ Rosenberg, J. M., & Logan, C. W. (2017). Review of the book What’s Worth Teach
 
 Phillips, M., Harris, J., Rosenberg, J. M., & Koehler, M. J. (2017). TPCK/TPACK research and development: Past, present, and future directions. *Australasian Journal of Educational Technology*. <https://doi.org/10.14742/ajet.3907>
 
-## Contributions to Edited Volumes (10)
+## Contributions to Edited Volumes (12)
+
+Rosenberg, J. M., Bhidiya, H., & Pritchard, C. (in press). Triangulating computational and qualitative methods to measure scientific uncertainty. In P. Wulff, M. Kubsch, & C. Krist (Eds.), *Applying machine learning in science education research: When, how, and why? (2025th ed.)* (pp. 313–332). Springer.
+
+Rosenberg, J. (in press). *Comparing self-report and digital trace measures of social networks.* In N. Kolleck (Ed.), *Handbook of social network analysis and education research* (Research Handbooks on Social Networks series). Edward Elger Publishing.
 
 Dai, T., Rosenberg, J. M., & +Lawson, M. A. (2022). Data representations and visualizations in educatiopnal research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education*. Taylor & Francis: New York, NY. <https://doi.org/10.4324/9781138609877-REE148-1>
 
@@ -421,7 +465,7 @@ Rosenberg, J. (2013). Review of mobile device use policies in public high school
 
 # Presentations
 
-*Information on all presentations are provided [here](https://joshuamrosenberg.com/other-presentations.html); I often present at AERA and NARST, among others; below is a selection of presentations.*
+*Information on all presentations are provided [here](https://joshuamrosenberg.com/other-presentations.html); I often present at AERA, ISLS, and NARST, among others.*
 
 ## Invited Talks
 
@@ -439,6 +483,8 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 
 ## Select Workshops
 
+I have led many workshops; additional references are provided in the above link.
+
 Rosenberg, J. M. & D'Angelo, C. (2022, March). *An Introduction to Data Science in Science Education Using R*. National Association for Research in Science Teaching. *Note.* This session was sponsored by the Contemporary Methods Research Interest Group (RIG).
 
 Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER Focus on Understanding and Improving STEM Education*. Partnerships for Expanding STEM Education Research in STEM (AERA & ICPSR). <https://github.com/laser-institute/aera-workshop>
@@ -452,10 +498,6 @@ Rosenberg, J. M. (2021, August). *Tools and Strategies to Work with Data in the 
 D'Angelo, C., & Rosenberg, J. M. (2021, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. <https://www.youtube.com/watch?v=WxdWzTIzYmI>
 
 # Teaching
-
-### Teaching Award
-
-*MSU-AT&T Instructional Technology Award: Best Online Course*, 2014
 
 ### Courses Taught
 
@@ -609,6 +651,10 @@ Committee Member for Doctoral students:
 -   2019-2021: Matthew Hensley
 -   2018-2020: Shande King
 
+### Host
+
+I have hosted several guest scholars, including Gregor Benz (Technical University of Munich, Germany) and Matthias Fischer (Heidelberg University, Germany).
+
 # Miscellaneous
 
 ### Software Developed
@@ -677,46 +723,6 @@ New Faculty Mentoring Program, AERA Division C, 2019
 
 [Teaching R to 7th Graders](https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/), *Flowing Data*
 
-### Podcasts
-
-2021-2022, Co-host, *About Practice* podcast, <https://anchor.fm/about-practice>
-
-2021, Full Stack Education podcast, <https://www.fullstackeducator.com/show-notes/season-2-episode-15-ryan-estrellado-and-joshua-rosenberg-data-science-in-education>
-
-2021, Visions of Education podcast, <https://visionsofed.com/2021/05/27/episode-166-data-science-in-education-with-ryan-estrellado-jesse-mostipak-and-joshua-rosenberg/>
-
-2020, Education Data Chat podcast, <https://www.buzzsprout.com/1074286/4993430>
-
-2018-2019, Co-host, *Impodster Syndrome* podcast, <https://drive.google.com/drive/folders/1fwSaEKt9QzJPUlf-CYVVwPgN-pKBaAkW?usp=sharing>
-
-2016, Innovative Education in VT, <https://tiie.w3.uvm.edu/blog/educators-on-twitter/#.XzkFq5NKiHE>
-
-## Consultant and Advisory Board Member Roles
-
-2024-2026, Advisory Board Member, *A Multipronged Approach to Small-Teaching Interventions for Reducing Academic Procrastination: A Randomized Control Study via Terracotta,* NCER grant no. R305N240063. Miyake, A. (PI), Bernacki, M., Kane, M., & Snyder, H. (Co-PIs).
-
-2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
-
-2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
-
-2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
-
-2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
-
-2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
-
-2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), <https://www.stat.uci.edu/bayes-bats/>
-
-2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false>
-
-2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false>
-
-2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false>
-
-2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital Promise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
-
-2021-2022, Lead STEM Education Consultant,*Supporting Students’ Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
-
 ### Professional Affiliations
 
 -   American Educational Research Association
@@ -724,3 +730,5 @@ New Faculty Mentoring Program, AERA Division C, 2019
 -   International Society of the Learning Sciences
 
 -   National Association for Research in Science Teaching
+
+-   Society for Learning Analytics Research
