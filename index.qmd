@@ -3,7 +3,7 @@ title: "Home"
 format-links: false
 ---
 
-Welcome! I am an Associate Professor of STEM Education at the University of Tennessee, Knoxville.
+Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville.
 
 ![](images/rosenberg-headshot-small-3.jpeg){fig-alt="headshot of Joshua Rosenberg" fig-align="center" width="268"}
 
