@@ -1,7 +1,7 @@
 ---
 title: "Joshua Rosenberg, Ph.D."
 subtitle: "Curriculum Vita"
-format: pdf
+format: html
 ---
 
 # Contact Information
