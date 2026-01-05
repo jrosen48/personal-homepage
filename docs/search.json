@@ -1,5 +1,96 @@
 [
   {
+    "objectID": "CLAUDE.html",
+    "href": "CLAUDE.html",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.\n\n\nThis is a personal academic homepage built with Quarto. The site is configured to output both HTML (for the website) and PDF versions of pages. The HTML website is published to GitHub Pages from the docs/ directory.\n\n\n\n\nSource files: .qmd files in the root directory (index.qmd, about.qmd, vita.qmd, photography.qmd, other-presentations.qmd)\nConfiguration: _quarto.yml - defines the website structure, navigation, and output formats\nOutput directory: docs/ - contains rendered HTML, PDF, and assets (configured for GitHub Pages)\nImages: images/ directory for static assets\nStyles: styles.css for custom styling (currently minimal)\n\n\n\n\n\n\nquarto render\nThis generates both HTML and PDF outputs for all pages to the docs/ directory.\n\n\n\nquarto render index.qmd        # Renders both HTML and PDF\nquarto render index.qmd --to html  # HTML only\nquarto render index.qmd --to pdf   # PDF only\n\n\n\nquarto preview\nOpens a local web server with live reload.\n\n\n\nquarto clean\nRemoves the .quarto/ cache directory (but not docs/).\n\n\n\n\nThe site is configured in _quarto.yml to produce: 1. HTML - Website pages with Cosmo theme, TOC enabled, custom CSS 2. PDF - Uses XeLaTeX engine (note: vita.qmd is DOCX format only)\nThe vita.qmd file has format: docx in its front matter, overriding the global PDF format to produce a Word document instead.\n\n\n\n\nProject type: website\nOutput directory: docs/ (for GitHub Pages compatibility)\nTheme: cosmo (Bootstrap-based)\nPDF engine: xelatex\nThe CNAME file is listed in resources: to ensure it’s copied to docs/ for custom domain\n\n\n\n\nThe navbar (defined in _quarto.yml) includes: - Home (index.qmd) - About and Contact (about.qmd) - Vita (vita.html - note: links to HTML, but source is vita.qmd which outputs DOCX) - Research Group (external link) - Newsletter/Blog (external link) - Photography (photography.qmd)\n\n\n\nThe site uses GitHub Pages, serving from the docs/ directory on the main branch. After rendering, commit the updated docs/ directory to deploy changes.\nFiles in .gitignore: - R-specific files (.Rproj.user, .Rhistory, .RData, .Ruserdata) - Quarto cache (/.quarto/) - docs/CNAME (to prevent local overwrites) - Quarto notebook temp files (**/*.quarto_ipynb)"
+  },
+  {
+    "objectID": "CLAUDE.html#overview",
+    "href": "CLAUDE.html#overview",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "This is a personal academic homepage built with Quarto. The site is configured to output both HTML (for the website) and PDF versions of pages. The HTML website is published to GitHub Pages from the docs/ directory."
+  },
+  {
+    "objectID": "CLAUDE.html#project-structure",
+    "href": "CLAUDE.html#project-structure",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Source files: .qmd files in the root directory (index.qmd, about.qmd, vita.qmd, photography.qmd, other-presentations.qmd)\nConfiguration: _quarto.yml - defines the website structure, navigation, and output formats\nOutput directory: docs/ - contains rendered HTML, PDF, and assets (configured for GitHub Pages)\nImages: images/ directory for static assets\nStyles: styles.css for custom styling (currently minimal)"
+  },
+  {
+    "objectID": "CLAUDE.html#build-commands",
+    "href": "CLAUDE.html#build-commands",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "quarto render\nThis generates both HTML and PDF outputs for all pages to the docs/ directory.\n\n\n\nquarto render index.qmd        # Renders both HTML and PDF\nquarto render index.qmd --to html  # HTML only\nquarto render index.qmd --to pdf   # PDF only\n\n\n\nquarto preview\nOpens a local web server with live reload.\n\n\n\nquarto clean\nRemoves the .quarto/ cache directory (but not docs/)."
+  },
+  {
+    "objectID": "CLAUDE.html#output-formats",
+    "href": "CLAUDE.html#output-formats",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The site is configured in _quarto.yml to produce: 1. HTML - Website pages with Cosmo theme, TOC enabled, custom CSS 2. PDF - Uses XeLaTeX engine (note: vita.qmd is DOCX format only)\nThe vita.qmd file has format: docx in its front matter, overriding the global PDF format to produce a Word document instead."
+  },
+  {
+    "objectID": "CLAUDE.html#key-configuration-details",
+    "href": "CLAUDE.html#key-configuration-details",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "Project type: website\nOutput directory: docs/ (for GitHub Pages compatibility)\nTheme: cosmo (Bootstrap-based)\nPDF engine: xelatex\nThe CNAME file is listed in resources: to ensure it’s copied to docs/ for custom domain"
+  },
+  {
+    "objectID": "CLAUDE.html#navigation-structure",
+    "href": "CLAUDE.html#navigation-structure",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The navbar (defined in _quarto.yml) includes: - Home (index.qmd) - About and Contact (about.qmd) - Vita (vita.html - note: links to HTML, but source is vita.qmd which outputs DOCX) - Research Group (external link) - Newsletter/Blog (external link) - Photography (photography.qmd)"
+  },
+  {
+    "objectID": "CLAUDE.html#git-and-deployment",
+    "href": "CLAUDE.html#git-and-deployment",
+    "title": "CLAUDE.md",
+    "section": "",
+    "text": "The site uses GitHub Pages, serving from the docs/ directory on the main branch. After rendering, commit the updated docs/ directory to deploy changes.\nFiles in .gitignore: - R-specific files (.Rproj.user, .Rhistory, .RData, .Ruserdata) - Quarto cache (/.quarto/) - docs/CNAME (to prevent local overwrites) - Quarto notebook temp files (**/*.quarto_ipynb)"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.\nHe studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.\nProfessor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored Data Science in Education Using R (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.\nProfessor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the Journal of Statistics and Data Science Education and an Editorial Review Board Member for the Review of Educational Research, Journal of Research on Technology in Education, and Journal of Science Education and Technology. He is a Committee Member for the National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12."
+  },
+  {
+    "objectID": "about.html#biography",
+    "href": "about.html#biography",
+    "title": "About",
+    "section": "",
+    "text": "Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.\nHe studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.\nProfessor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored Data Science in Education Using R (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.\nProfessor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the Journal of Statistics and Data Science Education and an Editorial Review Board Member for the Review of Educational Research, Journal of Research on Technology in Education, and Journal of Science Education and Technology. He is a Committee Member for the National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12."
+  },
+  {
+    "objectID": "about.html#personal",
+    "href": "about.html#personal",
+    "title": "About",
+    "section": "Personal",
+    "text": "Personal\nI’m a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family.\n\n\n\nSunset, visible from Cliff Tops (on Mt. LeConte in the Great Smoky Mountains National Park; June, 2024, with a gaggle of four-eight year-olds!)"
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "I am an amateur photographer, with an affinity for portrait and landscape photos. Here are some favorite photos. They have the CC-BY-NC license.\n\n\n\nMt. Lemmon, near Tucson, AZ, March, 2022.\n\n\n\n\n\nWhite Oak Sinks in the Great Smoky Mountains National Park, April, 2023.\n\n\n\n\n\nFrom a project with GoGo Boards (https://tltlab.org/gogo-board/) with TC Columbia, April, 2024.\n\n\n\n\n\nMt. LeConte, Great Smoky Mountains National Park, June, 2024\n\n\n\n\n\nMackinaw City area, July, 2024.\n\n\n\n\n\nMackinaw Bridge, July, 2024"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville.\n\n\n\n\n\nLinks/Resources/Affiliations\n\nUTK homepage\nProject CREDIBLE - NSF CAREER-funded project\nCollege of Education, Health, and Human Sciences, University of Tennessee, Knoxville\nCollege of Emerging and Collaborative Studies, University of Tennessee, Knoxville\nEducational Data Science Graduate Certificate, University of Tennessee, Knoxville\nGoogle Scholar profile\nCV (PDF)\nPrevious blog (archive)"
+  },
+  {
     "objectID": "other-presentations.html",
     "href": "other-presentations.html",
     "title": "Other Presentations",
@@ -33,40 +124,5 @@
     "title": "Other Presentations",
     "section": "Other Presentations",
     "text": "Other Presentations\nRosenberg, J. M. (2024, November). Computational Audio Data Analytics to Explore STEM Classroom Teaching and Learning. Learning Break Presentation. College of Educationa, Health, and Human Sciences, UTK.\nRosenberg, J. M. (2024, April). Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media. Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p\n^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). Insights on the current and preferred integration of computer science into K-8 education in Tennessee. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee\nRosenberg, J. M., +Sultana, O., +Mann, M., +Carter, B., +Kenner, N., & +Edwards, A. (2021, January). How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project. Presentation at the 15th Annual Tennessee STEM Education Research Conference.\nRosenberg, J. M., Dyer, E. B., Anderson, D. J., & Fischer, C. (September, 2020). If you’re happy and you know it, post a tweet? A study of the sentiment of posts to the #NGSSchat hashtag on Twitter. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.\nDyer, E. B., Rosenberg, J. M., Bosch, N., Krist, C., & D’Angelo, C. (September, 2020). Better together? Initial findings and implications from combining qualitative coding and computational methods to analyze classroom audiovisual data. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.\nAnderson, D., Rosenberg, J. M., Sáez, L., & Seeley, J. R. (September, 2020). Using extreme gradient boosting to estimate community effects on school readiness. Presentation at the AERA Satellite Conference on Educational Data Science, Stanford, CA.\nEstrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (July, 2020). Expanding R into education. Presentation at the useR conference, St. Louis, MO. (conference canceled)\nRosenberg, J. M., Qinyun, L., Xu, R., Maroulis, S., & Frank, K. A. (July, 2020). The konfound R package and Shiny app for robustness analysis. Presentation at the useR conference, St. Louis, MO.\nRosenberg, J. M.,& Lishinski, A. (January, 2020). Measuring what matters in-the-moment: An experience sampling approach to understanding the development of interest in computer science. Presentation at the 14th Annual Tennessee STEM Education Research Conference, Cookeville, TN.\nRosenberg, J. M., Hodge, L., Aydeniz, M., Schmidt, A. Lishinski, A., Rich, K., +Longnecker, J., +Mann. M., & Sadovnik, A. (January, 2020). A survey of teachers and administrators regarding the implementation of new K-8 computing education standards in Tennessee. Presentation at the 14th Annual Tennessee STEM Education Research Conference, Cookeville, TN.\nCamponovo, M., +Lawson, M. A., & Rosenberg, M. J. (July, 2019). Integrating geospatial tech with math and science pre-service teachers. 2019 Education Summit @ ESRI UC. San Diego, CA.\nJones, R. S., & Rosenberg, J. M. (February, 2019). Latent class modeling of whole class discussions about data, statistics, and probability. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN.\n+Lawson, M., Rosenberg, J. M., & Camponovo, M. (February, 2019). Better together? Findings from a combined, integrated STEM unit with pre-service mathematics and science teachers. Presentation at the 13th Annual Tennessee STEM Education Research Conference, Murfreesboro, TN."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville.\n\n\n\n\n\nLinks/Resources/Affiliations\n\nUTK homepage\nProject CREDIBLE - NSF CAREER-funded project\nCollege of Education, Health, and Human Sciences, University of Tennessee, Knoxville\nCollege of Emerging and Collaborative Studies, University of Tennessee, Knoxville\nEducational Data Science Graduate Certificate, University of Tennessee, Knoxville\nGoogle Scholar profile\nCV (PDF)\nPrevious blog (archive)"
-  },
-  {
-    "objectID": "photography.html",
-    "href": "photography.html",
-    "title": "Photography",
-    "section": "",
-    "text": "I am an amateur photographer, with an affinity for portrait and landscape photos. Here are some favorite photos. They have the CC-BY-NC license.\n\n\n\nMt. Lemmon, near Tucson, AZ, March, 2022.\n\n\n\n\n\nWhite Oak Sinks in the Great Smoky Mountains National Park, April, 2023.\n\n\n\n\n\nFrom a project with GoGo Boards (https://tltlab.org/gogo-board/) with TC Columbia, April, 2024.\n\n\n\n\n\nMt. LeConte, Great Smoky Mountains National Park, June, 2024\n\n\n\n\n\nMackinaw City area, July, 2024.\n\n\n\n\n\nMackinaw Bridge, July, 2024"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.\nHe studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.\nProfessor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored Data Science in Education Using R (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.\nProfessor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the Journal of Statistics and Data Science Education and an Editorial Review Board Member for the Review of Educational Research, Journal of Research on Technology in Education, and Journal of Science Education and Technology. He is a Committee Member for the National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12."
-  },
-  {
-    "objectID": "about.html#biography",
-    "href": "about.html#biography",
-    "title": "About",
-    "section": "",
-    "text": "Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.\nHe studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.\nProfessor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored Data Science in Education Using R (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.\nProfessor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the Journal of Statistics and Data Science Education and an Editorial Review Board Member for the Review of Educational Research, Journal of Research on Technology in Education, and Journal of Science Education and Technology. He is a Committee Member for the National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12."
-  },
-  {
-    "objectID": "about.html#personal",
-    "href": "about.html#personal",
-    "title": "About",
-    "section": "Personal",
-    "text": "Personal\nI’m a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family.\n\n\n\nSunset, visible from Cliff Tops (on Mt. LeConte in the Great Smoky Mountains National Park; June, 2024, with a gaggle of four-eight year-olds!)"
   }
 ]

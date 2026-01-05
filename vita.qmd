@@ -1,7 +1,7 @@
 ---
 title: "Joshua Rosenberg, Ph.D."
 subtitle: "Curriculum Vita"
-format: docx
+format: pdf
 ---
 
 # Contact Information
@@ -137,6 +137,8 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 ## Senior Personnel/Investigator
 
+2025-2030, Senior Personnel, Picturing Possibilities and Envisioning Selves; PiPES3 (PI: Erin Hardin), National Institutes of Health 
+
 2024-2029, Senior Personnel, AmplifyGAIN: Generative AI for Transformative Learning. University of Washington (PI: Min Sun). \$9,999,976. <https://www.amplifylearn.ai/amplifygain-generative-ai-for-transformative-learning/>
 
 2025-2025, Senior Personnel, Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations, JP Morgan Chase. <https://cehhs.utk.edu/ero/completions-in-green-sector-occupations/>
@@ -188,15 +190,18 @@ Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I
 
 ## Articles Under Review or in Press
 
-Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C+., Garner, A., & Xu, Z. (in press). Embracing uncertainty in science: The ABCs of data and the confidence updater. *Science Scope.* <https://osf.io/rg6xb_v1/>
-
-Rosenberg, J. M., Romero-Hall, E., Veletsianos, G., & Allen, E. (in press). The accessibility of published educational research. *Teachers College Record.* https://osf.io/mvh87_v1/
-
 Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Asson, S., Delcid, G., Serrano, E., & Rosenberg, J.M (revise and resubmit). Enrollment patterns and online portrayals of dual language programs in California: Obstacles and promising efforts for equitable access. *American Educational Research Journal.*
 
 Staudt-Willet, B., Na. H., & Rosenberg, J. M. (under review). Understanding the work of educational data scientists: A mixed methods exploration. *Journal of Research on Technology in Education.*
 
-## Articles Published in Refereed Journals (62)
+Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C+., Garner, A., & Xu, Z. (in press). Embracing uncertainty in science: The ABCs of data and the confidence updater. *Science Scope.* 
+
+
+## Articles Published in Refereed Journals (64)
+
+Fischer, M., Pritchard, C., Xu, Z., & Rosenberg, J. (2025). Finding Your Way into Data Science Education as a Science Teacher. *The Science Teacher, 92*(6), 49-55.
+
+Rosenberg, J. M., Veletsianos, G., Romero-Hall, E., & Allen, E. (2025). The Accessibility of Published Research in AERA Journals, 2010–2022. Teachers College Record, 127(8), 110-118.
 
 Beymer, P. N., Schell, M. J., Alberts, K. M., Phun, V., Rosenberg, J. M., & Schmidt, J. A. (advance online publication). Students' situational engagement profiles in formal and informal science learning environments. *Journal of Research in Science Teaching.* <https://onlinelibrary.wiley.com/doi/full/10.1002/tea.22017>
 
@@ -624,7 +629,7 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ### College-level Service
 
-2025, Committee Member, Assistant Dean for Research and Engagement, *College of Emerging and Collaborative Studies*, UTK
+2025, Committee Member, Search for Assistant Dean for Research and Engagement, *College of Emerging and Collaborative Studies*, UTK
 
 2023-2024, Search Chair, Unit Head, *Department of Theory and Practice in Teacher Education*, UTK
 

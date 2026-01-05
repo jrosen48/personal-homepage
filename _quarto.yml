@@ -28,4 +28,5 @@ format:
     pdf-engine: xelatex
 
 editor: visual
-
+resources:
+  - CNAME
