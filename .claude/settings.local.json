@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(find:*)",
-      "Bash(quarto:*)"
+      "Bash(quarto:*)",
+      "Bash(gh repo view:*)"
     ]
   }
 }

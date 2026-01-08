@@ -1,7 +1,9 @@
 ---
 title: "Joshua Rosenberg, Ph.D."
 subtitle: "Curriculum Vita"
-format: html
+format:
+  html: default
+  pdf: default
 ---
 
 # Contact Information
@@ -137,7 +139,7 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 ## Senior Personnel/Investigator
 
-2025-2030, Senior Personnel, Picturing Possibilities and Envisioning Selves; PiPES3 (PI: Erin Hardin), National Institutes of Health 
+2025-2030, Senior Personnel, Picturing Possibilities and Envisioning Selves; PiPES3 (PI: Erin Hardin), National Institutes of Health
 
 2024-2029, Senior Personnel, AmplifyGAIN: Generative AI for Transformative Learning. University of Washington (PI: Min Sun). \$9,999,976. <https://www.amplifylearn.ai/amplifygain-generative-ai-for-transformative-learning/>
 
@@ -194,8 +196,7 @@ Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Ass
 
 Staudt-Willet, B., Na. H., & Rosenberg, J. M. (under review). Understanding the work of educational data scientists: A mixed methods exploration. *Journal of Research on Technology in Education.*
 
-Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C+., Garner, A., & Xu, Z. (in press). Embracing uncertainty in science: The ABCs of data and the confidence updater. *Science Scope.* 
-
+Rosenberg, J., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C+., Garner, A., & Xu, Z. (in press). Embracing uncertainty in science: The ABCs of data and the confidence updater. *Science Scope.*
 
 ## Articles Published in Refereed Journals (64)
 
