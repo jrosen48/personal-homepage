@@ -1,6 +1,6 @@
 ---
 title: "Joshua Rosenberg, Ph.D."
-subtitle: "Curriculum Vita"
+subtitle: "Curriculum Vitae"
 format:
   html: default
   pdf: default
@@ -81,7 +81,7 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 2023, Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher (Maryrose Weatherton)
 
-2023, Research Worth Reading Award, Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching
+2023, Research Worth Reading Award, Research in Artificial Intelligence in Science Education Research Interest Group, National Association for Research in Science Teaching
 
 2023, Outstanding Graduate Research Mentor Award, Graduate Student Senate, University of Tennessee, Knoxville
 
@@ -161,9 +161,9 @@ Affiliated Researcher, [AmplifyLearn.AI](https://www.amplifylearn.ai/), Universi
 
 2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
 
-2023 - 2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
+2023-2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
 
-2023 - 2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
+2023-2025, Consultant, *Forschen mit epidemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
 
 2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), <https://www.stat.uci.edu/bayes-bats/>
 
@@ -246,7 +246,7 @@ Rosenberg, J. M., \^Borchers, C., \^Burchfield, M. A., Anderson, D., Stegenga, S
 
 Kubsch, M., Krist, C., & Rosenberg, J. M. (2023). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. <https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803.> *Note.* All authors contributed equally.
 
--   Recipient of the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Eduation Research Interest Group, National Association for Research in Science Teaching
+-   Recipient of the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Education Research Interest Group, National Association for Research in Science Teaching
 
 -   Recipient of the 2023 GDCP (German Society for the Teaching of Chemistry and Physics) Best Paper Award
 
@@ -384,7 +384,7 @@ Rosenberg, J. M., Bhidiya, H., & Pritchard, C. (in press). Triangulating computa
 
 Rosenberg, J. (in press). *Comparing self-report and digital trace measures of social networks.* In N. Kolleck (Ed.), *Handbook of social network analysis and education research* (Research Handbooks on Social Networks series). Edward Elger Publishing.
 
-Dai, T., Rosenberg, J. M., & +Lawson, M. A. (2022). Data representations and visualizations in educatiopnal research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education*. Taylor & Francis: New York, NY. <https://doi.org/10.4324/9781138609877-REE148-1>
+Dai, T., Rosenberg, J. M., & +Lawson, M. A. (2022). Data representations and visualizations in educational research. In T. L. Good & M. McCaslin (*Eds.*), Educational Psychology Section; D. Fisher (*Ed.*), *Routledge encyclopedia of education*. Taylor & Francis: New York, NY. <https://doi.org/10.4324/9781138609877-REE148-1>
 
 Rosenberg, J. M., +Lawson, M. A., Anderson, D. J., & Rutherford, T. (2020). Making data science count in and for education. In E. Romero-Hall (Ed.), *Research methods in learning design & technology* (pp. 94-110). Routledge: New York, NY. <https://osf.io/preprints/edarxiv/hc2dw/download/>
 
@@ -420,15 +420,15 @@ Thomas, T., Rosenberg, J. M., Penner, E. & Burchfield, M. (2022). Racism and sch
 
 Burchfield, M., Rosenberg, J. M., & Stegenga, S. (2022). Updated or outdated consent? A study of the media release policies of U.S. K-12 school districts. Proceedings for the *Social Media and Society* conference.
 
-Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, interest, and belongingness – URM Students’ momentary experiences in CS1. *Proceedings of the 2022 ACM Conference on International Computing Education Research* (ICER ’22). <https://dl.acm.org/doi/abs/10.1145/3501385.3543958.> *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
+Lishinski, A., Narvaiz, S., and Rosenberg, J. M. (2022). Self-efficacy, interest, and belongingness – URM Students' momentary experiences in CS1. *Proceedings of the 2022 ACM Conference on International Computing Education Research* (ICER '22). <https://dl.acm.org/doi/abs/10.1145/3501385.3543958.> *Note.* Unlike most of academia, premiere conferences in computing education are selective venues for archival research. These conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
 Carpenter, J., Morrison, S., Rosenberg, J., & Hawthorne, K. (2022). Professional learning networks for pre-service teachers: A social network analysis of a program-wide teacher education Twitter hashtag. In *Society for Information Technology & Teacher Education International Conference* (pp. 1489-1497). Association for the Advancement of Computing in Education (AACE). <https://www.learntechlib.org/p/220934/>
 
-Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). To scale or not to scale: Comparing popular sentiment analysis dictionaries on educational Twitter data. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 619-624). T Paris, France. <https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_122.pdf>
+Borchers, C., Rosenberg, J., Gibbons, B., Burchfield, M., & Fischer, C. (2021). To scale or not to scale: Comparing popular sentiment analysis dictionaries on educational Twitter data. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 619-624). Paris, France. <https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_122.pdf>
 
 Burchfield, M., Rosenberg, J., Borchers, C., Thomas, T., Gibbons, B., & Fischer, C. (2021). Are violations of student privacy “quick and easy”? Investigating the privacy of students’ images and names in the context of K-12 educational institution’s posts on Facebook. In I.-H. Hsiao, S. Sahebi, F. Bouchet, & J.-J. Vie (Eds), *Proceedings of the 14th International Conference on Educational Data Mining* (pp. 744-749), Paris, France. <https://educationaldatamining.org/EDM2021/virtual/static/pdf/EDM21_paper_276.pdf.>
 
-Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. <https://doi.org/10.1145/3446871.3469740.> *Note.* This presentation received the best poster award. Unlike most of academia, premiere conferences in computing education are selective venues for archival research. Thiese conference proceedings exceed many journals in their selectivity, visibility, and impact.
+Lishinski, A., & Rosenberg, J. (2021). All the pieces matter: The relationship of momentary self-efficacy and affective experiences with CS1 achievement and interest in computing. *Proceedings of the 17th ACM Conference on International Computing Education Research*, 252–265. <https://doi.org/10.1145/3446871.3469740.> *Note.* This presentation received the best poster award. Unlike most of academia, premiere conferences in computing education are selective venues for archival research. These conference proceedings exceed many journals in their selectivity, visibility, and impact.
 
 Rosenberg, J. M., & Kubsch, M. (2021). Considering K-12 learners’ use of Bayesian methods. In E. de Vries, Y. Hod, & J., Ahn (Eds.), *The International Society of the Learning Sciences 2020 Conference Proceedings* (pp. 947-948). International Society of the Learning Sciences. <https://repository.isls.org/handle/1/7635>
 
@@ -476,7 +476,7 @@ Greenhalgh, S. P., Rosenberg, J. M., Zellner, A. & Koehler, M. J. (2014). Zen an
 
 Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media Council (2014). What we’ve got here is failure to communicate: Social media best practices for graduate school programs. In M. Searson & M. Ochoa (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2014* (pp. 1210-1215). Chesapeake, VA: AACE. Retrieved from <http://www.editlib.org/p/130949>
 
-Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from <http://www.editlib.org/p/48698git>
+Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from <http://www.editlib.org/p/48698>
 
 # Presentations
 
@@ -550,17 +550,17 @@ Instructor at Michigan State University:
 
 ### Editorial Service
 
-Associate Editor, *Journal of Statistics and Data Science Education*, 2023 - Present
+Associate Editor, *Journal of Statistics and Data Science Education*, 2023-Present
 
-Associate Editor, *Journal of Research on Science Teaching*, 2024 - Present
+Associate Editor, *Journal of Research on Science Teaching*, 2024-Present
 
-Editorial Review Board Member, *Review of Educational Research*, 2022 - Present
+Editorial Review Board Member, *Review of Educational Research*, 2022-Present
 
-Editorial Review Board Member, *Journal of Science Education and Technology*, 2023 - Present
+Editorial Review Board Member, *Journal of Science Education and Technology*, 2023-Present
 
-Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016 - 2024
+Editorial Review Board Member, *Journal of Research on Technology in Education*, 2016-2024
 
-Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019 - 2022
+Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019-2022
 
 Special Section Editor, *British Journal of Educational Technology*, 2022
 
@@ -742,7 +742,7 @@ New Faculty Mentoring Program, AERA Division C, 2019
 
 [Study: Schools’ Facebook posts may violate student privacy](https://www.k12dive.com/news/facebook-posts-may-violate-student-privacy/635525/#:~:text=Dive%20Brief%3A,the%20American%20Educational%20Research%20Association.) *K-12 Dive*, November 2, 2022
 
-[Study: Schools’ Social Media Posts May Be Compromising Student Privacy](https://www.aera.net/Newsroom/Study-Schools-Social-Media-Posts-May-Be-Compromising-Student-Privacy), *American Educaitonal Research Association*, November 2, 2022
+[Study: Schools' Social Media Posts May Be Compromising Student Privacy](https://www.aera.net/Newsroom/Study-Schools-Social-Media-Posts-May-Be-Compromising-Student-Privacy), *American Educational Research Association*, November 2, 2022
 
 [The Tricky Ethics of Being a Teacher on TikTok](https://www.wired.com/story/teachers-on-tiktok/), *Wired*, September 6, 2022
 
