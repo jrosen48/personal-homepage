@@ -5,7 +5,7 @@ format-links: false
 
 Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville.
 
-![](images/rosenberg-headshot-small-3.jpeg){fig-alt="headshot of Joshua Rosenberg" fig-align="center" width="268"}
+![](images/Josh Rosenberg horizontal portrait 2025.jpeg){fig-alt="horizontal portrait of Joshua Rosenberg" fig-align="center"}
 
 **Links/Resources/Affiliations**
 
