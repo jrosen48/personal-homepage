@@ -22,9 +22,34 @@ jrosenb8\@utk.edu\
 - Educational technologies
 - Science teacher education
 
+# Citation Metrics
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(scholar)
+
+gs_id <- "nxVowRQAAAAJ"
+profile <- get_profile(gs_id)
+```
+
+Source: [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ) (updated `r Sys.Date()`)
+
+- **Total citations:** `r profile$total_cites`
+- **h-index:** `r profile$h_index`
+- **i10-index:** `r profile$i10_index`
+
 # Research Program
 
-My research program spans two interconnected lines of work in educational data science. In the first, I use new data sources and computational methods to describe and question educational systems. This has included studies of educators' professional learning through social media, critical investigations of how K-12 institutions' social media practices compromise student privacy, and methodological work integrating machine learning with qualitative analysis. In the second, I work to weave data science into teaching and learning, with a particular focus on science education. This includes developing approaches for teaching statistical reasoning — especially Bayesian thinking — in K-12 classrooms, building tools and curricula that make data science accessible to newcomers, and contributing to the establishment of educational data science as a field through widely used open-source software, a co-authored book (*Data Science in Education Using R, Routledge*, 2020), and a synthesis of what is known about K-12 data science learning. Across both lines, I program in R and Python, apply advanced statistical methods (particularly multi-level models), develop open-source tools, and center partnering *with* teachers. My current and near-future work extends these lines into multimodal learning analytics, community-based data science learning, and the roles of generative AI in education.
+My research program spans two interconnected lines of work in educational data science: using new data sources and computational methods to describe and question educational systems, and weaving data science into teaching and learning with a focus on science education.
+
+In the first line of work, I study educational systems using computational approaches and novel data sources. This includes research on educators’ professional learning through social media, critical investigations of how K–12 institutions’ social media practices compromise student privacy, and methodological work that integrates machine learning with qualitative analysis.
+
+In the second line of work, I develop and study approaches for data science learning in K–12 settings. This includes designing instruction for statistical reasoning—especially Bayesian thinking—in science classrooms; building tools and curricula that make data science accessible to newcomers; and contributing to the development of educational data science as a field through widely used open-source software, a co-authored book (*Data Science in Education Using R, Routledge*, 2020), and a synthesis of what is known about K–12 data science learning.
+
+Across both lines, I program in R and Python, use advanced statistical methods (especially multilevel models), develop open-source tools, and center partnerships with teachers. My current and near-future work extends these efforts into multimodal learning analytics, community-based data science learning, and the roles of generative AI in education.
 
 # Education
 

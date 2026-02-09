@@ -5,7 +5,7 @@ format-links: false
 
 Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville.
 
-![](images/josh-rosenberg-portrait-2025.jpeg){fig-alt="horizontal portrait of Joshua Rosenberg" fig-align="center"}
+![](images/josh-rosenberg-portrait-2025.jpeg){fig-alt="horizontal portrait of Joshua Rosenberg" fig-align="center" width="35%"}
 
 **Links/Resources/Affiliations**
 
@@ -14,8 +14,6 @@ Welcome! I am Haslam Family Professor and Associate Professor of STEM Education 
 -   [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
 
 -   [College of Education, Health, and Human Sciences](https://cehhs.utk.edu/), University of Tennessee, Knoxville
-
--   [College of Emerging and Collaborative Studies](https://cecs.utk.edu/), University of Tennessee, Knoxville
 
 -   [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
 
