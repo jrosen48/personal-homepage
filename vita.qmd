@@ -37,9 +37,9 @@ profile <- get_profile(gs_id)
 
 Source: [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ) (updated `r Sys.Date()`)
 
-- **Total citations:** `r profile$total_cites`
-- **h-index:** `r profile$h_index`
-- **i10-index:** `r profile$i10_index`
+- **Total citations:** `r profile$total_cites` — how many times my work has been referenced by other researchers
+- **h-index:** `r profile$h_index` — I have `r profile$h_index` papers each cited at least `r profile$h_index` times
+- **i10-index:** `r profile$i10_index` — how many of my papers have been cited at least 10 times
 
 # Research Program
 
@@ -523,6 +523,22 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from <http://www.editlib.org/p/48698>
 
+# Research Software
+
+Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* \[R package\]. <https://data-edu.github.io/tidyLPA/>
+
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* \[R package\]. <https://jrosen48.github.io/konfound/>
+
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences* \[R Shiny application\]*.* <http://konfound-it.com.>
+
+Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). *dataedu: Package for Data Science in Education Using R*. <https://github.com/data-edu/dataedu>
+
+Rosenberg, J. M. (2020). *tidykids: State-by-State Spending on Kids Dataset*. <https://jrosen48.github.io/tidykids/>
+
+Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* <https://github.com/picsul/short-message-survey>
+
+Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* <https://lab.concord.org/interactives.html#interactives/external-projects/msu/temperature-diffusion.json>
+
 # Presentations
 
 *Information on all presentations are provided [here](https://joshuamrosenberg.com/other-presentations.html); I often present at AERA, ISLS, and NARST, among others.*
@@ -593,13 +609,17 @@ Instructor at Michigan State University:
 
 -   *Technology and Leadership* (CEP 815, M.A. class)
 
-# Service
+# National Leadership and Editorial Roles
 
-## Editorial Service
+Committee Member, Developing Competencies for the Future of Data and Computing: The Role of K-12, National Academies of Sciences, Engineering, and Medicine, 2024-2025
 
 Associate Editor, *Journal of Research on Science Teaching*, 2024-present
 
 Associate Editor, *Journal of Statistics and Data Science Education*, 2023-present
+
+# Service
+
+## Editorial Service
 
 Editorial Review Board Member, *Review of Educational Research*, 2022-present
 
@@ -616,8 +636,6 @@ Special Section Editor, *British Journal of Educational Technology*, 2022
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ## Service to the Profession
-
-Committee Member, Developing Competencies for the Future of Data and Computing: The Role of K-12, National Academies of Sciences, Engineering, and Medicine, 2024-2025
 
 External Reviewer, Application for Promotion to Associate Professor, Ohio State University, 2024
 
@@ -728,22 +746,6 @@ Committee Member for Doctoral students:
 ## Visiting Scholars Hosted
 
 I have hosted several guest scholars, including Gregor Benz (Technical University of Munich, Germany) and Matthias Fischer (Heidelberg University, Germany).
-
-# Research Software
-
-Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* \[R package\]. <https://data-edu.github.io/tidyLPA/>
-
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* \[R package\]. <https://jrosen48.github.io/konfound/>
-
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences* \[R Shiny application\]*.* <http://konfound-it.com.>
-
-Estrellado, R. A., Bovee, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2019). *dataedu: Package for Data Science in Education Using R*. <https://github.com/data-edu/dataedu>
-
-Rosenberg, J. M. (2020). *tidykids: State-by-State Spending on Kids Dataset*. <https://jrosen48.github.io/tidykids/>
-
-Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* <https://github.com/picsul/short-message-survey>
-
-Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* <https://lab.concord.org/interactives.html#interactives/external-projects/msu/temperature-diffusion.json>
 
 # Invited Participation in Workshops and Working Groups
 
