@@ -379,6 +379,10 @@ Rosenberg, J. M., Terry, C. A., Bell, J., Hiltz, V., & Russo, T. (2016). Design 
 
 Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical Content Knowledge (TPACK): A systematic review. *Journal of Research on Technology in Education, 47*, 186-210. <http://dx.doi.org/10.1080/15391523.2015.1052663>
 
+## Reports (1)
+
+National Academies of Sciences, Engineering, and Medicine. (2026). *Data and Computing in K-12 Education: Foundational Competencies*. Washington, DC: National Academies Press. <https://doi.org/10.17226/29303>. *N.b.* I contributed as a committee member.
+
 ## Commissioned Papers, White Papers, Reports, and Articles in the Popular Press (6)
 
 Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
