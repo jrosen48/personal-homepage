@@ -1,0 +1,26 @@
+---
+title: "Contact"
+toc: false
+format-links: false
+---
+
+The best way to reach me is by email: [jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu).
+
+[Email Josh](mailto:jrosenb8@utk.edu){.btn .btn-primary}
+
+**Office:** 513 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996
+
+A few notes, depending on why you're writing:
+
+- **Prospective students:** If you're interested in graduate study in educational data science, data science education, or STEM education, please include a short note about your background and interests — I'm happy to talk. You may also want to look at the [Making Data Science Count](https://makingdatasciencecount.com/) research group and the [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/).
+
+- **Collaborators and partners:** For research partnerships or school and community collaborations, a short description of the opportunity or question is plenty.
+
+- **Media, speaking, and conferences:** Please include the topic, date, and format.
+
+## Elsewhere
+
+- [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ)
+- [UTK faculty page](https://cehhs.utk.edu/tpte/people/joshua-rosenberg-phd/)
+- [Making Data Science Count](https://makingdatasciencecount.com/)
+- [Educated Guesses (newsletter)](https://joshuamrosenberg.substack.com/)

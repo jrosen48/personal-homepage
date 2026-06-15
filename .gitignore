@@ -8,3 +8,17 @@
 docs/CNAME
 
 **/*.quarto_ipynb
+
+# Salvaged PDFs — held locally until matched to vita entries and rights-checked
+pdf/salvaged/
+
+# OA PDFs fetched via Unpaywall — held locally until reviewed before commit
+pdf/oa/
+
+# Rendered copies of the held-back PDFs (mirror of the root ignores above);
+# top-level docs/pdf/*.pdf are rights-cleared and stay tracked.
+docs/pdf/oa/
+docs/pdf/salvaged/
+
+# macOS cruft
+.DS_Store

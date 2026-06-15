@@ -1,0 +1,55 @@
+---
+title: "Research"
+toc: false
+format-links: false
+---
+
+I study the use of data in education, especially in STEM education. My research spans two interconnected lines of work: using new data sources and computational methods to describe and question educational systems, and weaving data science into teaching and learning, with a focus on science education.
+
+[Publications](publications.qmd){.btn .btn-primary .me-2 .mb-2} [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ){.btn .btn-outline-primary .me-2 .mb-2} [CV](vita.html){.btn .btn-outline-primary .mb-2}
+
+## Educational Data Science
+
+In the first line of work, I study educational systems using computational approaches and novel data sources. This includes research on educators' professional learning through social media, critical investigations of how K-12 institutions' social media practices compromise student privacy, and methodological work that integrates machine learning with qualitative analysis.
+
+## Data Science Education
+
+In the second line of work, I develop and study approaches for data science learning in K-12 settings. This includes designing instruction for statistical reasoning — especially Bayesian thinking — in science classrooms, building tools and curricula that make data science accessible to newcomers, and contributing to the development of educational data science as a field through open-source software, a co-authored book ([*Data Science in Education Using R*](https://datascienceineducation.com/), Routledge, 2020), and a synthesis of what is known about K-12 data science learning.
+
+Across both lines, I program in R and Python, use advanced statistical methods (especially multilevel models), develop open-source tools, and center partnerships with teachers. My current and near-future work extends these efforts into multimodal learning analytics, community-based data science learning, and the roles of generative AI in education.
+
+## Selected Projects
+
+:::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .feature-card}
+#### [Project CREDIBLE](https://projectcredible.com/)
+
+*Creatively Reimagining Engagements with Data in Biology Learning Environments* — an NSF CAREER-funded project on helping students learn with data in science classrooms.
+:::
+
+::: {.g-col-12 .g-col-md-4 .feature-card}
+#### [Data Exploration and Sensemaking](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405912)
+
+An NSF-funded collaborative project on learning how to help middle grades science teachers integrate data exploration and sensemaking in the classroom.
+:::
+
+::: {.g-col-12 .g-col-md-4 .feature-card}
+#### [Making Data Science Count](https://makingdatasciencecount.com/)
+
+My research group: graduate students and collaborators studying educational data science, data science education, and STEM learning.
+:::
+
+::::
+
+## Tools & Resources
+
+- [*Data Science in Education Using R*](https://datascienceineducation.com/) (Routledge) — a co-authored book with an open-access, web-based version accessed more than 150,000 times.
+
+- [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/) at the University of Tennessee, Knoxville.
+
+- Open-source software and data resources, listed in my [CV](vita.html).
+
+## Funding
+
+My research has been supported by more than $9 million in funding as principal investigator or co-principal investigator, primarily from the National Science Foundation, including an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152). A full list of grants is in my [CV](vita.html).

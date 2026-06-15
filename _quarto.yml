@@ -8,20 +8,22 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: publications.qmd
+        text: Publications
+      - href: writing-and-photography.qmd
+        text: Writing & Photography
       - href: about.qmd
-        text: About and Contact
-      - href: vita.html
-        text: Vita
-      - href: https://makingdatasciencecount.com/
-        text: Research Group
-      - href: https://joshuamrosenberg.substack.com/
-        text: Newsletter/Blog
-      - href: photography.qmd
-        text: Photography
+        text: About
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, theme.scss]
     css: styles.css
     toc: true
   pdf:

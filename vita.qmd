@@ -77,6 +77,9 @@ University of North Carolina, Asheville
 2025-present, Haslam Family Professor\
 University of Tennessee, Knoxville
 
+2026-present, Co-Director (with Dr. Emily Holtz), AI, Data, and Educational Partnerships at the University of Tennessee (ADEPT) Center\
+University of Tennessee, Knoxville
+
 2023-present, Associate Professor, STEM Education\
 University of Tennessee, Knoxville
 
@@ -235,7 +238,7 @@ Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I
 
 ## Book for General Audience (1)
 
-Rosenberg, K., & Rosenberg, J.M. (in press, anticipated release winter 2026-2027). Little kids, big adventures: A guide to family hikes around Knoxville. UT Press. <https://familyhikesaroundknox.com/>
+Rosenberg, K., & Rosenberg, J.M. (in press, anticipated release winter 2026-2027). Hiking Knoxville: Family Friendly Adventures from the City to the Smokies. UT Press. <https://familyhikesaroundknox.com/>
 
 ## Articles Under Review or in Press
 
@@ -243,7 +246,9 @@ Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Ass
 
 Staudt-Willet, B., Na. H., & Rosenberg, J. M. (in preparation/revising). Understanding the work of educational data scientists: A mixed methods exploration.
 
-## Articles Published in Refereed Journals (65)
+## Articles Published in Refereed Journals (66)
+
+Robertson, J. R., Logan, M. W., Rosenberg, J. M., & Lombardi, D. (2026). Profiles of scientific thinking. *Journal of Educational Psychology, 118*(5), 829-851. <https://doi.org/10.1037/edu0001011>
 
 Rosenberg, J. M., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A. V., & Xu, Z. (2026). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. Science Scope, 49(1), 44-50. https://www.tandfonline.com/doi/full/10.1080/08872376.2025.2601357
 
@@ -399,7 +404,11 @@ Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science 
 
 Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. <https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study>
 
-## Editor-Reviewed Articles Published in Journals (12)
+## Editor-Reviewed Articles Published in Journals (14)
+
+Kimmons, R., Rosenberg, J. M., Ali, F., & West, R. E. (2026). Trends and topics in educational technology, 2026 edition. *TechTrends.* <https://doi.org/10.1007/s11528-026-01193-2>
+
+Rosenberg, J. M., Bonvini, M., Bray, A., Gong, R., & Yu, B. (2026). Teaching veridical data science: A panel interview with Matteo Bonvini, Andrew Bray, Ruobin Gong, and Bin Yu. *Journal of Statistics and Data Science Education, 34*(2), 127-143. <https://doi.org/10.1080/26939169.2026.2632565>
 
 Allman, B., Kimmons, R., +Wang, W., +Bao, H., Rosenberg, J. M., & Koehler, M. J. (2024). Trends and topics in educational technology, 2024 edition. *TechTrends.* <https://doi.org/10.1007/s11528-024-00950-5>
 

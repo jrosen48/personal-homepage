@@ -1,19 +1,29 @@
 ---
 title: "About"
+toc: false
+format-links: false
 ---
 
-## Biography
+I'm Josh Rosenberg, Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville. I study the use of data in education, especially in STEM education.
 
-Joshua M. Rosenberg (PhD, Michigan State University) is an Associate Professor of STEM education and a Faculty Fellow for the Center for Enhancing Education in Mathematics and Sciences at the University of Tennessee, Knoxville. He is also a Faculty Fellow (in data science) for the College of Emerging and Collaborative Studies.
+My research is in two closely related areas. In *educational data science*, I use new data sources and computational methods to study teaching, learning, and educational systems. In *data science education*, I study how students and educators learn to work with data themselves. Much of this work happens in collaboration with teachers, students, and community partners, in real classrooms and schools.
 
-He studies the use of data in education, especially in STEM education contexts. Specifically, he works in the context of two disciplines: educational data science, a research methods-focused discipline using newer data sources and methods to study teaching, learning, and educational systems, and data science education, a discipline focused on supporting educators and learners to use digital data sources and technologies.
+I have received more than $9 million in research funding as principal investigator or co-principal investigator, including a National Science Foundation CAREER Award. I have published more than 65 peer-reviewed journal articles in outlets including *Educational Researcher*, *Journal of Research in Science Teaching*, and *AERA Open*, and my work has been cited more than 7,000 times. I'm also a co-author of [*Data Science in Education Using R*](https://datascienceineducation.com/) (Routledge), a book with an open-access, web-based version accessed more than 150,000 times.
 
-Professor Rosenberg has been awarded over six million dollars in federal grant funding as principal investigator (PI) or co-PI, including an NSF CAREER award. He has shared his research in more than 50 articles in peer-reviewed journals, including Educational Researcher, Journal of Research in Science Teaching, and AERA Open. He also co-authored *Data Science in Education Using R* (Routledge). This book has an open-access, web-based version accessed more than 150,000 times.
+At UT, I teach courses in educational data science, STEM education, and research methods. I serve as an Associate Editor of the *Journal of Statistics and Data Science Education* and on the editorial boards of several education research journals, and I served as a committee member for the National Academies study *Developing Competencies for the Future of Data and Computing: The Role of K-12*.
 
-Professor Rosenberg teaches classes in educational data science and STEM education. He is an Associate Editor of the *Journal of Statistics and Data Science Education* and an Editorial Review Board Member for the *Review of Educational Research*, *Journal of Research on Technology in Education*, and *Journal of Science Education and Technology*. He is a Committee Member for the *National Academies study, Developing Competencies for the Future of Data and Computing: The Role of K-12*.
+## Curriculum Vitae
+
+For a full record of publications, grants, teaching, and service:
+
+[View My CV](vita.html){.btn .btn-primary .me-2 .mb-2} [Download CV (PDF)](/vita.pdf){.btn .btn-outline-primary .mb-2}
 
 ## Personal
 
-I'm a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family.
+I'm a parent and community member passionate about both work and family. My favorite activities include running, hiking, biking, and camping and backpacking with my family. With my wife, Katie, I wrote [*Hiking Knoxville*](https://familyhikesaroundknox.com/), a family-friendly guide to hikes around Knoxville, East Tennessee, and the Smokies.
 
 ![](images/IMG_7163.jpeg){fig-alt="Josh Rosenberg" fig-align="center" width="600"}
+
+## Contact
+
+For research collaborations, student inquiries, speaking invitations, or media requests, please [reach out](contact.qmd) — email is best.

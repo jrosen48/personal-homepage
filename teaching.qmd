@@ -1,0 +1,28 @@
+---
+title: "Teaching"
+toc: false
+format-links: false
+---
+
+I teach courses in educational data science, STEM education, and research methods at the University of Tennessee, Knoxville. Many of my classes are hands-on: students spend much of their time working with real data, often in R.
+
+## Courses
+
+Courses I teach (or have taught) at the University of Tennessee, Knoxville:
+
+- *Foundations of Educational Data Science I* (STEM 680)
+- *Foundations of Educational Data Science II* (STEM 685)
+- *Visualizing Data Using R* (STEM 691)
+- *Capstone in Educational Data Science* (STEM 695)
+- *STEM Education Seminar* (STEM 612)
+- *Nature of Mathematics and Science Education* (SCED 572)
+- *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543)
+- *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120)
+
+Several of these courses are part of the [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), a fully online program at the University of Tennessee, Knoxville.
+
+## Mentoring & Graduate Study
+
+I advise graduate students in STEM Education and work with students through the [Making Data Science Count](https://makingdatasciencecount.com/) research group. If you're thinking about graduate study in educational data science, data science education, or STEM education, please email me — I'm happy to talk.
+
+[Contact About Graduate Study](contact.qmd){.btn .btn-primary}
