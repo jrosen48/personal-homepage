@@ -17,7 +17,7 @@ Much of this work happens in partnership with teachers and schools, especially i
 :::
 
 ::: {.g-col-12 .g-col-md-5}
-![](images/josh-rosenberg-portrait-2025.jpeg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center"}
+![](images/20251217_Josh_Rosenberg_SB_025.jpg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center"}
 :::
 
 ::::
