@@ -22,34 +22,6 @@ Much of this work happens in partnership with teachers and schools, especially i
 
 ::::
 
-:::: {.grid .text-center .cred-band}
-
-::: {.g-col-6 .g-col-md-2}
-**Haslam Family Professor** of STEM Education
-:::
-
-::: {.g-col-6 .g-col-md-2}
-**NSF CAREER Award** recipient
-:::
-
-::: {.g-col-6 .g-col-md-2}
-**$9M+** in research funding as PI or Co-PI
-:::
-
-::: {.g-col-6 .g-col-md-2}
-**65** peer-reviewed journal articles
-:::
-
-::: {.g-col-6 .g-col-md-2}
-**7,000+** scholarly citations
-:::
-
-::: {.g-col-6 .g-col-md-2}
-Co-author of *Data Science in Education Using R*
-:::
-
-::::
-
 ## Featured Projects & Resources
 
 :::: {.grid}
