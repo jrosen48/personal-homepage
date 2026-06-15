@@ -1,0 +1,82 @@
+---
+title: "Publications"
+toc: true
+toc-depth: 2
+format-links: false
+---
+
+I am committed to making my work publicly accessible. Where a publication is
+open-access, this page links to the open version. Otherwise it links to the
+author's accepted manuscript (the peer-reviewed, pre-typeset version) in
+accordance with each publisher's self-archiving policy. If a manuscript you
+want is not here, please email me and I'll send it directly.
+
+```{r setup, include=FALSE}
+suppressPackageStartupMessages({
+  library(readr); library(dplyr); library(stringr); library(purrr)
+})
+
+rights <- read_csv("scripts/publications-rights.csv", show_col_types = FALSE)
+pdfs   <- read_csv("scripts/pdf-matches.csv",        show_col_types = FALSE) |>
+  filter(!is.na(match_id), confidence %in% c("high", "medium")) |>
+  group_by(match_id) |> slice(1) |> ungroup() |>
+  select(id = match_id, pdf_path, pdf_kind)
+
+rights <- rights |> left_join(pdfs, by = "id")
+
+# OA PDFs fetched from Unpaywall live at pdf/oa/<safe-id>.pdf.
+safe_name <- function(id) stringr::str_replace_all(id, "[^A-Za-z0-9._-]", "-")
+rights <- rights |>
+  mutate(oa_pdf_local = {
+    candidate <- file.path("pdf", "oa", paste0(safe_name(id), ".pdf"))
+    ifelse(file.exists(candidate), candidate, NA_character_)
+  })
+
+# Preserve the order sections appear in the vita.
+section_levels <- unique(rights$section)
+rights <- rights |> mutate(section = factor(section, levels = section_levels))
+
+format_links <- function(row) {
+  parts <- character()
+  if (!is.na(row$pdf_path)) {
+    label <- switch(row$pdf_kind %||% "publications",
+                    "post-prints"  = "PDF (post-print)",
+                    "pre-prints"   = "PDF (preprint)",
+                    "publications" = "PDF",
+                    "PDF")
+    parts <- c(parts, sprintf("[%s](/%s)", label, row$pdf_path))
+  } else if (!is.na(row$oa_pdf_local)) {
+    parts <- c(parts, sprintf("[PDF (open access)](/%s)", row$oa_pdf_local))
+  }
+  if (isTRUE(row$is_oa) && !is.na(row$best_oa_url) && is.na(row$oa_pdf_local)) {
+    parts <- c(parts, sprintf("[Open-access version](%s)", row$best_oa_url))
+  }
+  if (!is.na(row$doi)) {
+    parts <- c(parts, sprintf("[doi.org/%s](https://doi.org/%s)", row$doi, row$doi))
+  } else if (!is.na(row$url)) {
+    parts <- c(parts, sprintf("[Link](%s)", row$url))
+  }
+  paste(parts, collapse = " · ")
+}
+
+`%||%` <- function(a, b) if (is.null(a) || is.na(a) || !nzchar(a)) b else a
+
+render_entry <- function(row) {
+  cat(row$citation_raw, "\n\n")
+  links <- format_links(row)
+  if (nzchar(links)) cat(links, "\n\n")
+  note <- row$attribution %||% ""
+  if (nzchar(note) && note != "Rights status not determined; available on request.") {
+    cat(sprintf("<small>*%s*</small>\n\n", note))
+  }
+}
+```
+
+```{r render, results='asis', echo=FALSE, message=FALSE, warning=FALSE}
+for (sec in levels(rights$section)) {
+  items <- rights |> filter(section == sec)
+  if (nrow(items) == 0) next
+  cat(sprintf("\n## %s\n\n", sec))
+  for (i in seq_len(nrow(items))) render_entry(items[i, ])
+}
+```
