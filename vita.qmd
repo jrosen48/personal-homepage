@@ -151,9 +151,11 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 
 # Grants
 
-*\$9,245,867 as Principal Investigator (PI) or Co-PI*
+*\$9,330,317 as Principal Investigator (PI) or Co-PI*
 
 ## PI or Co-PI
+
+2025-2026, PI, *Tennessee Collaborative for the Presidential AI Challenge* (\$84,450). AI Tennessee Initiative, University of Tennessee, Knoxville.
 
 2024-2028, PI, *Collaborative Research: Learning How to Help Middle Grades Science Teachers Integrate Data Exploration and Sensemaking in the Classroom* (\$2,997,783.00*;* with lead PI Jonathan Griffith, CU, Boulder; UTK sub-contract: \$99,296). NSF. NSF Grant No. 2405912.
 
