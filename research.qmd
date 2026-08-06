@@ -20,8 +20,7 @@ Across both lines, I program in R and Python, use advanced statistical methods (
 
 ## Selected Projects
 
-:::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-4 .feature-card}
 #### [Project CREDIBLE](https://projectcredible.com/)
 
@@ -33,14 +32,7 @@ Across both lines, I program in R and Python, use advanced statistical methods (
 
 An NSF-funded collaborative project on learning how to help middle grades science teachers integrate data exploration and sensemaking in the classroom.
 :::
-
-::: {.g-col-12 .g-col-md-4 .feature-card}
-#### [Making Data Science Count](https://makingdatasciencecount.com/)
-
-My research group: graduate students and collaborators studying educational data science, data science education, and STEM learning.
-:::
-
-::::
+:::::
 
 ## Tools & Resources
 
@@ -52,4 +44,4 @@ My research group: graduate students and collaborators studying educational data
 
 ## Funding
 
-My research has been supported by more than $9 million in funding as principal investigator or co-principal investigator, primarily from the National Science Foundation, including an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152). A full list of grants is in my [CV](vita.html).
+My research has been supported by more than \$9 million in funding as principal investigator or co-principal investigator, primarily from the National Science Foundation, including an [NSF CAREER award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152). A full list of grants is in my [CV](vita.html).

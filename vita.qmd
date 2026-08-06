@@ -8,8 +8,7 @@ format:
 
 # Contact Information
 
-Haslam Family Professor &
-Associate Professor, STEM Education\
+Haslam Family Professor & Associate Professor, STEM Education\
 Department of Theory and Practice in Teacher Education\
 The University of Tennessee, Knoxville\
 513 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\
@@ -37,9 +36,9 @@ profile <- get_profile(gs_id)
 
 Source: [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ) (updated `r Sys.Date()`)
 
-- **Total citations:** `r profile$total_cites` — how many times my work has been referenced by other researchers
-- **h-index:** `r profile$h_index` — I have `r profile$h_index` papers each cited at least `r profile$h_index` times
-- **i10-index:** `r profile$i10_index` — how many of my papers have been cited at least 10 times
+- **Total citations:** `r profile$total_cites`
+- **h-index:** `r profile$h_index`
+- **i10-index:** `r profile$i10_index`
 
 # Research Program
 
@@ -74,10 +73,10 @@ University of North Carolina, Asheville
 
 # Professional Experience
 
-2025-present, Haslam Family Professor\
+2026-present, Co-Director (with Dr. Emily Holtz), AI, Data, and Educational Partnerships at the University of Tennessee (ADEPT) Center\
 University of Tennessee, Knoxville
 
-2026-present, Co-Director (with Dr. Emily Holtz), AI, Data, and Educational Partnerships at the University of Tennessee (ADEPT) Center\
+2025-present, Haslam Family Professor\
 University of Tennessee, Knoxville
 
 2023-present, Associate Professor, STEM Education\
@@ -151,9 +150,11 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 
 # Grants
 
-*\$9,330,317 as Principal Investigator (PI) or Co-PI*
+*\$9,499,638 as Principal Investigator (PI) or Co-PI*
 
 ## PI or Co-PI
+
+2026-2029, PI, Lowering Barriers to Data Use in Sience Classrooms Through AI-Driven Data Wrangling (\$169,321; with Co-PIs Leah Rosenbaum and Zhen Xu), NSF (supplement to NSF grant No. 2239152).
 
 2025-2026, PI, *Tennessee Collaborative for the Presidential AI Challenge* (\$84,450). AI Tennessee Initiative, University of Tennessee, Knoxville.
 
@@ -189,7 +190,7 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 
 *\$13,803,319 as Senior Personnel/Investigator*
 
-2025-2030, Senior Personnel, Picturing Possibilities and Envisioning Selves; PiPES3 (PI: Erin Hardin), National Institutes of Health, $1,331,086
+2025-2030, Senior Personnel, Picturing Possibilities and Envisioning Selves; PiPES3 (PI: Erin Hardin), National Institutes of Health, \$1,331,086
 
 2025, Senior Personnel (assumed PI August 2025), Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations, JP Morgan Chase. <https://cehhs.utk.edu/ero/completions-in-green-sector-occupations/>
 
@@ -205,7 +206,7 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 
 2024-2026, Advisory Board Member, *A Multipronged Approach to Small-Teaching Interventions for Reducing Academic Procrastination: A Randomized Control Study via Terracotta,* NCER grant no. R305N240063. Miyake, A. (PI), Bernacki, M., Kane, M., & Snyder, H. (Co-PIs).
 
-2023-2026, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
+2023-2025, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
 
 2023-2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
 
@@ -232,27 +233,33 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 \+ Denotes a collaboration with a mentee who is a graduate student\
 \^ Denotes a collaboration with a mentee who is an undergraduate student
 
-## Scholarly Books (2)
+## Scholarly Books (3)
 
-Wang, W., Akcaoglu, M., Rosenberg, J. M., & Kellogg, S. (under contract, anticipated publication late 2026). *Computational social science cookbook with R: A practical guide* (a volume in the *Chapman & Hall/CRC Big Data Series*). CRC Press.
+Jones, R. S., Rosenberg, J. M., & Boles, K. (under contract). *Teaching Data Investigations to K-12 Learners: A Field Guide for Educators.* Routledge.
+
+Wang, W., Akcaoglu, M., Rosenberg, J. M., & Kellogg, S. (under contract, anticipated publication late 2026). *Computational Analysis of Educational Data: A Field Guide Using R.* CRC Press.
 
 Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I. C. (2020). *Data science in education using R*. Routledge. *Note.* All authors contributed equally. <http://www.datascienceineducation.com/>
 
 ## Book for General Audience (1)
 
-Rosenberg, K., & Rosenberg, J.M. (in press, anticipated release winter 2026-2027). Hiking Knoxville: Family Friendly Adventures from the City to the Smokies. UT Press. <https://familyhikesaroundknox.com/>
+Rosenberg, K., & Rosenberg, J.M. (in press, anticipated release early 2027). Hiking Knoxville: Family Friendly Adventures from the City to the Smokies. UT Press. <https://utpress.org/9798895274262/hiking-knoxville/>am
 
-## Articles Under Review or in Press
+## Articles Under Review
 
-Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Asson, S., Delcid, G., Serrano, E., & Rosenberg, J.M (revise and resubmit). Enrollment patterns and online portrayals of dual language programs in California: Obstacles and promising efforts for equitable access. *American Educational Research Journal.*
+Lopez, F., Darriet, C., Santibanez, L., Cervantes-Soon, C., Frankenberg, E., Asson, S., Delcid, G., Serrano, E., & Rosenberg, J.M (under review). Enrollment patterns and online portrayals of dual language programs in California: Obstacles and promising efforts for equitable access.
 
-Staudt-Willet, B., Na. H., & Rosenberg, J. M. (in preparation/revising). Understanding the work of educational data scientists: A mixed methods exploration.
+Staudt-Willet, B., Na. H., & Rosenberg, J. M. (Revise & resubmit stage). Understanding the work of educational data scientists: A mixed methods exploration.
 
-## Articles Published in Refereed Journals (66)
+## Articles Published in Refereed Journals (68)
+
+Morina, F., Fütterer, T., Carpenter, J., Rosenberg, J. M., & Fischer, C. (2026). Unlocking the Potential of Resources: An Examination of Sharing and Uptake signs in Educational Online Communities. *Computers & Education*, 105703. <https://doi.org/10.1016/j.compedu.2026.105703>
+
+Pritchard, C., Carpenter, J. P., & Rosenberg, J. M. (2026). Teachers' Instructional Use of YouTube: A National Survey. *Educational Researcher*. <https://doi.org/10.3102/0013189X261457604>
 
 Robertson, J. R., Logan, M. W., Rosenberg, J. M., & Lombardi, D. (2026). Profiles of scientific thinking. *Journal of Educational Psychology, 118*(5), 829-851. <https://doi.org/10.1037/edu0001011>
 
-Rosenberg, J. M., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A. V., & Xu, Z. (2026). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. Science Scope, 49(1), 44-50. https://www.tandfonline.com/doi/full/10.1080/08872376.2025.2601357
+Rosenberg, J. M., Kubsch, M., Sorge, S., Tautz, S., Pritchard, C., Garner, A. V., & Xu, Z. (2026). Embracing Uncertainty in Science: The ABCs of Data and the Confidence Updater. *Science Scope, 49*(1), 44-50. https://www.tandfonline.com/doi/full/10.1080/08872376.2025.2601357
 
 Fischer, M., Pritchard, C., Xu, Z., & Rosenberg, J. (2025). Finding Your Way into Data Science Education as a Science Teacher. *The Science Teacher, 92*(6), 49-55.
 
@@ -294,9 +301,9 @@ Rosenberg, J. M., Beymer, P. N., Phun, V., & Schmidt, J. A. (2023). Using intens
 
 Kubsch, M., Krist, C., & Rosenberg, J. M. (2023). Distributing Epistemic Functions and Tasks - A framework for augmenting human analytic power with machine learning in science education research. *Journal of Research in Science Teaching*. <https://onlinelibrary.wiley.com/doi/full/10.1002/tea.21803.> *Note.* All authors contributed equally.
 
--   Recipient of the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Education Research Interest Group, National Association for Research in Science Teaching
+- Recipient of the 2023 Research Worth Reading Award for the Research in Artificial Intelligence in Science Education Research Interest Group, National Association for Research in Science Teaching
 
--   Recipient of the 2023 GDCP (German Society for the Teaching of Chemistry and Physics) Best Paper Award
+- Recipient of the 2023 GDCP (German Society for the Teaching of Chemistry and Physics) Best Paper Award
 
 Carpenter, J. P., Morrison, S. A., Rosenberg, J. M., & Hawthorne, K. A. (2023). Using social media in pre-service teacher education: The case of a program-wide twitter hashtag. *Teaching and Teacher Education, 124*, 1-17. <https://www.sciencedirect.com/science/article/pii/S0742051X23000240>
 
@@ -464,7 +471,9 @@ Rosenberg, J. M., Greenhalgh, S. P., & Koehler, M. J. (2015). A performance asse
 
 Koehler, M. J., Mishra, P., Akcaoglu, M., & Rosenberg, J. M. (2013). Technological pedagogical content knowledge for teachers and teacher educators. In N. Bharati and S. Mishra (Eds.), *ICT integrated teacher education: A resource book* (pp. 1-8). Commonwealth Educational Media Center for Asia, New Delhi, India.
 
-## Papers Published in Refereed Conference Proceedings (34)
+## Papers Published in Refereed Conference Proceedings (35)
+
+Zhang, H., Rosenberg, J., Frank, K., Wang, W., & Xu, R. (2026). Causal inference and sensitivity analysis methods: A field guide for science education researchers. <https://doi.org/10.31234/osf.io/kn5qb_v2>
 
 Chen, C., Zhao, Y., Rosenberg, J. M., & Hodge, L. L. (2025, August). Mapping the Research Landscape of Culturally Relevant Pedagogy in Computing Education: A Topic Modeling Approach. In *Proceedings of the 2025 ACM Conference on International Computing Education Research* V. 2 (p. 20).
 
@@ -576,6 +585,42 @@ Rosenberg, J.M. (September, 2019). *Making data science education count: Explori
 
 Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Technological Pedagogical Content Knowledge framework*. English International Congress at the Universidad Técnica del Norte, Ibarra, Ecuador.
 
+## Select Conference Presentations
+
+Xu, Z., Rosenberg, J., Pritchard, C., Krebs, D., Sauer, J., Parker, A., & Hensley, K. (2026). *Challenges and Affordances in Engaging K-12 Students in Authentic Data Investigations*. NARST 2026 Annual International Conference, Seattle, WA.
+
+Rosenberg, J. M., Veletsianos, G., Romero-Hall, E. J., & Allen, E. (2025, April 24). *The accessibility of published educational research.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
+
+Garner, A., & Rosenberg, J. M. (2025, April). *Lichen our way to better data literacy: Insights from a place‑based and Bayesian professional development* \[Conference presentation\]. NARST 2025 Annual International Conference, Gaylord National Resort & Convention Center, National Harbor, MD, United States.
+
+Robertson, J. R., Logan, M. W., Rosenberg, J. M., & Lombardi, D. (2024, April). *Scientific thinking, reasoning, and knowledge construction across adolescence* \[Poster presentation\]. American Educational Research Association Annual Meeting, Philadelphia, PA, United States.
+
+Garner, A. V., Bao, H., & Rosenberg, J. (2024, March). *Collect, analyze interpret, oh my! 7th grade students' intended engagements in the OpenSciEd curriculum* \[Paper presentation\]. National Association of Research in Science Teaching Annual Conference, Denver, CO, United States.
+
+Carpenter, J., Morrison, S., Rosenberg, J. M., & Hawthorne, K. (2022, April). *Professional learning and networking for preservice teachers on Twitter: A Social Network Analysis of #BantshireEd*. Presentation at the American Educational Research Association Annual Meeting.
+
+Rosenberg, J. M., Carpenter, J., +Michela, E., +Sultana, O., McKenna, T. J., Dyer, E. D., & Reid, J. (2021, April). *"Best P.D. out there"? An exploration of the #NGSSchat network on Twitter*. Presentation at the American Educational Research Association Annual Meeting.
+
+Rosenberg, J. M., Hodge, L., Bertling, J., & King, S. (2020, April). Art as a context for data science: Exploring fourth-grade students' data visualization practices. In J. M. Rosenberg & B. Chen (Chairs), *Exploring data science across the curriculum and across grade levels*. Symposium conducted at the American Educational Research Association Annual Meeting, San Francisco, CA. (Conference canceled)
+
+Rosenberg, J. M, Beymer, P. N., Houslay, T. M., & Schmidt, J. A. (2019, April). Using a multivariate, multi-level model to understand how youths' in-the-moment engagement predicts changes in youths' interest. In M. Bernacki, A. Kaplan, and L. Linnenbrink-Garcia (Chairs), *Embracing and modeling the complex dynamics of motivation and engagement: Contextual, temporal, dynamic, and systematic*. Symposium conducted at the Annual Meeting of the American Educational Research Association, Toronto, CA.
+
+Reid, J., Rosenberg, J. M., Koehler, M. J., Fischer, C., & McKenna, T. J. (2019, March). *An exploration of #NGSSchat through social network analysis*. Paper presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
+
+Rosenberg, J. M., Beymer, P. N., & Schmidt, J. A. (2018, April). *How engagement during out-of-school time STEM programs predicts changes in motivation in STEM*. In J. M. Rosenberg (Chair), Data-intensive approaches to studying engagement in education: Exploring their current potential. Paper presented at the Annual Meeting of the American Educational Research Association, New York, NY.
+
+Greenhalgh, S. P., Rosenberg, J. M., & Koehler, M. J. (2017, April). *Combining data sets and methods to explore equity in teacher professional development. In D. G. Krutka (Chair), Data, big and small*. Symposium conducted at the meeting of the American Educational Research Association, San Antonio, TX.
+
+Mikeska, J. N., Rosenberg, J. M., Holtzman, S., & McCaffrey, D. (2017, April). *Comparing the alignment between two observational measures of science teachers' instructional practice*. Poster presented at the National Association for Research in Science Teaching Annual International Conference, San Antonio, TX.
+
+Ranellucci, J., Rosenberg, J. M., Klautke, H., Robinson, K. A., Saltarelli, W., Linnenbrink-Garcia, L., & Roseth, C. J. (2016, April). *Achievement goals, behavioral engagement, and achievement in a flipped undergraduate anatomy course*. Paper presented at the Annual Meeting of the American Educational Research Association, Washington, DC.
+
+Rosenberg, J. M. & Schwarz, C. V. (2016, April). Examining fifth and sixth grade students' epistemic considerations through an automated analysis of embedded assessment items. In B. Reiser (Chair), *Longitudinal studies of elementary and middle school students' epistemic considerations through participation in scientific practice*. Related paper set presented at the National Association for Research in Science Teaching Annual International Conference, Baltimore, MD.
+
+Rosenberg, J. M., & Koehler, M. J. (2015, April). Context and Technological Pedagogical Content Knowledge: A content analysis. In J. M. Rosenberg & M. J. Koehler (Chairs), *Addressing the complexity of teaching with technology: Context and Technological Pedagogical Content Knowledge*. Symposium conducted at the American Educational Research Association Annual Meeting, Chicago, IL.
+
+Lee, M., Schwarz, C. V., Ke, L., & Rosenberg, J. M. (2014, April). *Analyzing fifth-grade students' engagement in scientific modeling: Changes in students' epistemologies-in-practice over time*. Paper presented at the meeting of the National Association for Research in Science Teaching, Philadelphia, PA.
+
 ## Select Workshops
 
 I have led many workshops; additional references are provided in the above link.
@@ -598,31 +643,31 @@ D'Angelo, C., & Rosenberg, J. M. (2021, April). *Analyzing Education Data with O
 
 Instructor at the University of Tennessee, Knoxville:
 
--   *Foundations of Educational Data Science I* (STEM 680, M.A. and Ph.D. class)
+- *Foundations of Educational Data Science I* (STEM 680, M.A. and Ph.D. class)
 
--   *Foundations of Educational Data Science II* (STEM 685, M.A. and Ph.D. class)
+- *Foundations of Educational Data Science II* (STEM 685, M.A. and Ph.D. class)
 
--   *Visualizing Data Using R* (STEM 691, M.A. and Ph.D. class)
+- *Visualizing Data Using R* (STEM 691, M.A. and Ph.D. class)
 
--   *Capstone in Educational Data Science* (STEM 695, M.A. and Ph.D. class)
+- *Capstone in Educational Data Science* (STEM 695, M.A. and Ph.D. class)
 
--   *STEM Education Seminar* (STEM 612, Ph.D. class)
+- *STEM Education Seminar* (STEM 612, Ph.D. class)
 
--   *Trans-Departmental Seminar II* (TPTE 605, Ph.D. class)
+- *Trans-Departmental Seminar II* (TPTE 605, Ph.D. class)
 
--   *Nature of Mathematics and Science Education* (SCED 572, M.A. and Ph.D. class)
+- *Nature of Mathematics and Science Education* (SCED 572, M.A. and Ph.D. class)
 
--   *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543, B.S. & M.A. class)
+- *Teaching Science in Grades 7-12* (TPTE 495, SCED 496, & SCED 543, B.S. & M.A. class)
 
--   *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
+- *VolsTeach Step 1 and Step 2* (TPTE 110 & TPTE 120, undergraduate-level class)
 
 Instructor at Michigan State University:
 
--   *Psychology of Learning in School and Other Settings* (CEP 800, M.A. class)
+- *Psychology of Learning in School and Other Settings* (CEP 800, M.A. class)
 
--   *Approaches to Educational Research* (CEP 822, M.A. class)
+- *Approaches to Educational Research* (CEP 822, M.A. class)
 
--   *Technology and Leadership* (CEP 815, M.A. class)
+- *Technology and Leadership* (CEP 815, M.A. class)
 
 # National Leadership and Editorial Roles
 
@@ -651,6 +696,10 @@ Special Section Editor, *British Journal of Educational Technology*, 2022
 Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ## Service to the Profession
+
+External Reviewer, Application for Promotion to Associate Professor, Bar-Ilan University, 2026
+
+External Reviewer, Application for Promotion to Senior Lecturer, Stanford University, 2026
 
 External Reviewer, Application for Promotion to Associate Professor, Ohio State University, 2024
 
@@ -686,19 +735,19 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ## Select Ad-Hoc Journal Article Reviewing
 
--   AERA Open
--   British Journal of Educational Technology
--   Cognition & Instruction
--   Computers & Education
--   Contemporary Educational Psychology
--   Educational Researcher
--   Educational Psychologist
--   Educational Technology Research & Development
--   Journal of the Learning Sciences
--   Journal of Open Source Software
--   Science Education
--   TechTrends
--   Urban Education
+- AERA Open
+- British Journal of Educational Technology
+- Cognition & Instruction
+- Computers & Education
+- Contemporary Educational Psychology
+- Educational Researcher
+- Educational Psychologist
+- Educational Technology Research & Development
+- Journal of the Learning Sciences
+- Journal of Open Source Software
+- Science Education
+- TechTrends
+- Urban Education
 
 ## University Service
 
@@ -734,29 +783,29 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 Advisor for Doctoral students:
 
--   2025-present: Gustavo Alvarez-Suchini (co-advisor with E. Romero-Hall)
--   2025-present: Ronald Rupard
--   2024-present: Bradley Holtz (co-advisor with L. Caudle)
--   2023-present: Cody Pritchard
--   2023-present: Wei Wang
--   2023-present: Hanhui Bao
--   2021-present: Emily McDonald
--   2021-2024: Amanda Garner (postdoctoral scholar at Vanderbilt)
--   2020-present: Omiya Sultana
--   2019-2021: Jennifer Longnecker (PD specialist, DreamBox Learning)
+- 2025-present: Gustavo Alvarez-Suchini (co-advisor with E. Romero-Hall)
+- 2025-present: Ronald Rupard
+- 2024-present: Bradley Holtz (co-advisor with L. Caudle)
+- 2023-present: Cody Pritchard
+- 2023-present: Wei Wang
+- 2023-present: Hanhui Bao
+- 2021-present: Emily McDonald
+- 2021-2024: Amanda Garner (postdoctoral scholar at Vanderbilt)
+- 2020-present: Omiya Sultana
+- 2019-2021: Jennifer Longnecker (PD specialist, DreamBox Learning)
 
 Committee Member for Doctoral students:
 
--   2025-present: Richard Amoako (Educational Leadership & Policy Studies; ELPS)
--   2022-2024: Amanda Zeller (TPTE)
--   2021-2025: Donna Wortham (ELPS)
--   2021-2024: John Mooneyham
--   2021-2023: Anna Sintsova Banks (Department of Educational Psychology & Counseling)
--   2020-2023: Sarah Narvaiz (Department of Educational Psychology & Counseling)
--   2020-2022: Anthony Schmidt (Department of Educational Psychology & Counseling)
--   2019-2023: Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)
--   2019-2021: Matthew Hensley
--   2018-2020: Shande King
+- 2025-present: Richard Amoako (Educational Leadership & Policy Studies; ELPS)
+- 2022-2024: Amanda Zeller (TPTE)
+- 2021-2025: Donna Wortham (ELPS)
+- 2021-2024: John Mooneyham
+- 2021-2023: Anna Sintsova Banks (Department of Educational Psychology & Counseling)
+- 2020-2023: Sarah Narvaiz (Department of Educational Psychology & Counseling)
+- 2020-2022: Anthony Schmidt (Department of Educational Psychology & Counseling)
+- 2019-2023: Maryrose Weatherton (Department of Ecology and Evolutionary Biology, UTK)
+- 2019-2021: Matthew Hensley
+- 2018-2020: Shande King
 
 ## Visiting Scholars Hosted
 
@@ -816,10 +865,10 @@ New Faculty Mentoring Program, AERA Division C, 2019
 
 # Professional Affiliations
 
--   American Educational Research Association
+- American Educational Research Association
 
--   International Society of the Learning Sciences
+- International Society of the Learning Sciences
 
--   National Association for Research in Science Teaching
+- National Association for Research in Science Teaching
 
--   Society for Learning Analytics Research
+- Society for Learning Analytics Research

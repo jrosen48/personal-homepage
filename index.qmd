@@ -4,8 +4,7 @@ toc: false
 format-links: false
 ---
 
-:::: {.grid}
-
+::::: grid
 ::: {.g-col-12 .g-col-md-7}
 # Helping teachers, learners, and educational systems learn from [data]{.accent}
 
@@ -19,13 +18,4 @@ Much of this work happens in partnership with teachers and schools, especially i
 ::: {.g-col-12 .g-col-md-5}
 ![](images/20251217_Josh_Rosenberg_SB_025.jpg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center"}
 :::
-
-::::
-
-::: {.contact-band}
-## Contact
-
-If you're interested in working together — or are a student thinking about graduate study — please reach out. Email is best: [jrosenb8\@utk.edu](mailto:jrosenb8@utk.edu).
-
-[Contact](contact.qmd){.btn .btn-primary}
-:::
+:::::

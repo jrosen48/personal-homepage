@@ -5,11 +5,7 @@ toc-depth: 2
 format-links: false
 ---
 
-I am committed to making my work publicly accessible. Where a publication is
-open-access, this page links to the open version. Otherwise it links to the
-author's accepted manuscript (the peer-reviewed, pre-typeset version) in
-accordance with each publisher's self-archiving policy. If a manuscript you
-want is not here, please email me and I'll send it directly.
+I am committed to making my work publicly accessible. Where a publication is open-access, this page links to the open version. Otherwise it links to the author's accepted manuscript (the peer-reviewed, pre-typeset version) in accordance with each publisher's self-archiving policy. If a manuscript you want is not here, please email me and I'll send it directly.
 
 ```{r setup, include=FALSE}
 suppressPackageStartupMessages({
