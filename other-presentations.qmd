@@ -4,6 +4,30 @@ title: "Other Presentations"
 
 ## Peer-Reviewed Conference Presentations
 
+Chen, C., Rosenberg, J. M., Maples, A., & Hodge, L. L. (2026, April 8). *Design tensions and opportunities for building a sustainable professional learning network* \[Working group roundtable presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Wingert, K., Griffith, J., Rosenberg, J. M., Okochi, C., Hunter-Thomson, K., Jones, K., Lemus Gordillo, K. C., Brickley, A., Gold, A., & Thurber, A. (2026, April 8). *Finding the sweet spot in interdisciplinary data science education: The data puzzles model* \[Structured poster session presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J. M., Staudt Willet, B., & Singell, E. (2026, April 9). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial* \[Poster presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J. M., Staudt Willet, B., & Singell, E. (2026, April 9). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial* \[Ed-Talk presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Wang, W., Pritchard, C. C., & Rosenberg, J. M. (2026, April 10). *Educational video transcript analysis with LLMs: Improving entity recognition and qualitative insights* \[Roundtable presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Pritchard, C. C., Bhidya, H., Rosenberg, J. M., & Peterson, G. D. (2026, April 11). *Measuring racial and gender representation in YouTube instructional videos using natural language processing (NLP)* \[Paper presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Xu, Z., Rosenberg, J. M., Pritchard, C., Krebs, D., Sauer, J., Parker, A., & Hensley, K. (2026, April 19–22). *Challenges and affordances in engaging K-12 students in authentic data investigations* \[Poster presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Jones, K., Wingert, K., Hunter-Thomson, K., Gold, A., Lemus Gordillo, K. C., Griffith, J., Brickley, A., Rosenberg, J. M., & Bean, J. (2026, April 19–22). *Discursive roles in climate science + data professional learning: An analysis of learner hat* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Garner, A., Rosenbaum, L., Rosenberg, J. M., Xu, Z., & Jones, K. (2026, April 19–22). *From creekbeds to confidence: How place-based professional learning expands teacher perspectives on place and data* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Xu, Z., Rosenberg, J. M., Sarkar, S., Esbenshade, L., Nucci, D., Nielson, S., Edwards, A., Liu, A., Tian, Z., Zhang, Z., & Sun, M. (2026, April 19–22). *How science teachers use AI: A descriptive portrait from a national survey* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Nucci, D., Rosenberg, J. M., & Nielsen, S. (2026, April 19–22). *K-12 science teachers' GenAI use as situated in their school contexts and pedagogical orientations* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Rosenberg, J. M., Benz, G., & Lee, V. (2026, April 19–22). *Why does dealing with data really matter? Benefits and the conditions that support them* \[Roundtable presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
 Bao, H., Li, Y., Wang, Z., Rosenberg, J. M., & Koehler, M. J. (2025, April 23). *How are robots used in education? Mapping the robotics resources landscape on Teachers Pay Teachers.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
 
 Krist, C., Dyer, E. B., Cox, E. M., & Rosenberg, J. M. (2025, April 23). *AI and educational justice: A critical conversation.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.

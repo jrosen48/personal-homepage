@@ -403,6 +403,8 @@ National Academies of Sciences, Engineering, and Medicine. (2026). *Data and Com
 
 ## Commissioned Papers, White Papers, Reports, and Articles in the Popular Press (7)
 
+Pritchard, C., Carpenter, J., & Rosenberg, J. M. (2026). Class, let’s watch a short video – more than 75% of teachers say they use YouTube in the classroom. https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250
+
 Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. <https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15>
@@ -591,7 +593,15 @@ Rosenberg, J. M. (February, 2019). *Making sense of recent advances in the Techn
 
 ## Select Conference Presentations
 
-Xu, Z., Rosenberg, J., Pritchard, C., Krebs, D., Sauer, J., Parker, A., & Hensley, K. (2026). *Challenges and Affordances in Engaging K-12 Students in Authentic Data Investigations*. NARST 2026 Annual International Conference, Seattle, WA.
+Xu, Z., Rosenberg, J. M., Sarkar, S., Esbenshade, L., Nucci, D., Nielson, S., Edwards, A., Liu, A., Tian, Z., Zhang, Z., & Sun, M. (2026, April 19–22). *How science teachers use AI: A descriptive portrait from a national survey* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Rosenberg, J. M., Benz, G., & Lee, V. (2026, April 19–22). *Why does dealing with data really matter? Benefits and the conditions that support them* \[Roundtable presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Garner, A., Rosenbaum, L., Rosenberg, J. M., Xu, Z., & Jones, K. (2026, April 19–22). *From creekbeds to confidence: How place-based professional learning expands teacher perspectives on place and data* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Pritchard, C. C., Bhidya, H., Rosenberg, J. M., & Peterson, G. D. (2026, April 11). *Measuring racial and gender representation in YouTube instructional videos using natural language processing (NLP)* \[Paper presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J. M., Staudt Willet, B., & Singell, E. (2026, April 9). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial* \[Ed-Talk presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
 
 Rosenberg, J. M., Veletsianos, G., Romero-Hall, E. J., & Allen, E. (2025, April 24). *The accessibility of published educational research.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
 
