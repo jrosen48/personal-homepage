@@ -10,20 +10,18 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: teaching.qmd
-        text: Teaching
       - href: publications.qmd
         text: Publications
-      - href: writing-and-photography.qmd
-        text: Writing & Photography
+      - href: vita.html
+        text: Vita
       - href: about.qmd
         text: About
-      - href: contact.qmd
-        text: Contact
+      - href: photography.qmd
+        text: Photography
 
 format:
   html:
-    theme: [cosmo, theme.scss]
+    theme: cosmo
     css: styles.css
     toc: true
   pdf:

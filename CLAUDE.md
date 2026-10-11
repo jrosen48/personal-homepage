@@ -18,11 +18,11 @@ quarto clean                           # Remove .quarto/ cache
 
 ## Key Architecture Notes
 
-- **Source**: `.qmd` files in root — `index.qmd`, `research.qmd`, `teaching.qmd`, `publications.qmd`, `writing-and-photography.qmd`, `about.qmd`, `contact.qmd`, `vita.qmd`, `other-presentations.qmd`
+- **Source**: `.qmd` files in root — `index.qmd`, `research.qmd`, `publications.qmd`, `about.qmd`, `photography.qmd`, `vita.qmd`, `other-presentations.qmd`
 - **Config**: `_quarto.yml` — website structure, nav, and output formats
 - **Output**: `docs/` — rendered HTML/PDF/assets (GitHub Pages root)
-- **Nav structure** (per 2026 site refresh): Home | Research | Teaching | Publications | Writing & Photography | About | Contact. The CV lives behind a button on About (`vita.html` / `vita.pdf`); the research group and Substack are linked contextually, not from the navbar.
-- **`writing-and-photography.qmd`** carries `aliases: [/photography.html]` so the old Photography URL redirects
+- **Nav structure** (Oct 2026 simplification): Home | Research | Publications | Vita | About | Photography. Teaching and Contact live as sections on About; the research group, Substack, and other links are in the list on the homepage. Site copy is Josh's own sentences (old pages, vita Research Program section); do not add new prose without asking.
+- **Redirects**: `about.qmd` carries `aliases: [/contact.html, /teaching.html]` and `photography.qmd` carries `aliases: [/writing-and-photography.html]` so URLs from the June 2026 structure still resolve
 - **`vita.qmd`** and **`publications.qmd`** contain R code (the vita pulls live citation counts from Google Scholar via the `scholar` package), so a full render needs R
 
 ## Deployment

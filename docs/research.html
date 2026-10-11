@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-bb41d07a1ab2d851a4f388510690ee20.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -101,24 +104,20 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./writing-and-photography.html"> 
-<span class="menu-text">Writing &amp; Photography</span></a>
+    <a class="nav-link" href="./vita.html"> 
+<span class="menu-text">Vita</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Contact</span></a>
+    <a class="nav-link" href="./photography.html"> 
+<span class="menu-text">Photography</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -131,7 +130,9 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -155,47 +156,21 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>I study the use of data in education, especially in STEM education. My research spans two interconnected lines of work: using new data sources and computational methods to describe and question educational systems, and weaving data science into teaching and learning, with a focus on science education.</p>
-<p><a href="./publications.html" class="btn btn-primary me-2 mb-2">Publications</a> <a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ" class="btn btn-outline-primary me-2 mb-2">Google Scholar</a> <a href="vita.html" class="btn btn-outline-primary mb-2">CV</a></p>
-<section id="educational-data-science" class="level2">
-<h2 class="anchored" data-anchor-id="educational-data-science">Educational Data Science</h2>
 <p>In the first line of work, I study educational systems using computational approaches and novel data sources. This includes research on educators’ professional learning through social media, critical investigations of how K-12 institutions’ social media practices compromise student privacy, and methodological work that integrates machine learning with qualitative analysis.</p>
-</section>
-<section id="data-science-education" class="level2">
-<h2 class="anchored" data-anchor-id="data-science-education">Data Science Education</h2>
 <p>In the second line of work, I develop and study approaches for data science learning in K-12 settings. This includes designing instruction for statistical reasoning — especially Bayesian thinking — in science classrooms, building tools and curricula that make data science accessible to newcomers, and contributing to the development of educational data science as a field through open-source software, a co-authored book (<a href="https://datascienceineducation.com/"><em>Data Science in Education Using R</em></a>, Routledge, 2020), and a synthesis of what is known about K-12 data science learning.</p>
 <p>Across both lines, I program in R and Python, use advanced statistical methods (especially multilevel models), develop open-source tools, and center partnerships with teachers. My current and near-future work extends these efforts into multimodal learning analytics, community-based data science learning, and the roles of generative AI in education.</p>
-</section>
-<section id="selected-projects" class="level2">
-<h2 class="anchored" data-anchor-id="selected-projects">Selected Projects</h2>
-<div class="grid">
-<section id="project-credible" class="level4 g-col-12 g-col-md-4 feature-card">
-<h4 class="anchored" data-anchor-id="project-credible"><a href="https://projectcredible.com/">Project CREDIBLE</a></h4>
-<p><em>Creatively Reimagining Engagements with Data in Biology Learning Environments</em> — an NSF CAREER-funded project on helping students learn with data in science classrooms.</p>
-</section>
-<section id="data-exploration-and-sensemaking" class="level4 g-col-12 g-col-md-4 feature-card">
-<h4 class="anchored" data-anchor-id="data-exploration-and-sensemaking"><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405912">Data Exploration and Sensemaking</a></h4>
-<p>An NSF-funded collaborative project on learning how to help middle grades science teachers integrate data exploration and sensemaking in the classroom.</p>
-</section>
-<section id="making-data-science-count" class="level4 g-col-12 g-col-md-4 feature-card">
-<h4 class="anchored" data-anchor-id="making-data-science-count"><a href="https://makingdatasciencecount.com/">Making Data Science Count</a></h4>
-<p>My research group: graduate students and collaborators studying educational data science, data science education, and STEM learning.</p>
-</section>
-</div>
-</section>
-<section id="tools-resources" class="level2">
-<h2 class="anchored" data-anchor-id="tools-resources">Tools &amp; Resources</h2>
+<p><strong>Links</strong></p>
 <ul>
-<li><p><a href="https://datascienceineducation.com/"><em>Data Science in Education Using R</em></a> (Routledge) — a co-authored book with an open-access, web-based version accessed more than 150,000 times.</p></li>
-<li><p><a href="https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/">Educational Data Science Graduate Certificate</a> at the University of Tennessee, Knoxville.</p></li>
-<li><p>Open-source software and data resources, listed in my <a href="vita.html">CV</a>.</p></li>
+<li><p><a href="./publications.html">Publications</a></p></li>
+<li><p><a href="https://scholar.google.com/citations?user=nxVowRQAAAAJ&amp;hl=en&amp;oi=ao">Google Scholar profile</a></p></li>
+<li><p><a href="https://projectcredible.com/">Project CREDIBLE</a> - NSF CAREER-funded project</p></li>
+<li><p><a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405912">Data Exploration and Sensemaking</a> - NSF-funded collaborative project</p></li>
+<li><p><a href="https://makingdatasciencecount.com/">Making Data Science Count</a> - research group</p></li>
+<li><p><a href="https://datascienceineducation.com/"><em>Data Science in Education Using R</em></a> - open-access version of the book</p></li>
+<li><p><a href="https://joshuamrosenberg.com/vita.pdf">CV (PDF)</a></p></li>
 </ul>
-</section>
-<section id="funding" class="level2">
-<h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<p>My research has been supported by more than $9 million in funding as principal investigator or co-principal investigator, primarily from the National Science Foundation, including an <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2239152">NSF CAREER award</a>. A full list of grants is in my <a href="vita.html">CV</a>.</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

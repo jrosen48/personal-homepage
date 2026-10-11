@@ -1,21 +1,26 @@
 ---
-pagetitle: "Joshua M. Rosenberg, Ph.D."
-toc: false
+title: "Home"
 format-links: false
 ---
 
-::::: grid
-::: {.g-col-12 .g-col-md-7}
-# Helping teachers, learners, and educational systems learn from [data]{.accent}
+Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville. I study the use of data in education, especially in STEM education.
 
-I'm Josh Rosenberg, Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville. I study the use of data in education: how new data sources and methods can help us understand teaching, learning, and educational systems, and how students and teachers can learn to work with data themselves.
+![](images/20251217_Josh_Rosenberg_SB_025.jpg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center" width="35%"}
 
-Much of this work happens in partnership with teachers and schools, especially in science classrooms.
+**Links/Resources/Affiliations**
 
-[Research](research.qmd){.btn .btn-primary .me-2 .mb-2} [Teaching](teaching.qmd){.btn .btn-outline-primary .me-2 .mb-2} [CV](vita.html){.btn .btn-outline-primary .me-2 .mb-2} [Contact](contact.qmd){.btn .btn-outline-primary .mb-2}
-:::
+-   [UTK homepage](https://cehhs.utk.edu/tpte/people/joshua-rosenberg-phd/)
 
-::: {.g-col-12 .g-col-md-5}
-![](images/20251217_Josh_Rosenberg_SB_025.jpg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center"}
-:::
-:::::
+-   [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
+
+-   [Making Data Science Count](https://makingdatasciencecount.com/) - research group
+
+-   [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
+
+-   [Google Scholar profile](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&oi=ao)
+
+-   [CV (PDF)](https://joshuamrosenberg.com/vita.pdf)
+
+-   [Educated Guesses](https://joshuamrosenberg.substack.com/) - newsletter
+
+-   [Previous blog (archive)](https://jrosen48.github.io/utk-homepage/)
