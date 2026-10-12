@@ -4,6 +4,30 @@ title: "Other Presentations"
 
 ## Peer-Reviewed Conference Presentations
 
+Chen, C., Rosenberg, J. M., Maples, A., & Hodge, L. L. (2026, April 8). *Design tensions and opportunities for building a sustainable professional learning network* \[Working group roundtable presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Wingert, K., Griffith, J., Rosenberg, J. M., Okochi, C., Hunter-Thomson, K., Jones, K., Lemus Gordillo, K. C., Brickley, A., Gold, A., & Thurber, A. (2026, April 8). *Finding the sweet spot in interdisciplinary data science education: The data puzzles model* \[Structured poster session presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J. M., Staudt Willet, B., & Singell, E. (2026, April 9). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial* \[Poster presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Rodrigues, J., Malin, J. R., Farley-Ripple, E. N., Rosenberg, J. M., Staudt Willet, B., & Singell, E. (2026, April 9). *Diffusing mathematics practitioner articles via social media and translational visual abstracts: A randomized controlled trial* \[Ed-Talk presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Wang, W., Pritchard, C. C., & Rosenberg, J. M. (2026, April 10). *Educational video transcript analysis with LLMs: Improving entity recognition and qualitative insights* \[Roundtable presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Pritchard, C. C., Bhidya, H., Rosenberg, J. M., & Peterson, G. D. (2026, April 11). *Measuring racial and gender representation in YouTube instructional videos using natural language processing (NLP)* \[Paper presentation\]. AERA 2026 Annual Meeting, Los Angeles, CA, United States.
+
+Xu, Z., Rosenberg, J. M., Pritchard, C., Krebs, D., Sauer, J., Parker, A., & Hensley, K. (2026, April 19–22). *Challenges and affordances in engaging K-12 students in authentic data investigations* \[Poster presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Jones, K., Wingert, K., Hunter-Thomson, K., Gold, A., Lemus Gordillo, K. C., Griffith, J., Brickley, A., Rosenberg, J. M., & Bean, J. (2026, April 19–22). *Discursive roles in climate science + data professional learning: An analysis of learner hat* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Garner, A., Rosenbaum, L., Rosenberg, J. M., Xu, Z., & Jones, K. (2026, April 19–22). *From creekbeds to confidence: How place-based professional learning expands teacher perspectives on place and data* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Xu, Z., Rosenberg, J. M., Sarkar, S., Esbenshade, L., Nucci, D., Nielson, S., Edwards, A., Liu, A., Tian, Z., Zhang, Z., & Sun, M. (2026, April 19–22). *How science teachers use AI: A descriptive portrait from a national survey* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Nucci, D., Rosenberg, J. M., & Nielsen, S. (2026, April 19–22). *K-12 science teachers' GenAI use as situated in their school contexts and pedagogical orientations* \[Paper presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
+Rosenberg, J. M., Benz, G., & Lee, V. (2026, April 19–22). *Why does dealing with data really matter? Benefits and the conditions that support them* \[Roundtable presentation\]. NARST 2026 Annual International Conference, Seattle, WA, United States.
+
 Bao, H., Li, Y., Wang, Z., Rosenberg, J. M., & Koehler, M. J. (2025, April 23). *How are robots used in education? Mapping the robotics resources landscape on Teachers Pay Teachers.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
 
 Krist, C., Dyer, E. B., Cox, E. M., & Rosenberg, J. M. (2025, April 23). *AI and educational justice: A critical conversation.* Paper presented at the American Educational Research Association (AERA) Annual Meeting, Denver, CO, United States.
@@ -194,11 +218,11 @@ Koehler, M. J., Rosenberg, J. M., Greenhalgh, S., Zellner, A. L., & Mishra, P. (
 
 Hu, A. D., Greenhalgh, S. P. Rosenberg, J. M., & Staudt-Willet, B. (March, 2023). *What ChatGPT is, how it is impacting universities, and how might we make "good" use of it.*. Panel presentation at the Michigan State University College of Education. Michigan State University, East Lansing, MI.
 
-Parr, E. D., Dyer, E. B., Rosenberg, J. M., D'Angelo, C., Lishinski, A., & Krist, C. (2021, June). Leveraging the power of visualization in the analysis of classroom audiovisual data https://tca2.education.illinois.edu/isls-2021/isls-2021-workshop
+Parr, E. D., Dyer, E. B., Rosenberg, J. M., D'Angelo, C., Lishinski, A., & Krist, C. (2021, June). Leveraging the power of visualization in the analysis of classroom audiovisual data <https://tca2.education.illinois.edu/isls-2021/isls-2021-workshop>
 
-Rosenberg, J. M. (2021, June). *Data Visualization and Text Analysis Using R*. Workshop carried out at Southern Wesleyan University, https://github.com/jrosen48/data-viz-and-qual-analysis-workshop
+Rosenberg, J. M. (2021, June). *Data Visualization and Text Analysis Using R*. Workshop carried out at Southern Wesleyan University, <https://github.com/jrosen48/data-viz-and-qual-analysis-workshop>
 
-Rosenberg, J. M. (2021, May). *An Introduction to Machine Learning Using R for Science Education Research*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. https://github.com/jrosen48/ML-in-Science-Education-Workshop-Materials
+Rosenberg, J. M. (2021, May). *An Introduction to Machine Learning Using R for Science Education Research*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. <https://github.com/jrosen48/ML-in-Science-Education-Workshop-Materials>
 
 Sorge, S., Kubsch, M., Rosenberg, J. M., & D'Angelo, C. (2021, April). *Rethinking how you understand your data with R*. Workshop carried out at the National Association for Research in Science Teaching.
 
@@ -212,7 +236,7 @@ Rosenberg, J. M., Staudt Willet, K. B., & Greenhalgh, S. P. (2019, October). *On
 
 Rosenberg, J.M. (September, 2019). *An introduction to data science in education using R*. Workshop at Middle Tennessee State University. Middle Tennessee State University, Murfreesboro, TN. <a href = "https://github.com/jrosen48/mtsu-workshop"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
-Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> YouTube recording: https://www.youtube.com/watch?v=1YY2FoCFIm4
+Rosenberg, J. M. (2019, June). *The use of mixed effects models for analyzing complex data*. Presentation for the KnoxData group, Knoxville, TN. <a href = "https://github.com/jrosen48/data-science-ish"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a> YouTube recording: <https://www.youtube.com/watch?v=1YY2FoCFIm4>
 
 Rosenberg, J. M. (2019, May). *Won’t you be my neighboR? An introduction to R for data science in education*. Workshop carried out for the Educational Psychology and Educational Technology program, Michigan State University. <a href = "https://github.com/jrosen48/MSU-workshop-2019"><img src="/logos/github.png" style="width: 20px; height: 20px; margin-left: 1px;"/></a>
 
@@ -224,15 +248,15 @@ Rosenberg, J. M. (March, 2016). *An introduction to R for programming and statis
 
 ## Outreach and Community Engagement
 
-Rosenberg, J. M., & Narvaiz, S. (2022, April). *What is data science and what do data scientists do? A presentation at L&N STEM Academy* (L&N STEM Career Connections presentation and presentation to two AP Computer Science Principles courses). https://tinyurl.com/stem-data-sci
+Rosenberg, J. M., & Narvaiz, S. (2022, April). *What is data science and what do data scientists do? A presentation at L&N STEM Academy* (L&N STEM Career Connections presentation and presentation to two AP Computer Science Principles courses). <https://tinyurl.com/stem-data-sci>
 
-Rosenberg, J. M. (2021, November). *Analyzing and interpreting scientific data with DataClassroom*. Knox County Schools District Learning Day. https://joshuamrosenberg.com/kcs-dld-2021-11-02-analyzing-scientific-data.pdf
+Rosenberg, J. M. (2021, November). *Analyzing and interpreting scientific data with DataClassroom*. Knox County Schools District Learning Day. <https://joshuamrosenberg.com/kcs-dld-2021-11-02-analyzing-scientific-data.pdf>
 
-Rosenberg, J. M. (2021, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. https://github.com/r4ds/bookclub-dsieur
+Rosenberg, J. M. (2021, April). *Discussion of Teaching Data Science*. Presentation for the Data Science in Education Using R book club. <https://github.com/r4ds/bookclub-dsieur>
 
-Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s
+Rosenberg, J. M. (2020, April). *An informal, open introduction to using R Markdown in education*. Virtual workshop. <https://www.youtube.com/watch?v=BA1YFvmXCXQ&t=57s>
 
-Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing
+Rosenberg, J. M. (2019, May). *Working with data in education: Using data and supporting students to use data*. Workshop carried out for teachers at Knoxville Jewish Day School. <https://docs.google.com/presentation/d/1uSdRvF2GjhUpO2fCHZIUdXmf0texzczGGlbzmZBgggw/edit?usp=sharing>
 
 Trout-Fryxell, B., & Rosenberg, J. M. (2020, February). *Authentic science in the classroom with MEGA:BITESS*. Presentation at the Knox County Schools Science Department District Learning Day, Knoxville, TN.
 
@@ -240,15 +264,15 @@ Ranellucci, J., & Rosenberg, J. M. (2016, February). *Motivating our students: A
 
 Crouter, S., Gibbons, M., Kim. Y.-K., Moore, T., & Rosenberg. J. M. (2022, April). *National recognition in research/scholarship*. Panel discussion in the College of Education, Heath, and Human Sciences. *Note.* I was the moderator for this panel discussion.
 
-Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/
+Rosenberg, J. M. (2022, March). *What is the role of data science in K-12 (pre-collegiate) teaching and learning?* Data Science and Statistics Seminar Series, Department of Mathematics, UTK. <https://joshuamrosenberg.com/post/2022/03/24/what-is-the-role-of-data-science-in-k-12-teaching-and-learning/>
 
 ## Other Presentations
 
 Rosenberg, J. M. (2024, November). *Computational Audio Data Analytics to Explore STEM Classroom Teaching and Learning.* Learning Break Presentation. College of Educationa, Health, and Human Sciences, UTK.
 
-Rosenberg, J. M. (2024, April). *Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media.* Presentation at the AERA Division C New Faculty Mentoring Program. https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p
+Rosenberg, J. M. (2024, April). *Public Scholarship, Broader Impacts, and Interfacing with Traditional and Social Media.* Presentation at the AERA Division C New Faculty Mentoring Program. <https://docs.google.com/presentation/d/10XqT2jV1sM2Mk9YtIYDRNLlwTa0HwqI36EAkAFcE9a8/edit#slide=id.p>
 
-\^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee
+\^Gibbons, B., Bui, H., +Mann, M., +Longnecker, J., Dyer, E., & Rosenberg, J. M. (2021, January). *Insights on the current and preferred integration of computer science into K-8 education in Tennessee*. Presentation at the 15th Annual Tennessee STEM Education Research Conference. <https://www.pechakucha.com/presentations/insights-on-the-current-and-preferred-integration-of-computer-science-into-k-8-education-in-tennessee>
 
 Rosenberg, J. M., +Sultana, O., +Mann, M., +Carter, B., +Kenner, N., & +Edwards, A. (2021, January). *How can K-12 science learners analyze data in creative and ambitious ways? Early findings from a design-based research project*. Presentation at the 15th Annual Tennessee STEM Education Research Conference.
 
