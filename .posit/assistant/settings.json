@@ -2,6 +2,9 @@
   "permission": {
     "edit": {
       "*.qmd": "allow"
+    },
+    "read": {
+      "*/config": "allow"
     }
   }
 }
