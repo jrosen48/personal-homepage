@@ -7,20 +7,24 @@ Welcome! I am Haslam Family Professor and Associate Professor of STEM Education 
 
 ![](images/20251217_Josh_Rosenberg_SB_025.jpg){fig-alt="Portrait of Joshua Rosenberg" fig-align="center" width="35%"}
 
+![](images/seds-keynote.jpeg){fig-align="center" width="272"}
+
 **Links/Resources/Affiliations**
 
--   [UTK homepage](https://cehhs.utk.edu/tpte/people/joshua-rosenberg-phd/)
+- [UTK homepage](https://cehhs.utk.edu/tpte/people/joshua-rosenberg-phd/)
 
--   [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
+- [Project CREDIBLE](https://projectcredible.com/) - NSF CAREER-funded project
 
--   [Making Data Science Count](https://makingdatasciencecount.com/) - research group
+- [ADEPT Center](https://cehhs.utk.edu/tpte/research-and-engaged-scholarship/centers/adept/)
 
--   [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
+- [Computing, AI, and Data in Education (CADE)](https://cehhs.utk.edu/tpte/about-tpte/interdisciplinary-learning-and-teaching-ilt-in-early-childhood-design-and-technology-and-stem-unit/computing-ai-and-data-in-education-cade/) program area
 
--   [Google Scholar profile](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&oi=ao)
+- [Educational Data Science Graduate Certificate](https://volsonline.utk.edu/programs-degrees/educational-data-science-gc/), University of Tennessee, Knoxville
 
--   [CV (PDF)](https://joshuamrosenberg.com/vita.pdf)
+- [Google Scholar profile](https://scholar.google.com/citations?user=nxVowRQAAAAJ&hl=en&oi=ao)
 
--   [Educated Guesses](https://joshuamrosenberg.substack.com/) - newsletter
+- [CV (PDF)](https://joshuamrosenberg.com/vita.pdf)
 
--   [Previous blog (archive)](https://jrosen48.github.io/utk-homepage/)
+- [Educated Guesses](https://joshuamrosenberg.substack.com/) - newsletter
+
+- [Previous blog (archive)](https://jrosen48.github.io/utk-homepage/)
