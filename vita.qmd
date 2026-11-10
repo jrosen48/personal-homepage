@@ -41,16 +41,6 @@ Source: [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ)
 - **h-index:** `r profile$h_index`
 - **i10-index:** `r profile$i10_index`
 
-# Research Program
-
-My research program spans two interconnected lines of work in educational data science: using new data sources and computational methods to describe and question educational systems, and weaving data science into teaching and learning with a focus on science education.
-
-In the first line of work, I study educational systems using computational approaches and novel data sources. This includes research on educators’ professional learning through social media, critical investigations of how K–12 institutions’ social media practices compromise student privacy, and methodological work that integrates machine learning with qualitative analysis.
-
-In the second line of work, I develop and study approaches for data science learning in K–12 settings. This includes designing instruction for statistical reasoning—especially Bayesian thinking—in science classrooms; building tools and curricula that make data science accessible to newcomers; and contributing to the development of educational data science as a field through widely used open-source software, a co-authored book (*Data Science in Education Using R*, Routledge, 2020; second edition forthcoming), two books under contract (with Routledge and CRC Press), a synthesis of what is known about K–12 data science learning, and service on the National Academies committee that produced *Data and Computing in K–12 Education: Foundational Competencies* (2026).
-
-Across both lines, I program in R and Python, use advanced statistical methods (especially multilevel models), develop open-source tools, and center partnerships with teachers. My current and near-future work extends these efforts into multimodal learning analytics, community-based data science learning, and the roles of generative AI in education.
-
 # Education
 
 ## Degrees
@@ -73,12 +63,6 @@ Michigan State University
 University of North Carolina, Asheville
 
 # Professional Experience
-
-2026-present, Program Area Director, Computing, AI, and Data in Education\
-University of Tennessee, Knoxville
-
-2026-present, Co-Director (with Dr. Emily Holtz), ADEPT Center\
-University of Tennessee, Knoxville
 
 2025-present, Haslam Family Professor\
 University of Tennessee, Knoxville
@@ -113,6 +97,39 @@ Faculty Fellow (Data Science), College of Emerging and Collaborative Studies, Un
 Faculty Fellow, Center for Enhancing Education in Mathematics and Sciences, University of Tennessee, Knoxville (2019-present)
 
 Faculty Fellow, Education Research & Opportunity Center, University of Tennessee, Knoxville (2023-2025)
+
+# Leadership
+
+## Academic Leadership
+
+2026-present, Program Area Director, Computing, AI, and Data in Education (CADE)\
+Department of Theory and Practice in Teacher Education, University of Tennessee, Knoxville
+
+2023-2026, Coordinator, Graduate Certificate Program in Educational Data Science, 
+
+2026-present, Co-Director (with Dr. Emily Holtz), [AI, Data, and Educational Partnerships at the University of Tennessee (ADEPT) Center](https://cehhs.utk.edu/tpte/research-and-engaged-scholarship/centers/adept/)\
+University of Tennessee, Knoxville
+
+2023-2025, Faculty Lead, Data Science Curriculum Committee\
+College of Emerging and Collaborative Studies, University of Tennessee, Knoxville
+
+2022-2023, Co-Chair, Education Committee, AI Visioning Working Group\
+AI Tennessee Initiative, University of Tennessee, Knoxville
+
+## National Leadership
+
+2024-2026, Committee Member, Developing Competencies for the Future of Data and Computing: The Role of K-12\
+National Academies of Sciences, Engineering, and Medicine (consensus report: *Data and Computing in K–12 Education: Foundational Competencies*, 2026)
+
+## Editorial Leadership
+
+Associate Editor, *Journal of Research in Science Teaching*, 2024-present
+
+Associate Editor, *Journal of Statistics and Data Science Education*, 2023-present
+
+Special Section Editor, *British Journal of Educational Technology*, 2022
+
+Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 # Awards
 
@@ -183,7 +200,7 @@ grants <- data.frame(
   ),
   role = c(rep("PI/Co-PI", 17), rep("Senior Personnel", 5)),
   amount = c(169321, 84450,
-             NA,  # TODO: add the JP Morgan Chase award amount
+             180933,
              2997783, 21000, 846612, 999980, 899319, 299836, 10000, 1991,
              15000, 1313855, 346688, 252453, 13200, 8820,
              1331086, 9999976, 1208563, 933150, 149611)
@@ -203,7 +220,7 @@ n_awards  <- nrow(grants)
 
 2025-2026, PI, *Tennessee Collaborative for the Presidential AI Challenge* (\$84,450). AI Tennessee Initiative, University of Tennessee, Knoxville.
 
-2025, PI (assumed PI August 2025; previously Senior Personnel), *Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations*. JP Morgan Chase. <https://cehhs.utk.edu/ero/completions-in-green-sector-occupations/>
+2025, PI (assumed PI August 2025; previously Senior Personnel), *Building a Sustainable Future: Examining Community College Student Enrollment and Completions in Green Sector Occupations* (\$180,933). JP Morgan Chase. <https://cehhs.utk.edu/ero/completions-in-green-sector-occupations/>
 
 2024-2028, PI, *Collaborative Research: Learning How to Help Middle Grades Science Teachers Integrate Data Exploration and Sensemaking in the Classroom* (\$2,997,783; with lead PI Jonathan Griffith, CU Boulder; UTK sub-contract: \$99,296). NSF. [NSF Grant No. 2405912](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2405912&HistoricalAwards=false).
 
@@ -246,32 +263,6 @@ n_awards  <- nrow(grants)
 2020-2023, Senior Personnel, *Learning analytics in STEM education research institute* (\$933,150; *PI*, Shaun Kellogg, North Carolina State University; UTK subcontract: \$62,870). National Science Foundation (NSF), [NSF Grant No. 2025090](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2025090&HistoricalAwards=false)
 
 2019-2022, Senior Personnel, *Medical entomology and geospatial analyses: Bringing innovation to teacher education and surveillance studies* (\$149,611; *PI*: Rebecca Trout Fryxell). United States Department of Agriculture - Agriculture and Food Research Initiative. (USDA Grant No. 2019-68010-29119) <https://www.megabitess.org/>
-
-## Consultant and Advisory Board Member Roles
-
-2024-2026, Advisory Board Member, *A Multipronged Approach to Small-Teaching Interventions for Reducing Academic Procrastination: A Randomized Control Study via Terracotta,* NCER grant no. R305N240063. Miyake, A. (PI), Bernacki, M., Kane, M., & Snyder, H. (Co-PIs).
-
-2023-2025, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
-
-2023-2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
-
-2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
-
-2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
-
-2023-2025, Consultant, *Forschen mit epistemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
-
-2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false>
-
-2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false>
-
-2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false>
-
-2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), <https://www.stat.uci.edu/bayes-bats/>
-
-2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital Promise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
-
-2021-2022, Lead STEM Education Consultant, *Supporting Students' Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
 
 # Publications
 
@@ -329,7 +320,7 @@ Beymer, P. N., Schell, M. J., Alberts, K. M., Phun, V., Rosenberg, J. M., & Schm
 
 Rosenberg, J., & Jones, R. S. (2024). Data science learning in grades K–12: Synthesizing research across divides. *Harvard Data Science Review*, *6*(3), 1-30. <https://doi.org/10.1162/99608f92.b1233596>
 
-Fütterer, T., Omarchevska, Y., Rosenberg, J. M., & Fischer, C. (2024). How do teachers collaborate in informal professional learning activities? An Epistemic Network Analysis. *Journal of Science Education and Technology*, 1-15. <https://link.springer.com/article/10.1007/s10956-024-10122-y>
+Fütterer, T., Omarchevska, Y., Rosenberg, J. M., & Fischer, C. (2024). How do teachers collaborate in informal professional learning activities? An Epistemic Network Analysis. *Journal of Science Education and Technology, 33*(5), 796-810. <https://doi.org/10.1007/s10956-024-10122-y>
 
 +Narvaiz, S., Lin, Q., Rosenberg, J. M., Frank, K. A., Maroulis, S. J., Wang, W., & Xu, R. (2024). konfound: An R Sensitivity Analysis Package to Quantify the Robustness of Causal Inferences. *Journal of Open Source Software, 9*(95), 1-6. <https://joss.theoj.org/papers/10.21105/joss.05779.pdf>
 
@@ -447,31 +438,23 @@ Rosenberg, J. M., & Koehler, M. J. (2015). Context and Technological Pedagogical
 
 National Academies of Sciences, Engineering, and Medicine. (2026). *Data and Computing in K-12 Education: Foundational Competencies*. Washington, DC: National Academies Press. <https://doi.org/10.17226/29303>. *N.b.* I contributed as a committee member.
 
-## Commissioned Papers, White Papers, Reports, and Articles in the Popular Press (8)
-
-Pritchard, C., Carpenter, J., & Rosenberg, J. M. (2026). Class, let’s watch a short video – more than 75% of teachers say they use YouTube in the classroom. https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250
+## Commissioned Papers, White Papers, and Reports (3)
 
 Bilal, D., Fagan, J., Rius, A., Vogiatzis, K., Liu, C., Dahms, H., Duncan, L., Kim, H., Odoi, A., Rosenberg, J., Singh, V., & Sobes, V. (2023). *AI TENNessee Initiative: Education. AI Tennessee Initiative*. *N.b.* I co-chaired the committee that wrote this white paper with C. Liu.
 
 Rosenberg, J. M., & Jones, R. S. (2022). *K-12 data science learning*. Paper commissioned by the National Academies of Sciences, Engineering, and Medicine for *Foundations of Data Science for Students in Grades K-12: A Workshop*. <https://www.nationalacademies.org/event/09-13-2022/docs/DD667E469D0EC5DD91A7D85BC839A9852491A3CF9F15>
 
-Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. <https://theconversation.com/school-posts-on-facebook-could-threaten-student-privacy-160248>
-
-Rosenberg, J. M. (2020). Open-source authorship of data science in education using R. *R Views*. <https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/>
-
 Naftzger, N., Schmidt, J. A., Shumow, L., Beymer, P. N., & Rosenberg, J. M. (2019). *Exploring the link between STEM activity leader practice and youth engagement: Findings from the STEM IE study*. Washington, DC: American Institutes for Research. <https://www.informalscience.org/exploring-link-between-stem-activity-leader-practice-and-youth-engagement-findings-stem-ie-study>
 
-Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. <https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/>
-
-Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. <https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/>
-
-## Editor-Reviewed Articles Published in Journals (14)
+## Editor-Reviewed Articles Published in Journals (15)
 
 Kimmons, R., Rosenberg, J. M., Ali, F., & West, R. E. (2026). Trends and topics in educational technology, 2026 edition. *TechTrends.* <https://doi.org/10.1007/s11528-026-01193-2>
 
 Rosenberg, J. M., Bonvini, M., Bray, A., Gong, R., & Yu, B. (2026). Teaching veridical data science: A panel interview with Matteo Bonvini, Andrew Bray, Ruobin Gong, and Bin Yu. *Journal of Statistics and Data Science Education, 34*(2), 127-143. <https://doi.org/10.1080/26939169.2026.2632565>
 
-Allman, B., Kimmons, R., +Wang, W., +Bao, H., Rosenberg, J. M., & Koehler, M. J. (2024). Trends and topics in educational technology, 2024 edition. *TechTrends.* <https://doi.org/10.1007/s11528-024-00950-5>
+Kimmons, R., +McDonald, E., & Rosenberg, J. M. (2025). Trends and topics in educational technology, 2025 edition. *TechTrends*. 69, 859–863.
+
+Allman, B., Kimmons, R., +Wang, W., +Bao, H., Rosenberg, J. M., & Koehler, M. J. (2024). Trends and topics in educational technology, 2024 edition. *TechTrends, 68*(3), 402-410. <https://doi.org/10.1007/s11528-024-00950-5>
 
 Allman, B., Kimmons, R., Rosenberg, J., & Dash, M. (2023). Trends and Topics in Educational Technology, 2023 Edition. *TechTrends, 67*(3), 583-591. <https://link.springer.com/article/10.1007/s11528-023-00840-2>
 
@@ -597,11 +580,27 @@ Rosenberg, J., Terry, C., Bell, J., Hiltz, V., Russo, T. & The EPET Social Media
 
 Rosenberg, J. (2013). Review of mobile device use policies in public high schools. In R. McBride & M. Searson (Eds.), *Proceedings of Society for Information Technology & Teacher Education International Conference 2013* (pp. 3774-3779). Chesapeake, VA: AACE. Retrieved from <https://www.learntechlib.org/p/48698/>
 
+## Preprints and Other Publications
+
+Zhang, H., Rosenberg, J., Frank, K., Wang, W., & Xu, R. (2026). Causal inference and sensitivity analysis methods: A field guide for science education researchers. <https://doi.org/10.31234/osf.io/kn5qb_v2>
+
+Kubsch, M., Kastaun, M., Wulff, P., Graulich, N., Ariely, M., Bergmann-Gering, A., Gombert, S., Gregorcic, B., Härtig, H., Heuckmann, B., Horbach, A., Krist, C., Kortemeyer, G., Münch, B., Pazicni, S., Rosenberg, J. M., Schanze, S., Sbeglia, G., Skogvoll, V., ... Zhai, X. (2025). Report on the Scoping Workshop on AI in Science Education Research 2025. *arXiv*. <https://doi.org/10.48550/arXiv.2511.14318>
+
 # Research Software
 
-Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* \[R package\]. <https://data-edu.github.io/tidyLPA/>
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(cranlogs)
+dl <- cran_downloads(packages = c("tidyLPA", "konfound"), from = "2012-10-01", to = Sys.Date())
+dl_total <- tapply(dl$count, dl$package, sum)
+fmt_n <- function(x) format(x, big.mark = ",")
+```
 
-Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* \[R package\]. <https://jrosen48.github.io/konfound/>
+Rosenberg, J. M., van Lissa, C. J., Beymer, P. N., Anderson, D. J., Schell, M. J. & Schmidt, J. A. (2019). *tidyLPA: Easily carry out Latent Profile Analysis (LPA) using open-source or commercial software* \[R package\]. <https://data-edu.github.io/tidyLPA/> *CRAN downloads: `r fmt_n(dl_total[["tidyLPA"]])` (as of `r Sys.Date()`).*
+
+Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *konfound: Quantify the robustness of causal inferences* \[R package\]. <https://jrosen48.github.io/konfound/> *CRAN downloads: `r fmt_n(dl_total[["konfound"]])` (as of `r Sys.Date()`).*
 
 Rosenberg, J. M., Xu, R., & Frank, K. A. (2019). *Konfound-It!: Quantify the robustness of causal inferences* \[R Shiny application\]*.* <http://konfound-it.com>
 
@@ -612,12 +611,6 @@ Rosenberg, J. M. (2020). *tidykids: State-by-State Spending on Kids Dataset*. <h
 Lishinski, A., & Rosenberg, J. M. (2019). *Short message survey: An open-source, text-message based application for the experience sampling method.* <https://github.com/picsul/short-message-survey>
 
 Rosenberg, J. M. (2016). Diffusion & temperature. *Lab Interactive Simulation.* <https://lab.concord.org/interactives.html#interactives/external-projects/msu/temperature-diffusion.json>
-
-## Other Publications
-
-Zhang, H., Rosenberg, J., Frank, K., Wang, W., & Xu, R. (2026). Causal inference and sensitivity analysis methods: A field guide for science education researchers. <https://doi.org/10.31234/osf.io/kn5qb_v2>
-
-Kubsch, M., Kastaun, M., Wulff, P., Graulich, N., Ariely, M., Bergmann-Gering, A., Gombert, S., Gregorcic, B., Härtig, H., Heuckmann, B., Horbach, A., Krist, C., Kortemeyer, G., Münch, B., Pazicni, S., Rosenberg, J. M., Schanze, S., Sbeglia, G., Skogvoll, V., ... Zhai, X. (2025). Report on the Scoping Workshop on AI in Science Education Research 2025. *arXiv*. <https://doi.org/10.48550/arXiv.2511.14318>
 
 # Presentations
 
@@ -699,11 +692,77 @@ Kellogg, S., Jiang, S., Moore, R., & Rosenberg, J. M. (2021, August). *A LASER F
 
 Rosenberg, J. M. (2021, July). *An Introduction to Natural Language Processing in Science Education*. Workshop carried out at the [Machine Learning and Computer-Based Text Analysis conference](https://www.ipn.uni-kiel.de/en/the-ipn/news/gdcp-focus-conference-machine-learning-and-computer-based-text-analysis-may-6th-7th-2021-register-now), Kiel, Germany. <https://joshuamrosenberg.com/post/2021/07/19/an-introduction-to-natural-language-processing-in-science-education/>
 
-## Select Outreach and Community Engagement
+# Public Scholarship
+
+## Articles in the Popular Press (5)
+
+Pritchard, C., Carpenter, J., & Rosenberg, J. M. (2026). Class, let’s watch a short video – more than 75% of teachers say they use YouTube in the classroom. *The Conversation*. <https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250>
+
+Rosenberg, J. M. (2021). School posts on Facebook could threaten student privacy. *The Conversation*. <https://theconversation.com/school-posts-on-facebook-could-threaten-student-privacy-160248>
+
+Rosenberg, J. M. (2020). Open-source authorship of data science in education using R. *R Views*. <https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/>
+
+Rosenberg, J. M. (2018). Opportunities for engaging students in "data practices" in online science classes. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. <https://mvlri.org/blog/opportunities-engaging-students-data-practices-online-science-classes/>
+
+Rosenberg, J. M., & Ranellucci, J. (2017). Student motivation in online science courses: A path to spending more time on course and higher achievement. *Michigan Virtual Learning Research Institute Blog: Research, Policy, Innovation & Networks*. <https://mvlri.org/blog/student-motivation-in-online-science-courses-a-path-to-spending-more-time-on-course-and-higher-achievement/>
+
+## Outreach and Community Engagement
 
 Rosenberg, J. M. (2021, August). *Tools and Strategies to Work with Data in the Science Classroom*. Knox County Schools District Learning Day. <https://bit.ly/kcs-dld>
 
 D'Angelo, C., & Rosenberg, J. M. (2021, April). *Analyzing Education Data with Open Science Best Practices, R, and OSF*. Webinar through the Center for Open Science. <https://www.youtube.com/watch?v=WxdWzTIzYmI>
+
+## Media Coverage
+
+[Class, let's watch a short video – more than 75% of teachers say they use YouTube in the classroom](https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250), *The Conversation*, August 10, 2026; republished by [Yahoo News](https://www.yahoo.com/news/us/articles/class-let-watch-short-video-140406418.html), [inkl](https://www.inkl.com/news/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom), [Inside Education](https://insideeducation.co.za/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom/), and [World.edu](https://world.edu/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom/)
+
+[Powering Innovation: Tennessee Teachers and Students Compete in Inaugural Presidential AI Challenge](https://www.aitennessee.ai/powering-innovation-tennessee-teachers-and-students-compete-in-inaugural-presidential-ai-challenge/), *AI Tennessee*, July 2026
+
+[Jeff Carpenter publishes research on teacher YouTube use](https://www.elon.edu/u/news/2026/06/25/jeff-carpenter-publishes-research-on-teacher-youtube-use/), *Elon University News*, June 25, 2026
+
+[The Textbook No District Chose: How YouTube Quietly Claimed a Fifth of American Instructional Time](https://schoolrubric.org/national-survey-youtube-instructional-use/), *School Rubric*, June 24, 2026 (also published [in Spanish](https://schoolrubric.es/encuesta-nacional-youtube-uso-instruccional))
+
+[Holtz and Rosenberg Present the Presidential AI Challenge at the Inaugural AI Tennessee Summit](https://cehhs.utk.edu/2026/04/16/holtz-and-rosenberg-present-the-presidential-ai-challenge-at-the-inaugural-ai-tennessee-summit/), *College of Education, Health, and Human Sciences News*, April 16, 2026
+
+[Tennessee students and educators rise to the Presidential AI Challenge](https://www.teknovation.biz/tennessee-students-and-educators-rise-to-the-presidential-ai-challenge/), *Teknovation.biz*, April 2026
+
+[Research Rock Stars: Joshua Rosenberg Transforms How Classrooms Use Data](https://research.utk.edu/2026/02/12/research-rock-stars-joshua-rosenberg-transforms-how-classrooms-use-data-2/), *UT Research*, February 12, 2026 (with a companion [video](https://www.youtube.com/watch?v=T5_v23s6bE4))
+
+Three-part podcast series on "Finding Your Way into Data Science Education as a Science Teacher," *K12Science Podcast*, January–February 2026
+
+[Commentary on "The Accessibility of Published Research in AERA Journals"](https://www.downes.ca/archive/25/10_09_news_OLDaily.htm), *OLDaily* (Stephen Downes), October 9, 2025
+
+[Faculty Fellow Spotlight: Josh Rosenberg](https://cecs.utk.edu/faculty-fellow-spotlight-josh-rosenberg/), *College of Emerging and Collaborative Studies*, 2025
+
+[Research connections: Science standards](https://kappanonline.org/browsing-public-perception-of-schools/), *Phi Delta Kappan*, August 2024
+
+[UT preps students for the future of artificial intelligence](https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/), *WATE 6 On Your Side*, March 23, 2023
+
+[Outsmart ChatGPT: 8 Tips for Creating Assignments It Can't Do](https://www.edweek.org/technology/outsmart-chatgpt-8-tips-for-creating-assignments-it-cant-do/2023/02), *Education Week*, February 14, 2023
+
+[Can Digital Tools Detect ChatGPT-Inspired Cheating?](https://www.edweek.org/technology/can-digital-tools-detect-chatgpt-inspired-cheating/2023/01), *Education Week*, January 27, 2023
+
+[When Does Posting Photos of Students Become a Data Privacy Problem?](https://www.edsurge.com/news/2023-01-09-when-does-posting-photos-of-students-become-a-data-privacy-problem), *EdSurge*, January 9, 2023
+
+[How School Social Media Accounts Put Student Privacy at Risk](https://www.techlearning.com/news/are-school-social-media-accounts-putting-student-privacy-at-risk), *Tech & Learning*, November 30, 2022
+
+[Professors publish playbook for how teachers can address parents concerned about CRT](https://www.foxnews.com/us/professors-publish-playbook-teachers-address-parents-concerned-crt), *Fox News*, November 13, 2022
+
+[Study: School Facebook Pages May Compromise Student Privacy](https://www.govtech.com/education/k-12/study-school-facebook-pages-may-compromise-student-privacy), *Government Technology*, November 10, 2022
+
+[Study Shows Millions of Student Privacy Breaches on Social Media](https://thejournal.com/articles/2022/11/07/study-shows-millions-of-student-privacy-breaches-on-social-media.aspx) THE Journal, November 7, 2022
+
+[School Facebook Pages and Privacy Concerns: What Educators Need to Know](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11) *Education Week*, November 2, 2022
+
+[Study: Schools' Facebook posts may violate student privacy](https://www.k12dive.com/news/facebook-posts-may-violate-student-privacy/635525/#:~:text=Dive%20Brief%3A,the%20American%20Educational%20Research%20Association.) *K-12 Dive*, November 2, 2022
+
+[Study: Schools' Social Media Posts May Be Compromising Student Privacy](https://www.aera.net/Newsroom/Study-Schools-Social-Media-Posts-May-Be-Compromising-Student-Privacy), *American Educational Research Association*, November 2, 2022
+
+[The Tricky Ethics of Being a Teacher on TikTok](https://www.wired.com/story/teachers-on-tiktok/), *Wired*, September 6, 2022
+
+[Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust](https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07), *Education Week*, July 2022
+
+[Teaching R to 7th Graders](https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/), *Flowing Data*, November 26, 2019
 
 # Teaching
 
@@ -737,15 +796,33 @@ Instructor at Michigan State University:
 
 - *Technology and Leadership* (CEP 815, M.A. class)
 
-# National Leadership and Editorial Roles
-
-Committee Member, Developing Competencies for the Future of Data and Computing: The Role of K-12, National Academies of Sciences, Engineering, and Medicine, 2024-2026
-
-Associate Editor, *Journal of Research in Science Teaching*, 2024-present
-
-Associate Editor, *Journal of Statistics and Data Science Education*, 2023-present
-
 # Service
+
+## Advisory Board and Consulting Roles
+
+2024-2026, Advisory Board Member, *A Multipronged Approach to Small-Teaching Interventions for Reducing Academic Procrastination: A Randomized Control Study via Terracotta,* NCER grant no. R305N240063. Miyake, A. (PI), Bernacki, M., Kane, M., & Snyder, H. (Co-PIs).
+
+2023-2025, Data Science Assessment Consultant, *NSF AISL: Integrating Research and Practice: Reimagining Youth Community Science through Make-and-Take Data Sensing Kits*, NSF grant no. [2314089](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314089&HistoricalAwards=false). Blikstein, P. & Perez, S. (PIs)
+
+2023-2026, Consultant, *WTG: Diffusion of Research on Supporting Mathematics Achievement for Youth with Disabilities through Twitter Translational Visual Abstracts*, Jessica Rodrigues (PI, University of Missouri), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2244734&HistoricalAwards=false>
+
+2023-2025, Advisory Board Member, *Integration of Computer-Assisted Methods and Human Interactions to Understand Lesson Plan Quality and Teaching to Advance Middle-Grade Mathematics Instruction*. Min Sun (PI). NSF Grant No. [2300291](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300291&HistoricalAwards=false).
+
+2023-2025, Advisor, *Sloan: Aligning Graduate Education and Workforce Opportunities: A Robust, Equity-Focused Landscape Scan of Computing Terminology*. Wofford, A., Perez-Felkner, L., & Staudt Willet, K. B. (PIs). Funded by Alfred P. Sloan Foundation.
+
+2023-2025, Consultant, *Forschen mit epistemischer Unsicherheit Lernen (Project FEUL)* (Learning to do investigations with epistemic uncertainty), Marcus Kubsch (PI; IPN - Leibniz Institute, Kiel, Germany), Joachim Herz Foundation
+
+2022-2027, Advisory Board Member, *Collaborative Research: Enhancing Data Science and Statistics Teacher Education--Transforming and Building Community*, Hollylynne Lee (PI; North Carolina State University), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141727&HistoricalAwards=false>
+
+2022-2025, Advisory Board Member, *A Learning Ecosystem for Teaching High School Students Machine Learning Concepts and Data Science Skills in Healthcare and Medicine*, Kathryn Eller (PI; East Bay Educational Collaborative), National Science Foundation. <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148451&HistoricalAwards=false>
+
+2022-2025, Advisory Board Member, *Mathematizing, Visualizing, and Power (MVP): Appalachian youth becoming data artists for community learning*, Lynn Hodge (PI), National Science Foundation, <https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215004&HistoricalAwards=false>
+
+2022-2024, Participating Faculty, *Bayesian Thinking in STEM*, (NSF Grant No. [2215879](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2215879&HistoricalAwards=false)), <https://www.stat.uci.edu/bayes-bats/>
+
+2021-2026, Advisory Board Member, *SEER Research Network for Digital Learning Platforms*, Jeremy Roschelle (PI; Digital Promise), Institute for Education Sciences, Digital Learning Platforms to Enable Efficient Education Research Network
+
+2021-2022, Lead STEM Education Consultant, *Supporting Students' Meaningful Engagement With Data From Small Orbiting Satellites*, Art Palisoc (PI), STEM Ed LLC, NSF Phase I SBIR, *STEM Experiments and Games in Low Earth Orbit – Making STEM Learning Fun*
 
 ## Editorial Service
 
@@ -758,10 +835,6 @@ Editorial Review Board Member, *Journal of Research on Technology in Education*,
 Editorial Review Board Member, *Journal of Research in Science Teaching*, 2019-2022
 
 Editorial Review Board Member, *Contemporary Issues in Technology and Teacher Education (Science Education Section)*, 2019-2022
-
-Special Section Editor, *British Journal of Educational Technology*, 2022
-
-Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
 
 ## Service to the Profession
 
@@ -819,10 +892,6 @@ Reviewer, Proposals from Knox County Schools students for the NASA Student Space
 
 ## University Service
 
-2023-2025, Faculty Lead, Data Science Curriculum Committee, College of Emerging and Collaborative Studies, UTK
-
-2022-2023, AI Visioning Working Group (Co-Chair, Education Committee), AI Tennessee Initiative, UTK
-
 2021-2023, Data Science Faculty Committee member, UTK
 
 ## College-Level Service
@@ -877,11 +946,9 @@ Postdoctoral Mentoring:
 
 - 2023: Maryrose Weatherton (Faculty Mentor, SEC Emerging Scholars Program Postdoctoral Researcher)
 
-## Visiting Scholars Hosted
+# Professional Development
 
-I have hosted several guest scholars, including Gregor Benz (Technical University of Munich, Germany) and Matthias Fischer (Heidelberg University, Germany).
-
-# Invited Participation in Workshops and Working Groups
+## Invited Workshops and Working Groups
 
 Invited Participant, *Scoping Workshop on Future of Science Education Research in Times of Artificial Intelligence*, Hannover, Germany, 2025
 
@@ -897,63 +964,15 @@ Invited Participant, *New applications of social network analysis to education p
 
 Invited Participant, *Data4Kids: Virtually teaching kids about data science*, Urban Institute, 2021
 
-# Competitive Research Training
+## Competitive Research Training
 
 Early Career Workshop, International Conference of the Learning Sciences, 2020
 
 New Faculty Mentoring Program, AERA Division C, 2019
 
-# Media Coverage
+## Visiting Scholars Hosted
 
-[Class, let's watch a short video – more than 75% of teachers say they use YouTube in the classroom](https://theconversation.com/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom-288250), *The Conversation*, August 2026; republished by [Yahoo News](https://www.yahoo.com/news/us/articles/class-let-watch-short-video-140406418.html), [inkl](https://www.inkl.com/news/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom), and [Inside Education](https://insideeducation.co.za/class-lets-watch-a-short-video-more-than-75-of-teachers-say-they-use-youtube-in-the-classroom/)
-
-[Powering Innovation: Tennessee Teachers and Students Compete in Inaugural Presidential AI Challenge](https://www.aitennessee.ai/powering-innovation-tennessee-teachers-and-students-compete-in-inaugural-presidential-ai-challenge/), *AI Tennessee*, July 2026
-
-[Jeff Carpenter publishes research on teacher YouTube use](https://www.elon.edu/u/news/2026/06/25/jeff-carpenter-publishes-research-on-teacher-youtube-use/), *Elon University News*, June 25, 2026
-
-[The Textbook No District Chose: How YouTube Quietly Claimed a Fifth of American Instructional Time](https://schoolrubric.org/national-survey-youtube-instructional-use/), *School Rubric*, June 2026 (also published [in Spanish](https://schoolrubric.es/encuesta-nacional-youtube-uso-instruccional))
-
-[Holtz and Rosenberg Present the Presidential AI Challenge at the Inaugural AI Tennessee Summit](https://cehhs.utk.edu/2026/04/16/holtz-and-rosenberg-present-the-presidential-ai-challenge-at-the-inaugural-ai-tennessee-summit/), *College of Education, Health, and Human Sciences News*, April 16, 2026
-
-[Tennessee students and educators rise to the Presidential AI Challenge](https://www.teknovation.biz/tennessee-students-and-educators-rise-to-the-presidential-ai-challenge/), *Teknovation.biz*, April 2026
-
-[Research Rock Stars: Joshua Rosenberg Transforms How Classrooms Use Data](https://research.utk.edu/2026/02/12/research-rock-stars-joshua-rosenberg-transforms-how-classrooms-use-data-2/), *UT Research*, February 12, 2026 (with a companion [video](https://www.youtube.com/watch?v=T5_v23s6bE4))
-
-Three-part podcast series on "Finding Your Way into Data Science Education as a Science Teacher," *K12Science Podcast*, January–February 2026
-
-[Commentary on "The Accessibility of Published Research in AERA Journals"](https://www.downes.ca/archive/25/10_09_news_OLDaily.htm), *OLDaily* (Stephen Downes), October 9, 2025
-
-[Faculty Fellow Spotlight: Josh Rosenberg](https://cecs.utk.edu/faculty-fellow-spotlight-josh-rosenberg/), *College of Emerging and Collaborative Studies*, 2025
-
-[Research connections: Science standards](https://kappanonline.org/browsing-public-perception-of-schools/), *Phi Delta Kappan*, August 2024
-
-[UT preps students for the future of artificial intelligence](https://www.wate.com/news/education-schools/ut-preparing-students-for-ai/), *WATE 6 On Your Side*, March 23, 2023
-
-[Outsmart ChatGPT: 8 Tips for Creating Assignments It Can't Do](https://www.edweek.org/technology/outsmart-chatgpt-8-tips-for-creating-assignments-it-cant-do/2023/02), *Education Week*, February 14, 2023
-
-[Can Digital Tools Detect ChatGPT-Inspired Cheating?](https://www.edweek.org/technology/can-digital-tools-detect-chatgpt-inspired-cheating/2023/01), *Education Week*, January 27, 2023
-
-[When Does Posting Photos of Students Become a Data Privacy Problem?](https://www.edsurge.com/news/2023-01-09-when-does-posting-photos-of-students-become-a-data-privacy-problem), *EdSurge*, January 9, 2023
-
-[How School Social Media Accounts Put Student Privacy at Risk](https://www.techlearning.com/news/are-school-social-media-accounts-putting-student-privacy-at-risk), *Tech & Learning*, November 30, 2022
-
-[Professors publish playbook for how teachers can address parents concerned about CRT](https://www.foxnews.com/us/professors-publish-playbook-teachers-address-parents-concerned-crt), *Fox News*, November 13, 2022
-
-[Study: School Facebook Pages May Compromise Student Privacy](https://www.govtech.com/education/k-12/study-school-facebook-pages-may-compromise-student-privacy), *Government Technology*, November 10, 2022
-
-[Study Shows Millions of Student Privacy Breaches on Social Media](https://thejournal.com/articles/2022/11/07/study-shows-millions-of-student-privacy-breaches-on-social-media.aspx) THE Journal, November 7, 2022
-
-[School Facebook Pages and Privacy Concerns: What Educators Need to Know](https://www.edweek.org/technology/school-facebook-pages-and-privacy-concerns-what-educators-need-to-know/2022/11) *Education Week*, November 2, 2022
-
-[Study: Schools' Facebook posts may violate student privacy](https://www.k12dive.com/news/facebook-posts-may-violate-student-privacy/635525/#:~:text=Dive%20Brief%3A,the%20American%20Educational%20Research%20Association.) *K-12 Dive*, November 2, 2022
-
-[Study: Schools' Social Media Posts May Be Compromising Student Privacy](https://www.aera.net/Newsroom/Study-Schools-Social-Media-Posts-May-Be-Compromising-Student-Privacy), *American Educational Research Association*, November 2, 2022
-
-[The Tricky Ethics of Being a Teacher on TikTok](https://www.wired.com/story/teachers-on-tiktok/), *Wired*, September 6, 2022
-
-[Teaching Students to Understand the Uncertainties of Science Could Help Build Public Trust](https://www.edweek.org/teaching-learning/teaching-students-to-understand-the-uncertainties-of-science-could-help-build-public-trust/2022/07), *Education Week*, July 2022
-
-[Teaching R to 7th Graders](https://flowingdata.com/2019/11/26/teaching-r-to-7th-graders/), *Flowing Data*, November 26, 2019
+I have hosted several guest scholars, including Gregor Benz (Technical University of Munich, Germany) and Matthias Fischer (Heidelberg University, Germany).
 
 # Professional Affiliations
 
