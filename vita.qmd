@@ -14,11 +14,11 @@ The University of Tennessee, Knoxville\
 513 Claxton, 1122 Volunteer Blvd., Knoxville, TN 37996\
 jrosenb8\@utk.edu\
 865-974-5973\
-<https://joshuamrosenberg.com> · ORCID: [0000-0003-2170-0447](https://orcid.org/0000-0003-2170-0447) · [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ) · [GitHub](https://github.com/jrosen48)
+<https://joshuamrosenberg.com> · [Google Scholar](https://scholar.google.com/citations?user=nxVowRQAAAAJ) · [GitHub](https://github.com/jrosen48)
 
 # Scholarly Interests
 
-- Educational data science
+- Education data science
 - Educational technologies
 - Science teacher education
 
@@ -105,7 +105,7 @@ Faculty Fellow, Education Research & Opportunity Center, University of Tennessee
 2026-present, Program Area Director, Computing, AI, and Data in Education (CADE)\
 Department of Theory and Practice in Teacher Education, University of Tennessee, Knoxville
 
-2023-2026, Coordinator, Graduate Certificate Program in Educational Data Science, 
+2023-2026, Coordinator, Graduate Certificate Program in Educational Data Science,
 
 2026-present, Co-Director (with Dr. Emily Holtz), [AI, Data, and Educational Partnerships at the University of Tennessee (ADEPT) Center](https://cehhs.utk.edu/tpte/research-and-engaged-scholarship/centers/adept/)\
 University of Tennessee, Knoxville
@@ -129,9 +129,7 @@ Associate Editor, *Journal of Statistics and Data Science Education*, 2023-prese
 
 Special Section Editor, *British Journal of Educational Technology*, 2022
 
-Special Issue Editor, *Australasian Journal of Educational Technology*, 2017
-
-# Awards
+Special Issue Editor, *Australasian Journal of Educational Technology*, 2017 git \# Awards
 
 2025, College of Emerging and Collaborative Studies, Champion of the Year (External Member), University of Tennessee, Knoxville
 
@@ -270,7 +268,7 @@ n_awards  <- nrow(grants)
 
 ## Scholarly Authored Books (3)
 
-Jones, R. S., Rosenberg, J. M., & Boles, K. (under contract). *Teaching Data Investigations to K-12 Learners: A Field Guide for Educators.* Routledge.
+Jones, R. S., Rosenberg, J. M., & Boles, K. (under contract). *Teaching Data Investigations to K-12 Learners: A Guide for Educators.* Routledge.
 
 Wang, W., Akcaoglu, M., Rosenberg, J. M., & Kellogg, S. (under contract, anticipated publication late 2026). *Computational Analysis of Educational Data: A Field Guide Using R.* CRC Press.
 

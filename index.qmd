@@ -5,7 +5,7 @@ format-links: false
 
 Welcome! I am Haslam Family Professor and Associate Professor of STEM Education at the University of Tennessee, Knoxville. I study the use of data in education, especially in STEM education.
 
-![](images/seds-keynote.jpeg){fig-align="center" width="400"}
+![](images/seds-keynote.jpeg){fig-align="center" width="451"}
 
 **Links/Resources/Affiliations**
 
