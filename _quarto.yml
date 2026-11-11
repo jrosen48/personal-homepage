@@ -10,14 +10,10 @@ website:
         text: Home
       - href: research.qmd
         text: Research
-      - href: publications.qmd
-        text: Publications
       - href: vita.html
         text: Vita
       - href: about.qmd
         text: About
-      - href: photography.qmd
-        text: Photography
 
 format:
   html:

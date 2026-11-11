@@ -251,11 +251,15 @@ Estrellado, R. A., Freer, E. A., Mostipak, J., Rosenberg, J. M., & Velásquez, I
 
 Rosenberg, K., & Rosenberg, J. M. (in press, to be published February 2027). *Hiking Knoxville: Family Friendly Adventures from the City to the Smokies*. UT Press. <https://utpress.org/9798895274262/hiking-knoxville/>
 
-## Articles in Press
+## Articles Published in Refereed Journals (71)
 
-+Wang, W., +Pritchard, C., & Rosenberg, J.M. (in press). Analyzing Educational Video Transcripts with LLMs: Accuracy, Named Entities, and Interpretability. *Journal of Educational Data Mining*.
+Wang, W., Pritchard, C., & Rosenberg, J. (2026). Analyzing Educational Video Transcripts with LLMs: Accuracy, Named Entities, and Interpretability. *Journal of Educational Data Mining*, *18*(2), 143-168.
 
-## Articles Published in Refereed Journals (67)
+Bao, H., Wang, Z., Li, Y., Rosenberg, J. M., & Wong, R. M. (2026). The expanding landscape of robotics education: a Teachers Pay Teachers resource analysis. *Educational Media International*, 1-19.
+
+Pritchard, C., Carpenter, J. P., & Rosenberg, J. M. (2026). The hidden curriculum of YouTube’s algorithmic infrastructure: how teachers navigate, perceive, and select video instructional resources. *Learning, Media and Technology*, 1-21.
+
+Demirci, S., Doğucu, M., Zieffler, A., & Rosenberg, J. M. (2027). Understanding pedagogical content knowledge of introductory data science instructors: An inaugural framework. *Teaching and Teacher Education, 185*. <https://doi.org/10.1016/j.tate.2026.105909>
 
 Morina, F., Fütterer, T., Carpenter, J., Rosenberg, J. M., & Fischer, C. (2026). Unlocking the Potential of Resources: An Examination of Sharing and Uptake signs in Educational Online Communities. *Computers & Education*, 105703. <https://doi.org/10.1016/j.compedu.2026.105703>
 
